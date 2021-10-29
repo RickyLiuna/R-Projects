@@ -1,0 +1,114 @@
+---
+title: "Project 1 interrogation by Group 18"
+author: "Rohan Dixit(500457896); Xiaoqing Chen(470339824); Ricky Liuna(460400301); Zirong Wen(490599329)"
+subtitle: "Interrogating Group 9"
+date: "University of Sydney | MATH1115 | 10/2021 | Group 18"
+output:
+  html_document:
+    code_download: true # embed .Rmd file
+    code_folding: 'hide'
+    toc: true  # table of contents
+    toc_depth: 3
+    toc_float: true # toc is always visible when scrolled
+    number_sections: false 
+    df_print: paged # format data frame outputs automatically
+    theme: sandstone # theme the doc
+    highlight: tango # theme syntax colouring
+---
+
+```{css newstyles, echo=FALSE}
+body {
+  color: black;
+}
+```
+
+# Full Report
+
+In this report, Group18 decided to interrogate Group 9's previous works, providing additional commentary on one of their research questions and additionally examining one new question.
+
+```{r, results=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(ggplot2)
+library(janitor)
+library(reshape2)
+library(scales)
+library(plotly)
+
+
+#Uploading Data. 
+#Changed the path according to ur folder structure on ur desktop !!!!!!!!!
+school = read.csv("~/Desktop/MATH1115/Interrogation/9_143619_19412763_school copy.csv")
+ 
+old_names = colnames(school)
+school2 = school%>%
+  janitor::clean_names()
+new_names = colnames(school)                            
+glimpse(school2)
+
+```
+
+## Research Question 1 - Extra Insight
+
+**What schools are the most likely to enroll a higher percentage of Aboriginal students (Note: three types of schools?)**
+
+```{r, message=FALSE, warning=FALSE}
+
+school3=school2%>%
+      mutate(other_enrolments=abs(total_enrolments-indigenous_enrolments))%>%
+      select(school_sector,indigenous_enrolments, other_enrolments)
+#melt wide into long format
+school3=melt(school3, id.var="school_sector")
+
+school3%>%
+  ggplot()+
+  #aes(fill=variable , x=school_sector  , y= value)+
+  aes(fill=variable , x=school_sector  , y= value)+
+  geom_bar(position="fill",stat="identity" )+ #position=none means count, dodge means next to each other, fill means %
+  labs(x = "School Sector",
+       y = "% Enrolment")+
+  theme(axis.text.x=element_text(angle=0,size=12,vjust=0.5))+
+  scale_y_continuous(labels = percent)+
+  ggtitle("Aboriginal Students Enrolment based on School Sectors")+
+  theme(plot.title = element_text(hjust = 0.5))+
+  scale_fill_discrete(labels = c("Aboriginal","Others"))
+
+```
+
+The barplot above shows that the Aboriginal enrollment in Independent School is the highest followed by Government School with 1.24% and 1.03% respectively. Catholic School has the lowest number of Aboriginal enrollment with only 0.51% which is only half of the Independent and Government rate. 
+
+This bar plot allows for a more visual side by side comparison of the rates of Aboriginal enrollment (over group 9's) and as such portrays a more clear distinction of the noticeable 0.73% variation in enrollment between the highest and lowest rates and facilitates the question around if any other such imbalances occur in our educational system. One must consider if these imbalances occur during to natural fluctuations or due to more systematic reasons and as such further examination of our educational system must occur.
+
+
+## Research Question 2 - New Insight
+
+**Is there any gender imbalance in terms of school enrollments across different states in Australia?**
+
+```{r, message=FALSE, warning=FALSE}
+school4=school2%>%
+        select(state, boys_enrolments,girls_enrolments)
+
+school4=melt(school4, id.var="state")
+
+school4%>%
+  ggplot()+
+  aes(fill=variable , x=variable , y= value)+
+  geom_bar(position="dodge",stat="identity" )+
+  labs(x = "State",
+       y = "No. of Enrolment")+
+  theme(axis.text.x=element_text(angle=0,size=9,vjust=0.5))+
+  ggtitle("Enrollment based on Gender Comparison in different AU States")+
+  theme(plot.title = element_text(hjust = 0.5))+
+  facet_wrap(~state,scales = "free")+
+  scale_fill_discrete(labels = c("Boys","Girls"))+
+  scale_x_discrete(labels= c("Boys","Girls"))+
+  scale_fill_manual("legend",values = c("boys_enrolments" = "light blue", "girls_enrolments" = "light pink"))
+  
+```
+
+As such, to determine if such natural fluctuations occur in other factors, from the assortment of comparisons above it can bee seen that in Victoria, Queensland, NSW and South Australia, the number of boys enrolled into school is significantly higher than girls.
+
+On the other hand, ACT, Northern Territory exhibit opposite trend where the number of girls school enrollment exceed the boys and as such presents us with a inconsistent Australia wide trend - which is expected.
+
+Lastly, in Western Australia and Tasmania, there is no significance difference in gender enrolled into school and displays and even distributuion withtin the academic enrollment figures.
+
+As such, through the new examination of gender and its distribution within schools, one may come to the realisation that despite there existing a clear visual imbalance in the majority of states, this imbalance is caused naturally due to fluctuations in context and environments and is not a representation of bias or unjust schooling enrollment habits. The consistency in the natural fluctuations found in the examination of aboriginal enrollment as well as gender based enrollment provides us with a new profiund understanding of the Australian enrollment system for Education.

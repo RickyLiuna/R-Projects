@@ -1,8 +1,8 @@
 ---
-title: "DATA2002 Report"
-author: "Ricky Liuna (460400301)"
-subtitle: "Assignment 1"
-date: "University of Sydney | DATA2002 | September 2021"
+title: "Project 1 Report"
+author: "Ricky Liuna"
+subtitle: " Project 1"
+date: "University of Sydney"
 output:
   html_document:
     code_download: true # embed .Rmd file
@@ -36,8 +36,8 @@ library(knitr)
 
 ## Introduction
 
-The survey was initiated and the dataset was collected by the lecturer in charge as part of DATA2002 first assessment.
-The survey target is all students enrolled in DATA20X2 in semester 2, 2021 and conducted through online platform.
+The survey was initiated and the dataset was collected by the lecturer in charge as part of first project.
+The survey target is all students enrolled and conducted through online platform.
 Some missing values represented by N/A, and they may occur due to intentionally left blank by the respondents or corrupted file.
 The students asked by questions such as handedness, gender, social media account, height, salary expectation, etc.
 The narrative story in this report constructed based on my interest in issues related to the landscape of the future data science industry such as gender imbalance, sufficiency of quantitative skill, and proficiency with statistical tools like R measured at university level.

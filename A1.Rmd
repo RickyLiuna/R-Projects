@@ -1,0 +1,381 @@
+---
+title: "DATA2002 Report"
+author: "Ricky Liuna (460400301)"
+subtitle: "Assignment 1"
+date: "University of Sydney | DATA2002 | September 2021"
+output:
+  html_document:
+    code_download: true # embed .Rmd file
+    code_folding: 'hide'
+    toc: true  # table of contents
+    toc_depth: 3
+    toc_float: true # toc is always visible when scrolled
+    number_sections: false 
+    df_print: paged # format data frame outputs automatically
+    theme: sandstone # theme the doc
+    highlight: tango # theme syntax colouring
+---
+
+```{css newstyles, echo=FALSE}
+body {
+  color: black;
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(gt)
+library(ggplot2)
+library(dplyr)
+library(gendercoder)
+library(knitr)
+```
+
+# Full Report
+
+## Introduction
+
+The survey was initiated and the dataset was collected by the lecturer in charge as part of DATA2002 first assessment.
+The survey target is all students enrolled in DATA20X2 in semester 2, 2021 and conducted through online platform.
+Some missing values represented by N/A, and they may occur due to intentionally left blank by the respondents or corrupted file.
+The students asked by questions such as handedness, gender, social media account, height, salary expectation, etc.
+The narrative story in this report constructed based on my interest in issues related to the landscape of the future data science industry such as gender imbalance, sufficiency of quantitative skill, and proficiency with statistical tools like R measured at university level.
+This report will answer some general questions and address my interests through research questions in forms such as wide range of visualizations,hypothesis testing and statistical analysis.
+
+In this report, the data was collected through online survey where the students can participate "voluntarily", so that the sample method does not represent a random sample of student. Due to this reason, the potential biases such as selection bias and response biases arise. For example, students tend to overestimate or underestimate time spend on exercises, math and r ability, stress and lonely which lead to response bias. Voluntarily joined the survey study leads to selection bias. Some improvements on the questions related to variables such as height, salary can be done by standardized unit of measurement such as cm or foot on height, and using $ and p.a on salary. 
+
+## General Data Cleaning
+```{r, message=FALSE, warning=FALSE}
+#url = "https://docs.google.com/spreadsheets/d/1-DmA1UUM6QmZyucYiutuZX4Q0omtSCDwSOCNzHibkto/export?format=csv"
+survey = readr::read_csv("~/Desktop/DATA2002/Report/DATA2x02_survey.csv")
+# colnames(survey) %>%
+#   tibble() %>%
+#   gt::gt()
+
+#Rename the column names so that they are more manageable to program with.
+questions = colnames(survey)
+short_names = c("time","covid_tests","living_arrangements","height",
+                "wednesday","in_aus","math_ability","r_ability",
+                "data2002","year","webcam","vaccination","social_media",
+                "gender","steak_preference","dominant_hand","stress",
+                "lonely","emails","sign_off","salary","unit","major","exercise")
+colnames(survey) = short_names
+
+#Gender cleaning 
+survey = survey %>% 
+  mutate(gender_clean = gendercoder::recode_gender(gender))
+
+#survey2 %>% janitor::tabyl(gender,gender_clean)
+#table(survey2$gender_clean)
+```
+
+
+
+
+## Research Question 1
+
+**Does the number of COVID tests a student has taken in the past two months follow a Poisson distribution?**
+
+Data cleaning for variable COVID tests:
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+survey6=survey%>%
+        select(covid_tests)%>%
+        tidyr::drop_na()
+y=survey6$covid_tests
+n=length(y)
+observed_covidtests = table(y)
+```
+
+Because Lambda is unknown, it is estimated from the sample mean.
+```{r ,message=FALSE, warning=FALSE}
+(lam=mean(y))
+```
+
+Finding expected cell counts
+```{r ,message=FALSE, warning=FALSE, results= FALSE}
+hyp_probs = c(dpois(0:9, lam), ppois(9, lam, lower.tail = FALSE))
+expected_covidtests = n * hyp_probs
+round(expected_covidtests, 2)
+```
+
+Plot expected vs actual cell counts
+```{r ,message=FALSE, warning=FALSE}
+covidtests_df = tibble(y= 0:10, hyp_probs, expected_covidtests, observed_covidtests = c(124,40, 16, 4, 5, 9, 1, 1, 4, 0, 2))
+covidtests_df %>%
+    ggplot() + aes(x = y) + geom_col(aes(y = observed_covidtests), alpha = 0.5) +
+    geom_point(aes(y = expected_covidtests), col = "red")
+```
+
+
+Re-arrangement categories into smaller chunks
+```{r ,message=FALSE, warning=FALSE}
+covidtests_combo = covidtests_df %>%
+    slice(4:n()) %>%
+    mutate(y = "3+") %>%
+    group_by(y) %>%
+    summarise(across(where(is.numeric), sum))
+covidtests_df2 = covidtests_df %>%
+    slice(1:3) %>%
+    mutate(y = as.character(y)) %>%
+    bind_rows(covidtests_combo)
+covidtests_df2 %>%
+    gt::gt() %>%
+    gt::fmt_number(columns = 2, decimals = 3) %>%
+    gt::fmt_number(columns = 3, decimals = 1)
+```
+
+
+The chi-squared goodness-of-fit test is:
+
+1.Hypothesis
+
+$H_0:$ the number of COVID tests completed by the students follow a Poisson distribution.
+
+$H_1:$ the number of COVID tests completed by the students does not follow a Poisson distribution.
+
+2.Assumption: $e_i = np_i ≥ 5$.
+```{r ,message=FALSE, warning=FALSE}
+all(covidtests_df2$expected_covidtests>=5)
+```
+
+3.Test statistic: $T = \sum_{i=1}^k \frac{(Y_i-e_i)^2}{e_i}$. Under $H_0$, $T \sim \chi_2^2$ approx. Degree of freedom is 4-1-1 = 2.
+
+4.Observed test statistic: $t_0 = 68.179689$
+```{r ,message=FALSE, warning=FALSE}
+covidtests_df2 = covidtests_df2 %>%
+    mutate(chi_sq = (observed_covidtests - expected_covidtests)^2/expected_covidtests)
+t0 = covidtests_df2 %>%
+    pull(chi_sq) %>%
+    sum()
+t0
+```
+
+5.p-value: $P(\chi_2^2 ≥ 68.179) =1.554312e-15$
+```{r ,message=FALSE, warning=FALSE}
+1 - pchisq(t0, df = 2)
+```
+
+6.Using chisq() function in R
+```{r ,message=FALSE, warning=FALSE}
+chisq.test(x = covidtests_df2$observed_covidtests, p = covidtests_df2$hyp_probs)
+```
+
+7.Decision: Since the p value is (much) smaller than 0.05 we reject the null hypothesis. Hence, there is a strong evidence in the data against null hypothesis.It can be concluded that the COVID test data does not follow Poisson Distribution.
+
+## Research Question 2
+
+**Is the proportion of Female enrollment in DATA2X02 15%**
+
+An independent study from BCG conducted by Duranton et. al. (2020) found that there is a lack of gender diversity in data science industry resulting approximately only 15% of data scientist is female.
+I am particularly interested to investigate further the findings from BCG, by exploring further the proportion of aspiring future female data scientist enrolled in DATA2X02 with Chi-squared test at 5% level of significance.
+
+Data cleaning for variable Gender
+```{r ,message=FALSE, warning=FALSE}
+survey3=survey%>%
+        select(gender_clean)%>%
+        tidyr::drop_na()%>%
+        slice(-56)
+knitr::kable(table(survey3))
+```
+
+Preliminary calculation
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+y_i=c(74,129)
+p_i=c(0.15,0.85)
+n=sum(y_i)
+e_i=n*p_i
+```
+
+The chi-squared goodness-of-fit test is:
+
+1.Hypotheses: $H_0 : p_1 = 0.15, p_2 = 0.85$ vs $H_1$: at least one of the equalities does not hold.
+
+2.Assumption: $e_i = np_i ≥ 5$.
+```{r ,message=FALSE, warning=FALSE}
+#Checking assumption of Chi-Squared test
+all(e_i>=5)
+```
+
+3.Test statistic: $T = \sum_{i=1}^k \frac{(Y_i-e_i)^2}{e_i}$. Under $H_0$, $T \sim \chi_1^2$ approx. Degree of freedom is 2-1 = 1.
+
+4.Observed test statistic: $t_0 = 73.277$
+```{r ,message=FALSE, warning=FALSE}
+#t-statistics
+obs=as.vector(table(survey3$gender_clean))
+t0=sum((obs-e_i)^2/e_i)
+t0
+
+```
+5.p-value: $P(\chi_1^2 ≥ 73.277) = 1.1265e-17$
+```{r ,message=FALSE, warning=FALSE}
+#p-value
+pval = pchisq(t0, 1, lower.tail = FALSE)
+pval
+```
+
+6.Using chisq() function in R
+```{r ,message=FALSE, warning=FALSE}
+#Chisq test
+
+chisq.test(y_i, p = p_i)
+```
+
+7.Decision: Since the p value is (much) smaller than 0.05 we reject the null hypothesis. Hence, there is a strong evidence in the data against null hypothesis.It can be concluded that the proportion of female students enrolled in DATA20x2 is not 15%.
+
+## Research Question 3
+
+**Is the average R programming skill below 5?**
+
+R programming proficiency is a must have skill for Data Scientists in their arsenal if they want to success in this field.
+According to ProjectPro (2021), a 2013 survey result from Rexer Analytics show that R programming is the most favorite tool for conducting statistical analytics.
+Based on above explanation, I am interested in analyzing the average level of R skill of DATA2X02 students that are expected to be in the Data Science workforce in the next couple of years with one-way t-test at 5% significance level.
+
+Data cleaning for variable R Ability
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+survey4=survey%>%
+        select(r_ability)%>%
+        tidyr::drop_na()
+```
+
+The t-test of mean is:
+
+1.Hypotheses: $H_0: \mu = 5$ v.s. $H_1: \mu < 5$
+
+2.Assumptions: $X_i$ are iid rv (independent and identically distributed random variables) and follow $N(\mu,\sigma^2)$.
+
+We can check for the normality assumption using a boxplot (looking for symmetry) or a normal quantile-quantile plot (looking for the points being close to the straight line).
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+
+#Normality assumption
+par(mfrow = c(1, 2))
+boxplot(survey4$r_ability, horizontal=TRUE,
+        xlab="R Programming Ability (count)")
+qqnorm(survey4$r_ability);qqline(survey4$r_ability)
+```
+
+There’s some indication of minor skewness in the boxplot and QQ plot, but it’s insignificant, so we can say the normality assumption is approximately satisfied.
+
+3.Test statistic: $T =  \frac{\bar{X}-\mu_0}{S/\sqrt{n}}$. Under $H_0$, $T \sim t_{n-1}$ approx. Degree of freedom is 210-1 = 209.
+
+
+4.Observed test statistic: -0.476455
+```{r ,message=FALSE, warning=FALSE}
+#calculate t-statistics:
+t0 = (mean(survey4$r_ability) - 5)/(sd(survey4$r_ability)/sqrt(length(survey4$r_ability)))
+t0
+```
+
+5.P-value: 0.3171
+```{r, message=FALSE, warning=FALSE}
+pval=pt(t0, length(survey4$r_ability)-1)
+pval
+
+```
+
+6.The critical value at the 5% level of significance is 1.652.
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+#generate critical value
+qt(c(0.9, 0.95, 0.975),210 )
+```
+
+7.Perform the test in R using the `t.test()` function.
+```{r ,message=FALSE, warning=FALSE}
+t.test(survey4$r_ability, mu=5, alternative="less")
+```
+
+8.Decision: Do not reject $H_0$ in favor of $H_1$ as the p-value is larger than 0.05. It can be concluded that the average level of R proficiency of DATA20X2 is not less than 5 or moderate level.
+
+
+## Research Question 4
+
+**Is the average mathematics skill above 6?**
+
+Because Data Science major is part of Department of Mathematics and Statistics, I believe students have to get a solid background in mathematics in order to do well throughout their data science journey.
+Galagadera,Woodward, and Degamboda (1999, p.680) stated that students with a good mathematical background tend to perform well in elementary statistics and the reverse is also true.
+Due to this reason, I am interested to explore further with one-way t-test on how sufficient average level of mathematics skill of DATA2X02 students where they are expected to join data science filed in the future at 5% significance level.
+
+Data cleaning for variable Math Ability
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+survey5=survey%>%
+        select(math_ability)%>%
+        tidyr::drop_na()
+```
+
+The t-test of mean is:
+
+1.Hypotheses: $H_0: \mu = 6$ v.s. $H_1: \mu > 6$
+
+2.Assumptions: $X_i$ are iid rv (independent and identically distributed random variables) and follow $N(\mu,\sigma^2)$.
+
+We can check for the normality assumption using a boxplot (looking for symmetry) or a normal quantile-quantile plot (looking for the points being close to the straight line).
+
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+#Normality Test
+par(mfrow = c(1, 2))
+boxplot(survey5$math_ability, horizontal=TRUE,
+        xlab="Mathematical Ability(count)")
+qqnorm(survey5$math_ability);qqline(survey5$math_ability)
+```
+
+There’s some indication of skewness in the boxplot and QQ plot, but it’s not too bad, so we can say the normality assumption is approximately satisfied.
+
+3.Test statistic: $T =  \frac{\bar{X}-\mu_0}{S/\sqrt{n}}$. Under $H_0$, $T \sim t_{n-1}$ approx. Degree of freedom is 210-1 = 209.
+
+
+4.Observed test statistic: 4.9407
+```{r ,message=FALSE, warning=FALSE}
+#calculate t-statistics:
+t0 = (mean(survey5$math_ability) - 6)/(sd(survey5$math_ability)/sqrt(length(survey5$math_ability)))
+t0
+```
+
+5.P-value:7.963364e-07
+```{r, message=FALSE, warning=FALSE}
+pval=pt(t0, length(survey5$math_ability) -1, lower.tail=FALSE)
+pval
+```
+
+6.The critical value at the 5% level of significance is 1.6521.
+```{r ,message=FALSE, warning=FALSE, results=FALSE}
+#generate critical value
+qt(c(0.9, 0.95, 0.975),210 )
+```
+
+7.Perform the test in R using the `t.test()` function.
+```{r ,message=FALSE, warning=FALSE}
+t.test(survey5$math_ability, mu=6, alternative="greater")
+```
+
+8.Decision:Reject $H_0$ in favor of $H_1$ as the p-value is much smaller than 0.05. It can be concluded that the average level of mathematics ability of DATA20X2 is more than 6 or moderate to strong level.
+
+
+## Conclusion & Limitations
+
+In conclusion, the results shows that the proportion of female student enrolled in one of data science courses which is DATA20x2 is not 15%, but 36.5% almost doubled BCG research. From this result, it is expected that gender gap in data science industry would be smaller. The test on average R programming skill shows that the average R proficiency is around 5(moderate) which is a good indicator that DATA2X02 students are confident enough to handle analytics issue with modern statistical approach & tool. From the test on math ability, it was found that students in DATA20x2 are expecting themselves to have average beyond 6 (moderate to strong) and this result give a strong signal that DATA2X02 students are able to face challenges in quantitative part of data science in their future journey.
+
+Limitations in the dataset include data encoding especially in gender that has non-binary value after cleaning. Another limitation includes associate information not available such as type of exercise (outdoor or indoor) and (group or individual) that associated with exercise time. Another example,frequency of steak consumption in a certain period of time (once or twice fortnightly) and wine companion (red or white) in addition to cooked preference.
+
+## References
+
+```{r, include = FALSE}
+citation("tidyverse")
+citation("janitor")
+citation("gendercoder")
+citation("knitr")
+citation("ggplot2")
+citation("dplyr")
+```
+
+- Hadley Wickham, Romain François, Lionel Henry and Kirill Müller (2021). dplyr: A Grammar of Data Manipulation. R package version 1.0.7. https://CRAN.R-project.org/package=dplyr
+- H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
+- Yihui Xie (2015) Dynamic Documents with R and knitr. 2nd edition. Chapman and Hall/CRC. ISBN 978-1498716963
+- Jennifer Beaudry, Emily Kothe, Felix Singleton Thorn, Rhydwyn McGuire, Nicholas Tierney and Mathew Ling (2021). gendercoder: Recodes Sex/Gender Descriptions Into A Standard Set. R
+  package version 0.0.0.9000. https://github.com/ropenscilabs/gendercoder
+- Sam Firke (2021). janitor: Simple Tools for Examining and Cleaning Dirty Data. R package version 2.1.0. https://CRAN.R-project.org/package=janitor
+- Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686, https://doi.org/10.21105/joss.01686
+- Galagedera, D., Woodward, G., Degamboda, S. (2000). An investigation of how perceptions of mathematics ability can affect elementary statistics performance.
+  https://www.tandfonline.com/doi/pdf/10.1080/002073900434369?needAccess=true
+- Duranton, S., Erlebah, J., Brege, C., Danziger, J., Gallego, A., Pauly, M. (2020). BCG:What's Keeping Women Out Of Data Science?.https://www.bcg.com/publications/2020/what-keeps-women-out-data-science
+- ProjectPro (2021). Why R programming language still rule Data Science.  https://www.projectpro.io/article/why-r-programming-language-still-rules-data-science/161
+- Tarr, G. (2021). DATA2x02 class survey. Unpublished raw data. Retrieved from https://pages.github.sydney.edu.au/DATA2002/2021/assignment.html

@@ -5,7 +5,7 @@ library(caret)
 library(sjPlot)
 
 ########### Multiple Linear Regression ########
-white=read.csv("~/Desktop/DATA2002/A2/winequality-white.csv" ,sep = ";")
+white=read.csv("~/Desktop/winequality-white.csv" ,sep = ";")
 old_names = colnames(white)
 whitewine = white %>%
   janitor::clean_names()

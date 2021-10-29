@@ -1,7 +1,7 @@
 ---
 title: "Interrogation 1"
 author: "Ricky Liuna"
-subtitle: "Interrogating Group 9"
+subtitle: "Interrogating 1"
 date: "University of Sydney"
 output:
   html_document:

@@ -1,8 +1,8 @@
 ---
-title: "Project 1 interrogation by Group 18"
-author: "Rohan Dixit(500457896); Xiaoqing Chen(470339824); Ricky Liuna(460400301); Zirong Wen(490599329)"
+title: "Interrogation 1"
+author: "Ricky Liuna"
 subtitle: "Interrogating Group 9"
-date: "University of Sydney | MATH1115 | 10/2021 | Group 18"
+date: "University of Sydney"
 output:
   html_document:
     code_download: true # embed .Rmd file
@@ -24,7 +24,7 @@ body {
 
 # Full Report
 
-In this report, Group18 decided to interrogate Group 9's previous works, providing additional commentary on one of their research questions and additionally examining one new question.
+In this report, I decided to interrogate Group 9's previous works, providing additional commentary on one of their research questions and additionally examining one new question.
 
 ```{r, results=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
@@ -37,7 +37,7 @@ library(plotly)
 
 #Uploading Data. 
 #Changed the path according to ur folder structure on ur desktop !!!!!!!!!
-school = read.csv("~/Desktop/MATH1115/Interrogation/9_143619_19412763_school copy.csv")
+school = read.csv("~/Desktop/Interrogation/9_143619_19412763_school copy.csv")
  
 old_names = colnames(school)
 school2 = school%>%

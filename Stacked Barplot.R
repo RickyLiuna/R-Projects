@@ -4,7 +4,7 @@ library(ggplot2)
 library(plotly)
 
 #change this path according to ur arrangement !!!!!!!!!!
-data=read.csv("~/Desktop/Jaxie/Sleep_Quality.csv")
+data=read.csv("~/Desktop/Sleep_Quality.csv")
 
 #set up data frame
 Before_lockdown=data$Alarm_before_lockdown

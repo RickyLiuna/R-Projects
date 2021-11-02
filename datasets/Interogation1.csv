@@ -1,0 +1,1453 @@
+ACARA SML ID,School Name,State,School Sector,School Type,Geolocation,ICSEA,ICSEA Percentile,Total Enrolments,Girls Enrolments,Boys Enrolments,Full Time Equivalent Enrolments,Indigenous Enrolments (%),Language Background Other Than English - Yes (%),Language Background Other Than English - No (%),Language Background Other Than English - Not Stated (%)
+43117,Coonamble High School,NSW,Government,Secondary,Remote,776,2,211,110,101,211,73,0,100,0
+49472,Peterborough High School,SA,Government,Secondary,Outer Regional,867,5,73,35,38,73,18,0,100,0
+40082,Smithton High School,TAS,Government,Secondary,Outer Regional,871,6,340,173,167,331.5,34,0,99,0
+40848,Shepparton ACE Secondary College,VIC,Independent,Secondary,Inner Regional,921,13,86,47,39,86,12,0,100,0
+45462,Rutherglen High School,VIC,Government,Secondary,Inner Regional,964,29,290,169,121,290,4,0,99,0
+49464,Millicent High School,SA,Government,Secondary,Outer Regional,963,29,417,215,202,416.4,5,0,100,0
+51521,Alta-1 College,QLD,Independent,Secondary,Major Cities,968,31,73,47,26,73,10,0,100,0
+40601,Western Australian College Of Agriculture - Cunderdin,WA,Government,Secondary,Outer Regional,1004,48,134,39,95,134,10,0,66,34
+50328,Launceston Big Picture School,TAS,Government,Secondary,Inner Regional,1004,48,90,51,39,86.8,10,0,99,1
+42693,Yanco Agricultural High School,NSW,Government,Secondary,Outer Regional,1004,49,237,116,121,237,9,0,100,0
+43544,McAuley Catholic College,NSW,Catholic,Secondary,Inner Regional,1018,55,511,245,266,511,6,0,100,0
+52792,Australian Industry Trade College - Toowoomba,QLD,Independent,Secondary,Inner Regional,1017,55,92,19,73,92,5,0,100,0
+45745,Mercy Regional College,VIC,Catholic,Secondary,Inner Regional,1028,60,417,226,191,417,1,0,100,0
+46023,Galen Catholic College,VIC,Catholic,Secondary,Inner Regional,1030,61,1141,596,545,1140.1,2,0,100,0
+52497,Maleny Independent School,QLD,Independent,Secondary,Inner Regional,1032,61,20,8,12,20,5,0,100,0
+45647,Assumption College,VIC,Catholic,Secondary,Inner Regional,1040,65,1236,580,656,1236,1,0,100,0
+49857,Endeavour College,SA,Independent,Secondary,Major Cities,1073,78,722,323,399,722,0,0,99,1
+40701,Hubbard's School,QLD,Independent,Secondary,Major Cities,1106,87,64,33,31,50.9,3,0,100,0
+43674,St Vincent's College,NSW,Independent,Secondary,Major Cities,1139,94,707,707,0,707,3,0,99,1
+43105,Wellington High School,NSW,Government,Secondary,Outer Regional,809,3,273,127,146,273,58,1,99,0
+50321,JRLF - Senior School,TAS,Government,Secondary,Inner Regional,810,3,332,168,164,328.6,30,1,98,1
+42522,Wee Waa High School,NSW,Government,Secondary,Outer Regional,850,4,142,78,64,142,39,1,99,0
+40059,Bayview Secondary College,TAS,Government,Secondary,Inner Regional,863,5,304,138,166,293.8,20,1,95,4
+49625,Stuart High School,SA,Government,Secondary,Outer Regional,871,6,177,98,79,177,34,1,99,0
+40063,New Norfolk High School,TAS,Government,Secondary,Inner Regional,889,7,343,164,179,340.3,16,1,98,1
+42520,Quirindi High School,NSW,Government,Secondary,Outer Regional,892,8,386,175,211,385.9,31,1,99,0
+45398,Heywood District Secondary College,VIC,Government,Secondary,Outer Regional,897,9,96,51,45,95,18,1,99,0
+42528,Warialda High School,NSW,Government,Secondary,Outer Regional,909,11,158,76,82,156.4,19,1,99,0
+40049,Scottsdale High School,TAS,Government,Secondary,Outer Regional,921,14,305,148,157,293.9,10,1,96,3
+40632,Claremont College,TAS,Government,Secondary,Inner Regional,922,14,452,202,250,427.2,16,1,96,4
+47539,Lowood State High School,QLD,Government,Secondary,Inner Regional,927,15,742,369,373,742,11,1,99,0
+47559,Capella State High School,QLD,Government,Secondary,Remote,936,18,114,58,56,113.8,9,1,98,1
+45374,Croydon Community School,VIC,Government,Secondary,Major Cities,940,19,146,51,95,145.4,6,1,99,0
+45446,Orbost Secondary College,VIC,Government,Secondary,Outer Regional,941,20,238,106,132,237.1,10,1,96,3
+45367,Casterton Secondary College,VIC,Government,Secondary,Outer Regional,943,21,117,56,61,116.1,4,1,99,0
+45376,Dimboola Memorial Secondary College,VIC,Government,Secondary,Outer Regional,944,21,149,76,73,148.9,13,1,98,1
+40183,Latrobe High School,TAS,Government,Secondary,Inner Regional,945,22,535,256,279,532.7,10,1,96,3
+42392,Gloucester High School,NSW,Government,Secondary,Inner Regional,946,22,360,197,163,359.4,11,1,99,0
+45493,Yarram Secondary College,VIC,Government,Secondary,Inner Regional,950,23,325,146,179,324.1,4,1,79,20
+49519,Penola High School,SA,Government,Secondary,Outer Regional,951,24,90,45,45,89.8,6,1,99,0
+42922,Crookwell High School,NSW,Government,Secondary,Inner Regional,956,26,231,124,107,231,9,1,99,0
+45477,Upper Yarra Secondary College,VIC,Government,Secondary,Inner Regional,961,28,554,256,298,553.3,2,1,99,0
+45485,Warracknabeal Secondary College,VIC,Government,Secondary,Outer Regional,964,29,170,83,87,169.1,6,1,95,4
+45467,St Arnaud Secondary College,VIC,Government,Secondary,Outer Regional,968,31,132,68,64,131.2,5,1,99,0
+45408,Korumburra Secondary College,VIC,Government,Secondary,Inner Regional,973,33,340,168,172,338.2,3,1,99,0
+49518,Grant High School,SA,Government,Secondary,Inner Regional,978,35,861,442,419,850.4,6,1,99,0
+45472,Tallangatta Secondary College,VIC,Government,Secondary,Outer Regional,987,40,351,169,182,349.8,5,1,99,0
+40792,Newman Senior Technical College,NSW,Catholic,Secondary,Inner Regional,990,41,381,156,225,381,12,1,99,0
+45520,Leongatha Secondary College,VIC,Government,Secondary,Inner Regional,993,43,622,321,301,620.5,1,1,96,3
+43691,Red Bend Catholic College,NSW,Independent,Secondary,Outer Regional,994,44,766,411,355,766,14,1,55,44
+49471,Nuriootpa High School,SA,Government,Secondary,Inner Regional,999,46,1082,522,560,1076.3,3,1,99,0
+45732,St Joseph's College,VIC,Catholic,Secondary,Inner Regional,1001,47,933,494,439,932.2,5,1,99,0
+43154,Hennessy Catholic College,NSW,Catholic,Secondary,Inner Regional,1007,49,477,239,238,477,4,1,99,0
+40600,Western Australian College Of Agriculture - Denmark,WA,Government,Secondary,Outer Regional,1012,52,136,59,77,136,2,1,7,91
+43151,Carroll College,NSW,Catholic,Secondary,Inner Regional,1011,52,478,243,235,478,9,1,99,0
+43540,St Joseph's Regional College,NSW,Catholic,Secondary,Inner Regional,1014,53,1000,503,497,1000,9,1,99,0
+40693,Western Australian College Of Agriculture - Harvey,WA,Government,Secondary,Inner Regional,1016,54,168,62,106,168,2,1,0,99
+43152,Trinity Catholic College Goulburn,NSW,Catholic,Secondary,Inner Regional,1018,55,488,239,249,488,5,1,99,0
+52441,McAuley College,QLD,Catholic,Secondary,Inner Regional,1020,56,198,101,97,198,5,1,99,0
+47753,St John's College,QLD,Catholic,Secondary,Major Cities,1063,74,846,424,422,846,2,1,99,0
+43542,St John's College,NSW,Catholic,Secondary,Inner Regional,1065,75,755,373,382,754.5,5,1,99,0
+45721,Saint Ignatius College Geelong,VIC,Catholic,Secondary,Inner Regional,1064,75,1321,672,649,1321,0,1,99,0
+43539,Xavier Catholic College Ballina,NSW,Catholic,Secondary,Inner Regional,1079,80,900,476,424,900,3,1,99,0
+49798,Cornerstone College,SA,Independent,Secondary,Inner Regional,1086,82,850,435,415,850,1,1,99,1
+43112,Bourke High School,NSW,Government,Secondary,Remote,725,1,149,67,82,148.4,89,2,98,0
+48871,Edmund Rice College,WA,Catholic,Secondary,Outer Regional,701,1,133,62,71,133,77,2,98,0
+47522,St George State High School,QLD,Government,Secondary,Remote,876,6,223,104,119,223,51,2,98,0
+42378,Casino High School,NSW,Government,Secondary,Inner Regional,883,7,605,307,298,604.2,25,2,98,0
+43104,Forbes High School,NSW,Government,Secondary,Outer Regional,880,7,333,159,174,333,31,2,98,0
+40050,Parklands High School,TAS,Government,Secondary,Outer Regional,897,9,404,202,202,393.3,20,2,93,5
+47530,Rosewood State High School,QLD,Government,Secondary,Inner Regional,898,9,595,284,311,595,16,2,98,0
+40058,Huonville High School,TAS,Government,Secondary,Outer Regional,908,10,393,179,214,383.3,21,2,96,2
+40052,Ulverstone Secondary College,TAS,Government,Secondary,Outer Regional,911,11,616,293,323,611.2,19,2,98,0
+40053,Wynyard High School,TAS,Government,Secondary,Outer Regional,912,11,261,125,136,257.6,16,2,97,0
+42708,Gundagai High School,NSW,Government,Secondary,Inner Regional,917,12,185,86,99,183.4,12,2,98,0
+45505,Lakes Entrance Secondary College,VIC,Government,Secondary,Outer Regional,913,12,280,136,144,278.4,17,2,97,1
+47517,Moura State High School,QLD,Government,Secondary,Outer Regional,923,14,197,81,116,196.2,13,2,98,0
+40051,Reece High School,TAS,Government,Secondary,Inner Regional,928,15,475,217,258,474.8,17,2,96,2
+47536,Nanango State High School,QLD,Government,Secondary,Inner Regional,927,15,543,277,266,543,15,2,98,0
+48126,Collie Senior High School,WA,Government,Secondary,Inner Regional,929,15,524,241,283,524,12,2,81,17
+45444,Numurkah Secondary College,VIC,Government,Secondary,Inner Regional,933,17,262,121,141,260.8,9,2,98,0
+45593,Colac Secondary College,VIC,Government,Secondary,Inner Regional,936,18,462,230,232,460.6,2,2,96,2
+47542,Laidley State High School,QLD,Government,Secondary,Inner Regional,938,19,803,409,394,802.3,13,2,98,0
+42516,Glen Innes High School,NSW,Government,Secondary,Outer Regional,941,20,476,242,234,470.6,15,2,98,0
+47512,Gin Gin State High School,QLD,Government,Secondary,Outer Regional,942,20,462,224,238,462,8,2,98,0
+45523,Ararat Secondary College,VIC,Government,Secondary,Inner Regional,945,21,295,128,167,295,4,2,94,4
+47412,Gympie State High School,QLD,Government,Secondary,Inner Regional,947,22,922,432,490,921.2,9,2,98,0
+47421,Maryborough State High School,QLD,Government,Secondary,Inner Regional,946,22,1024,468,556,991.2,11,2,98,0
+42379,Macksville High School,NSW,Government,Secondary,Outer Regional,950,23,499,254,245,498.6,15,2,98,0
+45534,Portland Secondary College,VIC,Government,Secondary,Outer Regional,950,23,660,317,343,657.3,7,2,97,1
+50256,Hellyer College,TAS,Government,Secondary,Outer Regional,949,23,692,364,328,655.2,13,2,96,2
+42119,Dungog High School,NSW,Government,Secondary,Inner Regional,954,25,605,320,285,604.2,12,2,98,0
+45418,Maffra Secondary College,VIC,Government,Secondary,Inner Regional,955,25,545,280,265,543.6,3,2,97,1
+45552,Baimbridge College,VIC,Government,Secondary,Inner Regional,956,26,418,204,214,417.4,6,2,94,3
+45397,Healesville High School,VIC,Government,Secondary,Inner Regional,959,27,342,178,164,341.4,7,2,98,0
+42388,Great Lakes College Tuncurry Campus,NSW,Government,Secondary,Inner Regional,962,28,499,214,285,499,10,2,98,0
+47562,Clermont State High School,QLD,Government,Secondary,Remote,961,28,183,85,98,182.6,6,2,98,0
+52801,Calliope State High School,QLD,Government,Secondary,Inner Regional,962,28,174,82,92,174,11,2,98,0
+40789,Tec-NQ,QLD,Independent,Secondary,Outer Regional,963,29,322,25,297,321.1,15,2,98,0
+45353,Beaufort Secondary College,VIC,Government,Secondary,Inner Regional,963,29,201,105,96,199.8,6,2,98,0
+49481,Victor Harbor High School,SA,Government,Secondary,Inner Regional,967,30,727,340,387,726.8,8,2,98,0
+42702,Corowa High School,NSW,Government,Secondary,Inner Regional,970,32,340,182,158,339.8,3,2,98,0
+49508,Willunga High School,SA,Government,Secondary,Major Cities,979,36,988,489,499,984.2,5,2,98,0
+47864,Gilroy Santa Maria College,QLD,Catholic,Secondary,Outer Regional,980,37,320,170,150,320,13,2,98,0
+49463,Kapunda High School,SA,Government,Secondary,Inner Regional,979,37,477,227,250,474,3,2,98,0
+47490,Boonah State High School,QLD,Government,Secondary,Inner Regional,982,38,668,307,361,667.6,6,2,98,0
+43546,St Mary's Catholic College,NSW,Catholic,Secondary,Inner Regional,985,39,451,220,231,451,5,2,98,0
+45461,Rosebud Secondary College,VIC,Government,Secondary,Major Cities,985,39,855,434,421,855,4,2,98,0
+43651,St Mary's College,NSW,Catholic,Secondary,Outer Regional,987,40,370,222,148,370,14,2,96,2
+40790,Hunter Trade College,NSW,Independent,Secondary,Major Cities,990,41,237,16,221,236.7,6,2,98,0
+43543,St Paul's College,NSW,Catholic,Secondary,Inner Regional,989,41,564,286,278,564,10,2,98,0
+43577,La Salle Academy,NSW,Catholic,Secondary,Inner Regional,990,42,229,109,120,229,8,2,97,1
+45426,Mirboo North Secondary College,VIC,Government,Secondary,Inner Regional,994,43,367,180,187,367,4,2,98,1
+50687,St Brigid's Catholic College,NSW,Catholic,Secondary,Major Cities,993,43,421,225,196,421,9,2,96,1
+45793,St Brigid's College,VIC,Catholic,Secondary,Outer Regional,996,44,265,132,133,264.4,3,2,98,0
+45412,Kyneton High School,VIC,Government,Secondary,Inner Regional,996,45,500,235,265,499.4,1,2,97,0
+45737,Catholic College Sale,VIC,Catholic,Secondary,Inner Regional,996,45,835,411,424,834,1,2,98,0
+49457,Clare High School,SA,Government,Secondary,Inner Regional,999,46,531,253,278,530.5,4,2,98,0
+40599,Western Australian College Of Agriculture - Narrogin,WA,Government,Secondary,Outer Regional,1003,48,125,38,87,125,2,2,83,15
+45393,Gisborne Secondary College,VIC,Government,Secondary,Inner Regional,1008,50,1214,628,586,1212.8,2,2,98,0
+45875,Marist-Sion College,VIC,Catholic,Secondary,Inner Regional,1008,50,919,490,429,919,1,2,98,0
+46142,Highview College,VIC,Independent,Secondary,Inner Regional,1007,50,413,217,196,412.6,1,2,98,0
+42515,Farrer Memorial Agricultural High School,NSW,Government,Secondary,Inner Regional,1009,51,613,0,613,613,12,2,98,0
+45700,Marian College,VIC,Catholic,Secondary,Inner Regional,1009,51,456,264,192,455.6,3,2,98,0
+45893,Monivae College,VIC,Catholic,Secondary,Inner Regional,1021,56,529,276,253,529,4,2,98,0
+52822,Australian Industry Trade College - Ipswich,QLD,Independent,Secondary,Major Cities,1020,56,94,19,75,94,5,2,98,0
+43653,O'Connor Catholic College,NSW,Catholic,Secondary,Inner Regional,1026,59,542,284,258,542,9,2,97,1
+43811,St Paul's College,NSW,Independent,Secondary,Inner Regional,1026,59,252,128,124,252,7,2,52,47
+47893,St Patrick's College,QLD,Catholic,Secondary,Inner Regional,1034,63,469,256,213,469,6,2,98,0
+45706,Mount Lilydale Mercy College,VIC,Catholic,Secondary,Major Cities,1036,64,1475,772,703,1475,1,2,98,0
+43654,Trinity Catholic College Lismore,NSW,Independent,Secondary,Inner Regional,1050,70,982,551,431,981,3,2,96,1
+45679,Damascus College,VIC,Catholic,Secondary,Inner Regional,1051,70,1117,639,478,1117,1,2,98,0
+43541,Mount St Patrick College,NSW,Catholic,Secondary,Major Cities,1066,75,804,422,382,804,4,2,98,0
+47667,St Teresa's Catholic College,QLD,Catholic,Secondary,Major Cities,1068,76,808,431,377,808,1,2,98,0
+47651,Siena Catholic College,QLD,Catholic,Secondary,Major Cities,1080,80,925,490,435,925,2,2,98,0
+48917,Sacred Heart College,WA,Catholic,Secondary,Major Cities,1113,89,1425,721,704,1425,1,2,98,0
+43108,Condobolin High School,NSW,Government,Secondary,Outer Regional,817,3,192,100,92,191.4,54,3,97,0
+43124,Dubbo College Delroy Campus,NSW,Government,Secondary,Inner Regional,830,3,567,307,260,567,49,3,97,0
+42395,Chatham High School,NSW,Government,Secondary,Inner Regional,840,4,521,262,259,520.8,38,3,97,0
+42089,Cessnock High School,NSW,Government,Secondary,Inner Regional,865,5,602,285,317,600.6,24,3,97,0
+49475,John Pirie Secondary School,SA,Government,Secondary,Outer Regional,879,6,650,307,343,650,20,3,97,0
+42394,South Grafton High School,NSW,Government,Secondary,Inner Regional,894,8,651,298,353,650.1,24,3,97,0
+40839,Montrose Bay High School,TAS,Government,Secondary,Inner Regional,898,9,619,336,283,619,18,3,96,0
+42095,Kurri Kurri High School,NSW,Government,Secondary,Major Cities,904,10,838,404,434,821.8,19,3,97,0
+42380,Wauchope High School,NSW,Government,Secondary,Inner Regional,905,10,504,260,244,504,18,3,97,0
+42519,Narrabri High School,NSW,Government,Secondary,Outer Regional,906,10,505,261,244,503.6,27,3,97,0
+43113,Cobar High School,NSW,Government,Secondary,Remote,920,13,200,100,100,197.2,26,3,97,0
+49567,Christies Beach High School and Southern Vocational College,SA,Government,Secondary,Major Cities,918,13,745,362,383,732.9,17,3,97,0
+42132,Mount View High School,NSW,Government,Secondary,Inner Regional,923,14,992,510,482,988.4,17,3,97,0
+42926,Bombala High School,NSW,Government,Secondary,Outer Regional,925,14,147,77,70,145.8,11,3,97,0
+47416,Rockhampton State High School,QLD,Government,Secondary,Inner Regional,923,14,1160,569,591,1160,22,3,97,0
+42699,Cootamundra High School,NSW,Government,Secondary,Inner Regional,927,15,298,134,164,297.6,16,3,97,0
+40061,Deloraine High School,TAS,Government,Secondary,Outer Regional,936,18,270,117,153,264.3,14,3,97,0
+42697,Temora High School,NSW,Government,Secondary,Outer Regional,940,19,354,169,185,353,8,3,97,0
+45327,Cobden Technical School,VIC,Government,Secondary,Inner Regional,938,19,117,50,67,117,8,3,88,9
+47418,Warwick State High School,QLD,Government,Secondary,Inner Regional,943,21,810,392,418,810,15,3,97,0
+47478,Hervey Bay State High School,QLD,Government,Secondary,Inner Regional,943,21,1240,626,614,1240,13,3,97,0
+42700,Deniliquin High School,NSW,Government,Secondary,Inner Regional,948,22,512,258,254,512,11,3,97,0
+43106,The Henry Lawson High School,NSW,Government,Secondary,Outer Regional,947,22,200,92,108,199.4,9,3,97,0
+45489,Bairnsdale Secondary College,VIC,Government,Secondary,Outer Regional,945,22,1116,593,523,1113,11,3,85,12
+47420,Bundaberg North State High School,QLD,Government,Secondary,Inner Regional,946,22,750,365,385,749.2,12,3,97,0
+42386,Camden Haven High School,NSW,Government,Secondary,Inner Regional,950,23,1017,497,520,1014.6,14,3,97,0
+47474,Burnett State College,QLD,Government,Secondary,Outer Regional,949,23,237,127,110,237,18,3,97,0
+40434,Echuca College,VIC,Government,Secondary,Inner Regional,953,24,776,356,420,775.2,11,3,97,0
+43123,Canowindra High School,NSW,Government,Secondary,Inner Regional,951,24,264,119,145,263.1,13,3,97,0
+45385,Euroa Secondary College,VIC,Government,Secondary,Inner Regional,951,24,316,150,166,314.8,2,3,96,1
+47496,Clifton State High School,QLD,Government,Secondary,Inner Regional,952,24,239,104,135,239,15,3,97,0
+50255,Don College,TAS,Government,Secondary,Inner Regional,951,24,767,423,344,741.1,13,3,95,2
+40070,Burnie High School,TAS,Government,Secondary,Outer Regional,954,25,611,324,287,599.8,12,3,97,0
+40074,Exeter High School,TAS,Government,Secondary,Outer Regional,955,25,308,148,160,308,8,3,94,3
+45403,Kerang Technical High School,VIC,Government,Secondary,Outer Regional,959,27,235,119,116,233.4,7,3,97,0
+43114,Blayney High School,NSW,Government,Secondary,Inner Regional,962,28,334,162,172,333.2,6,3,97,0
+47500,Mirani State High School,QLD,Government,Secondary,Outer Regional,965,29,876,414,462,876,8,3,97,0
+42713,Billabong High School,NSW,Government,Secondary,Inner Regional,966,30,375,183,192,374.2,6,3,97,0
+45460,Rochester Secondary College,VIC,Government,Secondary,Inner Regional,967,30,297,145,152,296.2,3,3,97,0
+47497,Longreach State High School,QLD,Government,Secondary,Very Remote,965,30,224,111,113,194.4,18,3,97,0
+49478,Riverton and District High School,SA,Government,Secondary,Inner Regional,967,31,136,69,67,134.9,5,3,97,0
+47518,James Nash State High School,QLD,Government,Secondary,Inner Regional,970,32,1258,608,650,1257.4,8,3,97,0
+45605,Somerville Secondary College,VIC,Government,Secondary,Major Cities,975,34,239,106,133,237,1,3,95,3
+45380,Drouin Secondary College,VIC,Government,Secondary,Inner Regional,980,37,1161,553,608,1149,2,3,97,0
+45439,Neerim District Secondary College,VIC,Government,Secondary,Inner Regional,982,38,201,103,98,200.5,2,3,94,3
+48121,Bridgetown High School,WA,Government,Secondary,Inner Regional,993,43,200,94,106,200,5,3,36,62
+45456,Bellarine Secondary College,VIC,Government,Secondary,Inner Regional,999,46,1280,581,699,1244.2,3,3,96,0
+49455,Birdwood High School,SA,Government,Secondary,Inner Regional,1003,48,423,220,203,421.6,1,3,97,0
+45415,Lilydale High School,VIC,Government,Secondary,Major Cities,1004,49,1545,808,737,1541.7,2,3,97,0
+45330,Dromana Secondary College,VIC,Government,Secondary,Major Cities,1007,50,1780,862,918,1779.6,2,3,97,0
+47894,Assumption College,QLD,Catholic,Secondary,Inner Regional,1009,51,440,238,202,440,5,3,97,0
+51493,Highfields State Secondary College,QLD,Government,Secondary,Inner Regional,1012,52,973,492,481,972.2,6,3,97,0
+48255,Comet Bay College,WA,Government,Secondary,Major Cities,1014,53,1772,815,957,1772,2,3,96,0
+45933,Nagle College,VIC,Catholic,Secondary,Outer Regional,1016,54,823,419,404,823,3,3,97,0
+45717,Sacred Heart College,VIC,Catholic,Secondary,Inner Regional,1017,55,259,134,125,259,0,3,97,0
+40232,MacKillop Catholic College,TAS,Catholic,Secondary,Inner Regional,1027,59,573,265,308,573,5,3,97,0
+46081,Mary MacKillop Catholic Regional College,VIC,Catholic,Secondary,Inner Regional,1028,60,609,348,261,608.4,1,3,97,0
+47891,St Mary's College,QLD,Catholic,Secondary,Inner Regional,1032,62,347,165,182,347,4,3,97,0
+49688,Cardijn College,SA,Catholic,Secondary,Major Cities,1035,63,1296,575,721,1292,2,3,97,0
+45354,Beechworth Secondary College,VIC,Government,Secondary,Inner Regional,1036,64,236,106,130,235.2,2,3,94,3
+45634,St Patrick's College,VIC,Catholic,Secondary,Inner Regional,1047,68,1305,0,1305,1305,4,3,97,0
+45827,Salesian College,VIC,Catholic,Secondary,Major Cities,1052,70,1332,626,706,1332,0,3,97,0
+43547,St Joseph's College,NSW,Catholic,Secondary,Major Cities,1052,71,768,395,373,768,5,3,97,0
+47924,Carmel College,QLD,Catholic,Secondary,Major Cities,1053,71,1230,680,550,1230,3,3,97,0
+49960,St Mary MacKillop College,ACT,Catholic,Secondary,Major Cities,1059,73,1844,903,941,1844,4,3,97,0
+43665,St Edward's Christian Brothers' College,NSW,Independent,Secondary,Major Cities,1072,77,1056,0,1056,1056,3,3,97,0
+40842,Music Industry College,QLD,Independent,Secondary,Major Cities,1078,79,91,43,48,90.2,0,3,92,4
+43915,Frensham School,NSW,Independent,Secondary,Inner Regional,1154,96,355,355,0,355,1,3,97,0
+42521,Gunnedah High School,NSW,Government,Secondary,Outer Regional,833,3,432,200,232,431.8,44,4,96,0
+47415,Mount Morgan State High School,QLD,Government,Secondary,Inner Regional,870,5,174,89,85,174,30,4,96,0
+40437,Moree Secondary College Albert St Campus,NSW,Government,Secondary,Outer Regional,872,6,186,100,86,183.4,38,4,96,0
+42934,Shoalhaven High School,NSW,Government,Secondary,Inner Regional,873,6,581,272,309,581,28,4,96,0
+42093,Muswellbrook High School,NSW,Government,Secondary,Inner Regional,902,9,886,424,462,883.6,22,4,96,0
+42517,Inverell High School,NSW,Government,Secondary,Outer Regional,903,10,511,246,265,510.6,24,4,96,0
+42935,Batemans Bay High School,NSW,Government,Secondary,Inner Regional,912,11,752,386,366,751.4,20,4,96,0
+42110,Scone High School,NSW,Government,Secondary,Inner Regional,917,12,344,184,160,343.2,14,4,96,0
+43125,Gulgong High School,NSW,Government,Secondary,Outer Regional,916,12,302,149,153,301.8,20,4,96,0
+42398,"The Rivers Secondary College, Kadina High Campus",NSW,Government,Secondary,Inner Regional,925,14,403,206,197,402.8,27,4,96,0
+42377,Taree High School,NSW,Government,Secondary,Inner Regional,929,16,833,424,409,831,20,4,96,0
+42129,Irrawang High School,NSW,Government,Secondary,Major Cities,932,17,1008,499,509,1007.8,17,4,96,0
+43107,Kandos High School,NSW,Government,Secondary,Inner Regional,933,17,191,100,91,190.6,13,4,96,0
+45438,Nathalia Secondary College,VIC,Government,Secondary,Inner Regional,933,17,115,62,53,115,11,4,95,1
+45565,Mount Rowan Secondary College,VIC,Government,Secondary,Inner Regional,936,18,412,228,184,411.2,6,4,96,0
+47419,Aldridge State High School,QLD,Government,Secondary,Inner Regional,937,18,849,435,414,845,12,4,96,0
+42381,Kyogle High School,NSW,Government,Secondary,Inner Regional,940,19,293,144,149,293,10,4,96,0
+45440,Newcomb Secondary College,VIC,Government,Secondary,Major Cities,940,19,480,219,261,480,6,4,94,1
+42373,Grafton High School,NSW,Government,Secondary,Inner Regional,944,21,823,402,421,822.7,17,4,96,0
+42704,Tumut High School,NSW,Government,Secondary,Inner Regional,944,21,534,275,259,533.2,14,4,96,0
+47468,Beaudesert State High School,QLD,Government,Secondary,Inner Regional,945,21,1368,693,675,1368,11,4,96,0
+40098,Devonport High School,TAS,Government,Secondary,Inner Regional,946,22,454,226,228,454,9,4,95,1
+42400,Great Lakes College Forster Campus,NSW,Government,Secondary,Inner Regional,948,22,613,305,308,613,14,4,96,0
+42931,Narooma High School,NSW,Government,Secondary,Outer Regional,947,22,487,217,270,487,15,4,96,0
+40707,Dubbo College Senior Campus,NSW,Government,Secondary,Inner Regional,950,23,559,296,263,557,29,4,96,0
+42389,Maclean High School,NSW,Government,Secondary,Inner Regional,952,24,793,408,385,793,14,4,96,0
+42927,Eden Marine High School,NSW,Government,Secondary,Outer Regional,951,24,584,259,325,579.6,13,4,96,0
+42523,Tenterfield High School,NSW,Government,Secondary,Outer Regional,954,25,243,144,99,242.2,9,4,96,0
+47495,Urangan State High School,QLD,Government,Secondary,Inner Regional,955,25,1694,817,877,1694,13,4,96,0
+52464,Ohana College,QLD,Independent,Secondary,Major Cities,954,25,84,31,53,84,2,4,96,0
+40588,Traralgon College,VIC,Government,Secondary,Inner Regional,958,27,1036,511,525,1034.4,3,4,96,0
+40080,Prospect High School,TAS,Government,Secondary,Inner Regional,961,28,455,224,231,453.4,5,4,96,0
+47557,Toogoolawah State High School,QLD,Government,Secondary,Inner Regional,961,28,259,123,136,259,6,4,96,0
+52702,Woodmans Hill Secondary College,VIC,Government,Secondary,Inner Regional,967,30,417,193,224,416,5,4,96,0
+45363,Broadford Secondary College,VIC,Government,Secondary,Inner Regional,968,31,726,340,386,724.2,4,4,94,1
+45407,Koo Wee Rup Secondary College,VIC,Government,Secondary,Inner Regional,970,32,1078,589,489,1076,2,4,95,1
+49383,Seaford Secondary College,SA,Government,Secondary,Major Cities,972,33,821,400,421,821,7,4,96,0
+40096,Rose Bay High School,TAS,Government,Secondary,Inner Regional,974,34,659,321,338,655.7,10,4,95,1
+45563,Warragul Regional College,VIC,Government,Secondary,Inner Regional,975,34,750,372,378,748.4,3,4,96,0
+47494,Beerwah State High School,QLD,Government,Secondary,Inner Regional,975,34,897,464,433,897,7,4,96,0
+45349,Alexandra Secondary College,VIC,Government,Secondary,Inner Regional,976,35,308,147,161,306.3,4,4,95,1
+45549,Warrnambool College,VIC,Government,Secondary,Inner Regional,981,37,1234,611,623,1228.3,6,4,96,1
+47475,Proserpine State High School,QLD,Government,Secondary,Outer Regional,980,37,1143,541,602,1141.4,7,4,96,0
+42915,Yass High School,NSW,Government,Secondary,Inner Regional,986,40,530,273,257,530,12,4,96,0
+45378,Donald High School,VIC,Government,Secondary,Outer Regional,989,41,137,61,76,136.4,1,4,74,22
+45345,Brauer Secondary College,VIC,Government,Secondary,Inner Regional,992,43,810,384,426,808.9,3,4,84,12
+45474,Trafalgar High School,VIC,Government,Secondary,Inner Regional,997,45,757,387,370,757,2,4,96,1
+47876,Seton College,QLD,Catholic,Secondary,Major Cities,998,45,248,84,164,248,4,4,96,0
+49466,Mount Barker High School,SA,Government,Secondary,Inner Regional,997,45,704,323,381,683.4,4,4,96,0
+45506,Elisabeth Murdoch College,VIC,Government,Secondary,Major Cities,1001,47,1791,904,887,1786.8,2,4,83,13
+45389,Foster Secondary College,VIC,Government,Secondary,Inner Regional,1009,50,272,129,143,271.4,3,4,95,1
+47499,Caloundra State High School,QLD,Government,Secondary,Major Cities,1007,50,1391,604,787,1238.2,6,4,96,0
+40250,St Brendan-Shaw College,TAS,Catholic,Secondary,Inner Regional,1012,52,591,312,279,589.7,11,4,96,0
+47906,St Ursula's College,QLD,Catholic,Secondary,Inner Regional,1012,52,471,471,0,471,10,4,94,2
+45497,Emerald Secondary College,VIC,Government,Secondary,Major Cities,1018,55,710,347,363,709.1,2,4,95,2
+45521,Diamond Valley College,VIC,Government,Secondary,Major Cities,1018,55,646,343,303,643.7,2,4,91,4
+46008,Marian College,VIC,Catholic,Secondary,Inner Regional,1024,58,189,102,87,189,2,4,96,0
+45693,FCJ College,VIC,Catholic,Secondary,Inner Regional,1027,59,358,198,160,358,1,4,96,0
+47878,St Edmund's College,QLD,Catholic,Secondary,Major Cities,1029,60,1041,0,1041,1041,4,4,84,12
+47544,Coolum State High School,QLD,Government,Secondary,Major Cities,1032,61,1319,592,727,1319,4,4,96,0
+52800,Our Lady of Mercy College,WA,Catholic,Secondary,Inner Regional,1031,61,583,301,282,583,1,4,96,0
+45478,Upwey High School,VIC,Government,Secondary,Major Cities,1032,62,822,409,413,821,0,4,94,2
+45561,Castlemaine Secondary College,VIC,Government,Secondary,Inner Regional,1033,62,714,336,378,710.2,3,4,93,4
+43578,MacKillop College,NSW,Catholic,Secondary,Inner Regional,1039,65,615,615,0,615,5,4,96,0
+49689,Gleeson College,SA,Catholic,Secondary,Major Cities,1042,66,771,361,410,770,1,4,96,0
+40816,Australian Industry Trade College,QLD,Independent,Secondary,Major Cities,1044,67,507,59,448,507,2,4,96,0
+45972,St Joseph's College,VIC,Catholic,Secondary,Major Cities,1044,67,960,0,960,960,0,4,96,0
+50460,Surf Coast Secondary College,VIC,Government,Secondary,Inner Regional,1044,67,966,438,528,963.8,1,4,96,0
+47765,St Stephen's Catholic College,QLD,Catholic,Secondary,Outer Regional,1045,68,585,295,290,585,4,4,96,0
+47887,St Michael's College,QLD,Catholic,Secondary,Major Cities,1046,68,862,419,443,862,2,4,96,0
+43538,MacKillop College Port Macquarie,NSW,Catholic,Secondary,Inner Regional,1063,74,1139,574,565,1138.5,4,4,96,0
+45682,Sacred Heart College,VIC,Catholic,Secondary,Inner Regional,1065,75,791,408,383,791,0,4,96,0
+47889,Marymount College,QLD,Catholic,Secondary,Major Cities,1069,76,1331,690,641,1331,2,4,96,0
+49480,Urrbrae Agricultural High School,SA,Government,Secondary,Major Cities,1068,76,986,486,500,966.7,2,4,96,0
+49516,Heathfield High School,SA,Government,Secondary,Major Cities,1069,76,815,358,457,796,1,4,96,0
+45638,Loreto College,VIC,Catholic,Secondary,Inner Regional,1072,77,981,981,0,981,1,4,96,0
+40388,Mt Maria College,QLD,Catholic,Secondary,Major Cities,1075,78,1073,535,538,1073,2,4,96,0
+45672,Sacred Heart College,VIC,Catholic,Secondary,Major Cities,1089,82,1502,1502,0,1502,1,4,96,0
+49961,Merici College,ACT,Catholic,Secondary,Major Cities,1105,86,671,671,0,671,2,4,96,0
+43118,Narromine High School,NSW,Government,Secondary,Outer Regional,785,2,218,93,125,217.8,59,5,95,0
+42374,Kempsey High School,NSW,Government,Secondary,Inner Regional,846,4,457,224,233,456.2,36,5,95,0
+43116,Canobolas Rural Technology High School,NSW,Government,Secondary,Inner Regional,851,4,646,291,355,645.2,37,5,95,0
+42518,Tamworth High School,NSW,Government,Secondary,Inner Regional,867,5,683,369,314,682.2,35,5,95,0
+43121,Coomealla High School,NSW,Government,Secondary,Outer Regional,874,6,231,109,122,230.4,35,5,95,0
+42703,Murrumburrah High School,NSW,Government,Secondary,Inner Regional,889,7,135,74,61,134.2,19,5,95,0
+43111,Nyngan High School,NSW,Government,Secondary,Remote,888,7,170,81,89,169.8,35,5,95,0
+43110,Gilgandra High School,NSW,Government,Secondary,Outer Regional,898,9,229,117,112,229,31,5,95,0
+42128,Northlakes High School,NSW,Government,Secondary,Major Cities,907,10,826,379,447,825.4,18,5,95,0
+42691,Hay War Memorial High School,NSW,Government,Secondary,Outer Regional,905,10,160,87,73,159.6,19,5,95,0
+42100,Hunter Sports High School,NSW,Government,Secondary,Major Cities,909,11,818,349,469,808.7,20,5,95,0
+43120,Willyama High School,NSW,Government,Secondary,Outer Regional,910,11,514,271,243,513.8,21,5,95,0
+42096,Singleton High School,NSW,Government,Secondary,Inner Regional,916,12,1085,536,549,1077.2,19,5,95,0
+42099,Hunter River High School,NSW,Government,Secondary,Major Cities,913,12,876,399,477,872.6,20,5,95,0
+42698,Junee High School,NSW,Government,Secondary,Inner Regional,917,12,236,115,121,236,14,5,95,0
+43109,Coonabarabran High School,NSW,Government,Secondary,Outer Regional,914,12,349,172,177,348.6,24,5,95,0
+48147,Northam Senior High School,WA,Government,Secondary,Inner Regional,915,12,666,316,350,664.4,23,5,95,0
+43102,Parkes High School,NSW,Government,Secondary,Outer Regional,918,13,570,267,303,570,22,5,95,0
+47479,Home Hill State High School,QLD,Government,Secondary,Outer Regional,918,13,261,117,144,261,16,5,95,0
+42393,Wingham High School,NSW,Government,Secondary,Inner Regional,924,14,518,253,265,516.2,14,5,95,0
+43099,Lithgow High School,NSW,Government,Secondary,Inner Regional,921,14,780,365,415,779.6,17,5,95,0
+42111,West Wallsend High School,NSW,Government,Secondary,Major Cities,927,15,645,318,327,645,14,5,95,0
+43103,Cowra High School,NSW,Government,Secondary,Inner Regional,926,15,531,254,277,528.6,18,5,95,0
+42399,Toormina High School,NSW,Government,Secondary,Inner Regional,933,17,782,406,376,781.8,17,5,95,0
+47456,Isis District State High School,QLD,Government,Secondary,Inner Regional,933,17,468,243,225,467.4,9,5,95,0
+47535,Dysart State High School,QLD,Government,Secondary,Outer Regional,933,17,172,86,86,172,12,5,95,0
+42117,Glendale Technology High School,NSW,Government,Secondary,Major Cities,937,18,799,390,409,798.6,15,5,95,0
+45458,Red Cliffs Secondary College,VIC,Government,Secondary,Outer Regional,937,18,518,267,251,517.9,14,5,95,0
+47486,Sarina State High School,QLD,Government,Secondary,Outer Regional,936,18,801,357,444,800.1,17,5,96,0
+45559,Lowanna College,VIC,Government,Secondary,Inner Regional,942,20,866,449,417,864.2,4,5,94,1
+47480,Kepnock State High School,QLD,Government,Secondary,Inner Regional,941,20,1379,652,727,1378.8,12,5,95,0
+42091,Maitland High School,NSW,Government,Secondary,Major Cities,945,21,996,459,537,994.4,16,5,95,0
+47438,Kingaroy State High School,QLD,Government,Secondary,Inner Regional,945,21,1132,570,562,1132,12,5,95,0
+47472,Chinchilla State High School,QLD,Government,Secondary,Outer Regional,944,21,572,291,281,570.4,13,5,95,0
+40726,Sale College,VIC,Government,Secondary,Inner Regional,946,22,843,409,434,838.9,6,5,94,1
+43100,Mudgee High School,NSW,Government,Secondary,Inner Regional,946,22,815,368,447,814,13,5,95,0
+47426,Ingham State High School,QLD,Government,Secondary,Outer Regional,946,22,394,200,194,394,15,5,95,0
+49459,Gladstone High School,SA,Government,Secondary,Outer Regional,945,22,132,58,74,131.8,15,5,95,0
+42524,Oxley High School,NSW,Government,Secondary,Inner Regional,949,23,1042,546,496,1039.8,19,5,95,0
+45540,Swan Hill College,VIC,Government,Secondary,Outer Regional,949,23,740,376,364,738.3,10,5,95,0
+48123,Busselton Senior High School,WA,Government,Secondary,Inner Regional,950,23,683,334,349,683,11,5,33,62
+49381,Wirreanda Secondary School,SA,Government,Secondary,Major Cities,950,23,1007,469,538,1005.9,10,5,95,0
+49490,Whyalla High School,SA,Government,Secondary,Outer Regional,950,23,505,244,261,505,12,5,95,0
+42705,Finley High School,NSW,Government,Secondary,Inner Regional,952,24,343,180,163,343,8,5,95,0
+47506,Yeppoon State High School,QLD,Government,Secondary,Inner Regional,952,24,1108,536,572,1108,11,5,95,0
+49454,Balaklava High School,SA,Government,Secondary,Inner Regional,956,26,332,168,164,331.5,5,5,95,0
+42137,Toronto High School,NSW,Government,Secondary,Major Cities,958,27,961,479,482,959.2,15,5,95,0
+45483,Wangaratta High School,VIC,Government,Secondary,Inner Regional,959,27,638,330,308,627.5,5,5,94,0
+42710,Barham High School,NSW,Government,Secondary,Outer Regional,963,29,149,74,75,149,6,5,95,0
+42097,Belmont High School,NSW,Government,Secondary,Major Cities,966,30,807,390,417,804.2,9,5,95,0
+47502,Pittsworth State High School,QLD,Government,Secondary,Inner Regional,970,32,499,256,243,499,7,5,95,0
+47558,Bribie Island State High School,QLD,Government,Secondary,Inner Regional,973,33,1267,624,643,1267,10,5,95,0
+48128,Esperance Senior High School,WA,Government,Secondary,Remote,972,33,918,449,469,915.6,13,5,45,49
+42107,Swansea High School,NSW,Government,Secondary,Major Cities,976,35,676,312,364,674.1,12,5,95,0
+47483,Monto State High School,QLD,Government,Secondary,Outer Regional,976,35,167,78,89,167,2,5,95,0
+48235,Australind Senior High School,WA,Government,Secondary,Inner Regional,977,35,1424,673,751,1424,5,5,59,35
+45370,Cohuna Secondary College,VIC,Government,Secondary,Outer Regional,978,36,191,93,98,190.2,5,5,93,2
+46578,Victoria Point State High School,QLD,Government,Secondary,Major Cities,978,36,1258,608,650,1258,7,5,95,0
+42907,Bega High School,NSW,Government,Secondary,Outer Regional,979,37,648,339,309,648,10,5,95,0
+47457,Stanthorpe State High School,QLD,Government,Secondary,Outer Regional,980,37,725,349,376,724.2,6,5,95,0
+48139,Manjimup Senior High School,WA,Government,Secondary,Outer Regional,980,37,609,296,313,608.6,7,5,92,3
+45470,Sunbury College,VIC,Government,Secondary,Major Cities,982,38,1101,578,523,1100,2,5,95,0
+47445,Atherton State High School,QLD,Government,Secondary,Outer Regional,982,38,891,436,455,882.4,14,5,95,0
+46576,Tannum Sands State High School,QLD,Government,Secondary,Inner Regional,984,39,953,461,492,944.9,10,5,95,0
+40445,Rosny College,TAS,Government,Secondary,Inner Regional,987,40,960,476,484,907.8,7,5,86,9
+43321,St Joseph's High School Aberdeen,NSW,Catholic,Secondary,Inner Regional,987,40,631,300,331,631,6,5,95,0
+40597,Wonthaggi Secondary College,VIC,Government,Secondary,Inner Regional,992,42,1442,712,730,1437.7,2,5,91,4
+45331,Grovedale College,VIC,Government,Secondary,Major Cities,992,43,851,375,476,850,3,5,94,1
+47524,Burnside State High School,QLD,Government,Secondary,Major Cities,993,43,845,409,436,845,8,5,95,0
+40676,Great Lakes College Senior Campus,NSW,Government,Secondary,Inner Regional,996,45,403,240,163,393.9,9,5,95,0
+43317,St Joseph's College,NSW,Catholic,Secondary,Inner Regional,997,45,902,473,429,902,9,5,95,0
+49499,Loxton High School,SA,Government,Secondary,Outer Regional,1000,46,539,265,274,528.5,4,5,95,0
+40129,Clarence High School,TAS,Government,Secondary,Inner Regional,1006,49,564,253,311,561.9,6,5,95,0
+45945,St Mary of the Angels College,VIC,Catholic,Secondary,Inner Regional,1006,49,619,327,292,619,2,5,95,0
+40783,St Patrick's Technical College,SA,Catholic,Secondary,Major Cities,1009,50,206,18,188,206,0,5,95,0
+42385,Bellingen High School,NSW,Government,Secondary,Outer Regional,1009,50,592,299,293,592,9,5,95,0
+45350,Ballarat High School,VIC,Government,Secondary,Inner Regional,1007,50,1417,761,656,1416.5,1,5,94,1
+45419,Mansfield Secondary College,VIC,Government,Secondary,Outer Regional,1009,51,436,198,238,433.6,1,5,91,4
+40252,Marist Regional College,TAS,Catholic,Secondary,Outer Regional,1011,52,758,405,353,758,12,5,95,0
+49600,Banksia Park International High School,SA,Government,Secondary,Major Cities,1012,52,854,406,448,854,2,5,95,0
+40081,Riverside High School,TAS,Government,Secondary,Inner Regional,1018,55,769,375,394,768.4,5,5,94,1
+49146,Esperance Anglican Community School,WA,Independent,Secondary,Remote,1017,55,192,95,97,192,4,5,95,0
+47909,Ignatius Park College,QLD,Catholic,Secondary,Outer Regional,1024,58,1001,0,1001,1001,10,5,92,3
+47916,The Cathedral College,QLD,Catholic,Secondary,Inner Regional,1025,58,1281,653,628,1281,7,5,95,0
+43628,Xavier High School,NSW,Catholic,Secondary,Inner Regional,1040,65,790,364,426,790,3,5,95,0
+47881,St Mary's College,QLD,Catholic,Secondary,Major Cities,1039,65,648,648,0,648,3,5,95,0
+48140,Margaret River Senior High School,WA,Government,Secondary,Inner Regional,1039,65,1100,535,565,1100,2,5,74,21
+43545,St John Paul College,NSW,Catholic,Secondary,Inner Regional,1045,68,1007,511,496,1007,4,5,95,0
+45637,Emmanuel College Inc.,VIC,Catholic,Secondary,Inner Regional,1046,68,1201,645,556,1193.8,1,5,95,0
+43323,St Mary's Catholic College,NSW,Catholic,Secondary,Major Cities,1055,72,857,410,447,857,5,5,95,0
+49968,St Clare's College,ACT,Catholic,Secondary,Major Cities,1076,79,1048,1048,0,1048,3,5,95,0
+47875,San Sisto College,QLD,Catholic,Secondary,Major Cities,1081,80,824,824,0,824,1,5,95,0
+47872,Mount Alvernia College,QLD,Catholic,Secondary,Major Cities,1095,84,904,903,1,904,1,5,95,0
+45874,Marcellin College,VIC,Catholic,Secondary,Major Cities,1098,85,1420,0,1420,1420,0,5,95,0
+43680,St Joseph's College,NSW,Independent,Secondary,Major Cities,1116,89,1092,0,1092,1092,4,5,45,50
+47884,St Rita's College,QLD,Catholic,Secondary,Major Cities,1134,93,1038,1038,0,1037.5,1,5,95,0
+47877,Stuartholme School,QLD,Catholic,Secondary,Major Cities,1149,95,681,681,0,681,2,5,95,0
+42525,Moree Secondary College Carol Ave Campus,NSW,Government,Secondary,Outer Regional,770,2,223,99,124,223,59,6,94,0
+42529,Peel High School,NSW,Government,Secondary,Inner Regional,853,4,737,345,392,736.2,38,6,94,0
+43115,Dubbo College South Campus,NSW,Government,Secondary,Inner Regional,901,9,759,320,439,759,37,6,94,0
+47411,Charters Towers State High School,QLD,Government,Secondary,Outer Regional,901,9,454,209,245,454,27,6,94,0
+40727,Geraldton Senior High School,WA,Government,Secondary,Outer Regional,905,10,934,474,460,934,24,6,86,8
+42098,Lake Macquarie High School,NSW,Government,Secondary,Major Cities,908,10,396,191,205,396,18,6,94,0
+42696,Narrandera High School,NSW,Government,Secondary,Outer Regional,905,10,340,181,159,339.6,27,6,94,0
+42114,Francis Greenway High School,NSW,Government,Secondary,Major Cities,911,11,734,351,383,734,17,6,94,0
+42131,Rutherford Technology High School,NSW,Government,Secondary,Major Cities,909,11,1173,585,588,1173,16,6,94,0
+42407,Nambucca Heads High School,NSW,Government,Secondary,Outer Regional,912,11,438,221,217,438,26,6,94,0
+42928,Kanahooka High School,NSW,Government,Secondary,Major Cities,913,12,620,296,324,617.4,18,6,94,0
+47413,Ayr State High School,QLD,Government,Secondary,Outer Regional,921,13,486,251,235,486,17,6,94,0
+45381,Eaglehawk Secondary College,VIC,Government,Secondary,Inner Regional,929,15,660,339,321,659.2,8,6,88,6
+42104,Lake Munmorah High School,NSW,Government,Secondary,Major Cities,931,16,722,345,377,721.4,13,6,94,0
+46559,Northern Beaches State High School,QLD,Government,Secondary,Outer Regional,931,16,863,408,455,863,17,6,94,0
+42112,Morisset High School,NSW,Government,Secondary,Major Cities,933,17,719,367,352,711.4,16,6,94,0
+43122,"Denison College of Secondary Education, Kelso High Campus",NSW,Government,Secondary,Inner Regional,934,17,808,396,412,806.6,16,6,94,0
+42937,Vincentia High School,NSW,Government,Secondary,Inner Regional,935,18,1069,509,560,1067.6,17,6,94,0
+41807,Richmond High School,NSW,Government,Secondary,Major Cities,939,19,619,294,325,617.2,12,6,94,0
+42526,Macintyre High School,NSW,Government,Secondary,Outer Regional,939,19,550,293,257,548.8,15,6,94,0
+42709,Tumbarumba High School,NSW,Government,Secondary,Outer Regional,942,20,177,77,100,177,15,6,94,0
+49474,Port Lincoln High School,SA,Government,Secondary,Remote,941,20,727,348,379,723,18,6,94,0
+48248,Eaton Community College,WA,Government,Secondary,Inner Regional,946,22,553,294,259,553,9,6,16,78
+42916,Moruya High School,NSW,Government,Secondary,Inner Regional,952,24,528,258,270,526.8,17,6,94,0
+47573,Flagstone State Community College,QLD,Government,Secondary,Major Cities,951,24,882,433,449,873.2,9,6,94,0
+45396,Western Port Secondary College,VIC,Government,Secondary,Major Cities,955,25,636,319,317,636,8,6,93,1
+42920,Bomaderry High School,NSW,Government,Secondary,Inner Regional,958,26,728,375,353,727,15,6,94,0
+48149,Pinjarra Senior High School,WA,Government,Secondary,Major Cities,961,28,746,388,358,746,9,6,67,27
+40423,Edward John Eyre High School,SA,Government,Secondary,Outer Regional,963,29,416,181,235,362.4,12,6,94,0
+42923,Mulwaree High School,NSW,Government,Secondary,Inner Regional,969,31,916,435,481,915.1,8,6,94,0
+47481,Mackay North State High School,QLD,Government,Secondary,Inner Regional,968,31,1370,690,680,1370,13,6,94,0
+45511,Stawell Secondary College,VIC,Government,Secondary,Inner Regional,970,32,374,182,192,372.5,4,6,94,0
+49482,Waikerie High School,SA,Government,Secondary,Outer Regional,970,32,265,132,133,264.4,5,6,94,0
+42384,"The Rivers Secondary College, Richmond River High Campus",NSW,Government,Secondary,Inner Regional,973,33,702,345,357,701.8,12,6,94,0
+42936,Albion Park High School,NSW,Government,Secondary,Major Cities,972,33,906,473,433,905.4,8,6,94,0
+51495,Burpengary State Secondary College,QLD,Government,Secondary,Major Cities,981,37,1081,558,523,1080.8,6,6,94,0
+45494,Yea High School,VIC,Government,Secondary,Inner Regional,986,40,313,149,164,310.7,4,6,76,18
+45332,Irymple Secondary College,VIC,Government,Secondary,Outer Regional,990,41,580,272,308,580,5,6,94,0
+45339,Mount Clear College,VIC,Government,Secondary,Inner Regional,990,41,1063,529,534,1060.2,3,6,91,3
+40076,Kingston High School,TAS,Government,Secondary,Inner Regional,992,42,650,293,357,644.9,10,6,90,4
+43101,Orange High School,NSW,Government,Secondary,Inner Regional,992,43,1143,578,565,1143,8,6,94,0
+42092,Maitland Grossmann High School,NSW,Government,Secondary,Major Cities,996,44,1046,514,532,1046,8,6,94,0
+40629,Western Australian College Of Agriculture - Morawa,WA,Government,Secondary,Remote,999,46,51,10,41,51,8,6,6,88
+43652,McCarthy Catholic College,NSW,Catholic,Secondary,Inner Regional,1004,48,808,445,363,808,10,6,94,0
+45329,Daylesford Secondary College,VIC,Government,Secondary,Inner Regional,1003,48,485,236,249,484.9,2,6,94,0
+47643,Ormeau Woods State High School,QLD,Government,Secondary,Major Cities,1004,48,1536,745,791,1536,3,6,94,0
+41161,Heathcote High School,NSW,Government,Secondary,Major Cities,1005,49,712,337,375,711.6,3,6,94,0
+47908,Burdekin Catholic High School,QLD,Catholic,Secondary,Outer Regional,1010,51,395,200,195,395,4,6,94,0
+47473,Noosa District State High School,QLD,Government,Secondary,Inner Regional,1012,52,1169,544,625,1168.2,5,6,94,0
+47560,Elanora State High School,QLD,Government,Secondary,Major Cities,1012,52,949,439,510,949,5,6,94,0
+48127,Eastern Hills Senior High School,WA,Government,Secondary,Major Cities,1019,55,926,463,463,926,4,6,11,83
+45387,Bendigo South East 7-10 Secondary College,VIC,Government,Secondary,Inner Regional,1020,56,1484,705,779,1480.4,3,6,94,0
+52527,SEDA College (Victoria),VIC,Independent,Secondary,Major Cities,1020,56,785,262,523,785,3,6,94,0
+42918,Woonona High School,NSW,Government,Secondary,Major Cities,1028,60,850,420,430,849.6,5,6,94,0
+43328,St John the Evangelist Catholic High School,NSW,Catholic,Secondary,Inner Regional,1028,60,936,474,462,936,7,6,94,0
+43625,Kildare Catholic College,NSW,Catholic,Secondary,Inner Regional,1031,61,978,511,467,978,6,6,94,0
+40618,All Saints College,NSW,Catholic,Secondary,Major Cities,1033,62,471,263,208,468.9,5,6,94,0
+42115,Warners Bay High School,NSW,Government,Secondary,Major Cities,1037,64,1303,639,664,1301.4,4,6,94,0
+43318,All Saints College (St Peter's Campus),NSW,Catholic,Secondary,Major Cities,1038,64,902,453,449,902,7,6,94,0
+47569,Tamborine Mountain State High School,QLD,Government,Secondary,Major Cities,1044,67,1040,524,516,1040,3,6,94,0
+43626,Mater Dei Catholic College,NSW,Catholic,Secondary,Inner Regional,1050,70,707,365,342,707,4,6,94,0
+47860,Aquinas College,QLD,Catholic,Secondary,Major Cities,1056,72,912,472,440,912,1,6,94,0
+45713,Padua College,VIC,Catholic,Secondary,Major Cities,1062,74,2457,1236,1221,2457,1,6,94,0
+49970,St Francis Xavier College,ACT,Catholic,Secondary,Major Cities,1069,76,1185,572,613,1185,2,6,94,0
+45947,Aquinas College,VIC,Catholic,Secondary,Major Cities,1070,77,1679,808,871,1678.4,1,6,94,0
+45382,Eltham High School,VIC,Government,Secondary,Major Cities,1089,82,1437,700,737,1436.1,1,6,94,0
+48936,Mercedes College,WA,Catholic,Secondary,Major Cities,1120,90,838,838,0,838,1,6,94,0
+45675,Star of the Sea College,VIC,Catholic,Secondary,Major Cities,1126,91,1187,1187,0,1187,0,6,94,0
+47873,Mt St Michael's College,QLD,Catholic,Secondary,Major Cities,1145,95,889,889,0,889,1,6,90,4
+47993,Hillbrook Anglican School,QLD,Independent,Secondary,Major Cities,1165,97,782,400,382,781.8,1,6,70,24
+48237,Coodanup College,WA,Government,Secondary,Major Cities,895,8,799,376,423,799,23,7,36,57
+47549,Collinsville State High School,QLD,Government,Secondary,Remote,912,11,92,45,47,92,17,7,93,0
+43098,Broken Hill High School,NSW,Government,Secondary,Outer Regional,916,12,511,262,249,511,22,7,93,0
+42125,Gorokan High School,NSW,Government,Secondary,Major Cities,934,17,1013,497,516,1012,16,7,93,0
+42375,"The Rivers Secondary College, Lismore High Campus",NSW,Government,Secondary,Inner Regional,933,17,478,224,254,477.8,19,7,93,0
+43126,Oberon High School,NSW,Government,Secondary,Inner Regional,934,17,201,102,99,201,9,7,93,0
+47515,Blackwater State High School,QLD,Government,Secondary,Outer Regional,932,17,353,159,194,353,19,7,93,0
+41565,Picton High School,NSW,Government,Secondary,Inner Regional,939,19,1037,471,566,1037,9,7,93,0
+42402,"Hastings Secondary College, Westport Campus",NSW,Government,Secondary,Inner Regional,940,19,615,310,305,614.4,16,7,93,0
+49460,Glossop High School,SA,Government,Secondary,Outer Regional,945,21,607,279,328,606.3,13,7,93,0
+42905,Goulburn High School,NSW,Government,Secondary,Inner Regional,947,22,600,292,308,599.4,9,7,93,0
+47409,Bundaberg State High School,QLD,Government,Secondary,Inner Regional,952,24,1473,735,738,1471.4,11,7,93,0
+45369,Cobram Secondary College,VIC,Government,Secondary,Inner Regional,959,27,361,189,172,356,6,7,93,0
+40077,Kings Meadows High School,TAS,Government,Secondary,Inner Regional,961,28,599,308,291,598.2,5,7,93,0
+43097,"Denison College of Secondary Education, Bathurst High Campus",NSW,Government,Secondary,Inner Regional,968,31,1084,472,612,1082.1,14,7,93,0
+48145,Narrogin Senior High School,WA,Government,Secondary,Outer Regional,968,31,652,358,294,652,12,7,93,0
+42102,Tuggerah Lakes Secondary College Tumbi Umbi Campus,NSW,Government,Secondary,Major Cities,971,32,1170,574,596,1170,13,7,93,0
+42130,Tuggerah Lakes Secondary College Berkeley Vale Campus,NSW,Government,Secondary,Major Cities,972,33,803,417,386,803,11,7,93,0
+45525,Bacchus Marsh College,VIC,Government,Secondary,Major Cities,971,33,942,442,500,940.6,4,7,93,0
+50535,Mackay Northern Beaches State High School,QLD,Government,Secondary,Inner Regional,973,33,1012,479,533,1012,12,7,93,0
+42121,Tomaree High School,NSW,Government,Secondary,Inner Regional,977,35,1186,548,638,1185.4,8,7,93,0
+42136,Cardiff High School,NSW,Government,Secondary,Major Cities,976,35,710,349,361,709.8,12,7,93,0
+47601,Queensland Pathways State College,QLD,Government,Secondary,Major Cities,976,35,203,116,87,199.4,16,7,93,0
+47460,Malanda State High School,QLD,Government,Secondary,Outer Regional,979,36,487,255,232,487,11,7,93,0
+52260,Yanchep Secondary College,WA,Government,Secondary,Major Cities,979,36,718,335,383,718,7,7,90,3
+45556,Horsham College,VIC,Government,Secondary,Outer Regional,980,37,958,473,485,957.2,4,7,93,0
+42910,Monaro High School,NSW,Government,Secondary,Inner Regional,982,38,461,210,251,461,5,7,93,0
+42929,Ulladulla High School,NSW,Government,Secondary,Inner Regional,987,40,1251,634,617,1251,8,7,93,0
+42406,Kingscliff High School,NSW,Government,Secondary,Major Cities,992,43,1054,554,500,1052.8,11,7,93,0
+45324,Mount Erin Secondary College,VIC,Government,Secondary,Major Cities,994,44,896,420,476,896,2,7,92,1
+45391,Geelong High School,VIC,Government,Secondary,Major Cities,998,46,934,424,510,933.6,2,7,92,1
+48257,Cape Naturaliste College,WA,Government,Secondary,Inner Regional,1006,49,877,394,483,877,2,7,67,27
+48116,Albany Senior High School,WA,Government,Secondary,Outer Regional,1007,50,977,476,501,977,5,7,69,24
+46705,Narangba Valley State High School,QLD,Government,Secondary,Major Cities,1010,51,1988,1032,956,1988,4,7,93,0
+45542,Mornington Secondary College,VIC,Government,Secondary,Major Cities,1014,53,1589,725,864,1588.5,1,7,93,0
+43324,St Paul's Catholic College,NSW,Catholic,Secondary,Major Cities,1022,57,849,453,396,849,6,7,93,0
+45445,Oberon High School,VIC,Government,Secondary,Major Cities,1023,57,747,335,412,744.3,3,7,93,0
+43580,James Sheahan Catholic High School,NSW,Catholic,Secondary,Inner Regional,1025,58,1054,534,520,1054,4,7,93,0
+47852,St Columban's College,QLD,Catholic,Secondary,Major Cities,1024,58,1102,521,581,1102,4,7,93,0
+40708,Lavalla Catholic College,VIC,Catholic,Secondary,Inner Regional,1026,59,1191,604,587,1189.9,1,7,93,0
+40829,Manea Senior College,WA,Government,Secondary,Inner Regional,1029,60,590,360,230,589.4,1,7,89,5
+42133,Kincumber High School,NSW,Government,Secondary,Major Cities,1028,60,1024,529,495,1023.6,5,7,93,0
+45427,Monbulk College,VIC,Government,Secondary,Major Cities,1030,61,567,256,311,562.9,2,7,92,1
+47900,Shalom College,QLD,Catholic,Secondary,Inner Regional,1030,61,1460,757,703,1460,4,7,93,0
+46043,Catholic College Wodonga,VIC,Catholic,Secondary,Inner Regional,1042,66,1210,622,588,1210,2,7,93,0
+47555,Maleny State High School,QLD,Government,Secondary,Inner Regional,1044,67,686,336,350,685.4,3,7,93,0
+43689,St Stanislaus' College,NSW,Independent,Secondary,Inner Regional,1046,68,538,0,538,538,6,7,93,0
+47899,St Ursula's College,QLD,Catholic,Secondary,Inner Regional,1060,74,501,501,0,501,4,7,93,0
+52858,Iona College Geelong,VIC,Catholic,Secondary,Major Cities,1063,74,152,54,98,152,1,7,93,0
+49089,John Calvin Christian College,WA,Independent,Secondary,Major Cities,1075,78,370,173,197,370,0,7,92,0
+43669,Chevalier College,NSW,Independent,Secondary,Inner Regional,1077,79,925,490,435,925,2,7,90,3
+48083,Grace Lutheran College,QLD,Independent,Secondary,Major Cities,1077,79,1311,719,592,1311,3,7,93,0
+43663,Edmund Rice College,NSW,Independent,Secondary,Major Cities,1082,80,1046,0,1046,1046,2,7,93,0
+45864,St Bernard's College,VIC,Catholic,Secondary,Major Cities,1082,80,1532,0,1532,1532,0,7,93,0
+40616,Eynesbury Senior College,SA,Independent,Secondary,Major Cities,1109,88,125,83,42,119.3,1,7,93,0
+42924,Lake Illawarra High School,NSW,Government,Secondary,Major Cities,903,10,532,252,280,531.8,20,8,92,0
+47461,Charleville State High School,QLD,Government,Secondary,Very Remote,915,12,254,127,127,242,32,8,92,0
+42695,Leeton High School,NSW,Government,Secondary,Outer Regional,923,14,463,239,224,462.2,12,8,92,0
+47458,Bowen State High School,QLD,Government,Secondary,Outer Regional,925,14,699,328,371,699,23,8,91,0
+47484,Oakey State High School,QLD,Government,Secondary,Inner Regional,931,16,517,261,256,517,17,8,92,0
+47523,Miles State High School,QLD,Government,Secondary,Outer Regional,931,16,177,86,91,177,17,8,92,0
+42706,West Wyalong High School,NSW,Government,Secondary,Outer Regional,936,18,273,143,130,273,15,8,92,0
+41841,Hawkesbury High School,NSW,Government,Secondary,Major Cities,951,24,421,197,224,421,10,8,92,0
+45348,Whittlesea Secondary College,VIC,Government,Secondary,Inner Regional,953,24,693,303,390,690.7,4,8,91,2
+47430,Dalby State High School,QLD,Government,Secondary,Inner Regional,951,24,1000,492,508,1000,18,8,93,0
+49467,Mount Gambier High School,SA,Government,Secondary,Inner Regional,959,27,734,375,359,725.2,5,8,92,0
+42376,Murwillumbah High School,NSW,Government,Secondary,Major Cities,969,31,470,232,238,469.9,11,8,92,0
+42387,Banora Point High School,NSW,Government,Secondary,Major Cities,973,33,623,288,335,618.9,11,8,92,0
+48227,North Albany Senior High School,WA,Government,Secondary,Outer Regional,972,33,833,373,460,833,10,8,74,18
+42408,Wollumbin High School,NSW,Government,Secondary,Major Cities,976,35,387,191,196,385.6,7,8,92,0
+47553,Alexandra Hills State High School,QLD,Government,Secondary,Major Cities,979,36,1568,668,900,1567.6,8,8,92,0
+52284,Coastal Lakes College,WA,Government,Secondary,Major Cities,981,37,461,218,243,461,5,8,68,24
+48259,Dalyellup College,WA,Government,Secondary,Inner Regional,983,38,754,348,406,754,4,8,23,68
+45335,Lilydale Heights College,VIC,Government,Secondary,Major Cities,994,44,575,289,286,574.2,1,8,91,1
+47482,Maroochydore State High School,QLD,Government,Secondary,Major Cities,997,45,1294,663,631,1282.8,6,8,92,0
+47901,Emmaus College,QLD,Catholic,Secondary,Inner Regional,997,45,1304,633,671,1304,10,8,92,0
+52454,Australian Technology and Agricultural College,QLD,Independent,Secondary,Major Cities,998,46,12,0,12,12,8,8,92,0
+42917,Moss Vale High School,NSW,Government,Secondary,Inner Regional,1002,47,725,371,354,725,5,8,92,0
+42127,Lisarow High School,NSW,Government,Secondary,Major Cities,1008,50,825,387,438,823.8,5,8,92,0
+52439,St Bede's Catholic College,NSW,Catholic,Secondary,Major Cities,1010,51,358,200,158,358,7,8,92,0
+52490,Alkimos College,WA,Government,Secondary,Major Cities,1009,51,175,84,91,175,2,8,92,0
+42689,Albury High School,NSW,Government,Secondary,Inner Regional,1012,52,1006,529,477,1005.9,6,8,92,0
+49673,Golden Grove High School,SA,Government,Secondary,Major Cities,1013,53,1321,674,647,1318,3,8,92,0
+45710,Trinity College Colac Inc,VIC,Catholic,Secondary,Inner Regional,1017,54,730,356,374,730,2,8,92,0
+40684,St Patrick's College,QLD,Catholic,Secondary,Inner Regional,1017,55,531,302,229,531,5,8,91,1
+42108,Whitebridge High School,NSW,Government,Secondary,Major Cities,1020,56,967,442,525,965.1,7,8,92,0
+43329,St Joseph's Catholic High School,NSW,Catholic,Secondary,Major Cities,1023,57,679,368,311,679,3,8,92,0
+43320,St Clare's High School,NSW,Catholic,Secondary,Inner Regional,1024,58,566,265,301,566,8,8,92,0
+47510,Palm Beach-Currumbin State High School,QLD,Government,Secondary,Major Cities,1027,59,2596,1243,1353,2596,6,8,92,0
+42908,Kiama High School,NSW,Government,Secondary,Inner Regional,1029,60,1023,498,525,1022,5,8,92,0
+47903,Mercy College,QLD,Catholic,Secondary,Inner Regional,1030,61,970,516,454,970,5,8,92,0
+42126,Terrigal High School,NSW,Government,Secondary,Major Cities,1037,64,970,497,473,969.6,5,8,92,0
+40412,Catherine McAuley College,VIC,Catholic,Secondary,Inner Regional,1040,65,1406,708,698,1403,1,8,92,0
+47567,Mountain Creek State High School,QLD,Government,Secondary,Major Cities,1043,67,2169,1092,1077,2169,3,8,92,0
+47888,Chisholm Catholic College,QLD,Catholic,Secondary,Major Cities,1046,68,978,481,497,978,2,8,92,0
+41843,Winmalee High School,NSW,Government,Secondary,Major Cities,1050,69,852,419,433,852,4,8,92,0
+45433,Mount Eliza Secondary College,VIC,Government,Secondary,Major Cities,1052,70,569,288,281,568.4,1,8,89,3
+45855,St Bede's College,VIC,Catholic,Secondary,Major Cities,1096,84,1566,0,1566,1566,0,8,92,0
+40429,Wodonga Senior Secondary College,VIC,Government,Secondary,Inner Regional,865,5,1111,536,575,1098.8,11,9,91,0
+42403,Melville High School,NSW,Government,Secondary,Inner Regional,866,5,592,301,291,592,34,9,91,0
+48263,Champion Bay Senior High School,WA,Government,Secondary,Outer Regional,903,10,766,348,418,766,32,9,65,26
+47547,Pioneer State High School,QLD,Government,Secondary,Inner Regional,910,11,588,287,301,587.1,25,9,91,0
+41819,Windsor High School,NSW,Government,Secondary,Major Cities,924,14,557,263,294,556.1,17,9,91,0
+47427,Glenmore State High School,QLD,Government,Secondary,Inner Regional,925,14,594,273,321,594,18,9,91,0
+45468,Oakwood School,VIC,Government,Secondary,Major Cities,931,16,452,219,233,447.2,8,9,91,0
+45547,Monterey Secondary College,VIC,Government,Secondary,Major Cities,931,16,268,117,151,268,4,9,91,0
+40622,Five Islands Secondary College,NSW,Government,Secondary,Major Cities,937,18,345,179,166,256.3,7,9,91,0
+45347,Weeroona College Bendigo,VIC,Government,Secondary,Inner Regional,936,18,736,365,371,735.8,10,9,91,1
+47565,Tullawong State High School,QLD,Government,Secondary,Major Cities,940,20,1132,632,500,1131.2,14,9,91,0
+40097,Queechy High School,TAS,Government,Secondary,Inner Regional,949,23,685,329,356,684.4,7,9,90,1
+48155,Central Midlands Senior High School,WA,Government,Secondary,Outer Regional,950,23,182,102,80,182,19,9,15,76
+47444,Bremer State High School,QLD,Government,Secondary,Major Cities,952,24,2059,1033,1026,2059,12,9,91,0
+50400,Newstead College,TAS,Government,Secondary,Inner Regional,955,25,530,299,231,496.8,8,9,89,1
+42383,Ballina Coast High School,NSW,Government,Secondary,Inner Regional,958,27,954,433,521,950.8,17,9,91,0
+47459,Caboolture State High School,QLD,Government,Secondary,Major Cities,959,27,1422,683,739,1421.8,11,9,91,0
+42390,"Hastings Secondary College, Port Macquarie Campus",NSW,Government,Secondary,Inner Regional,962,28,739,357,382,737.8,16,9,91,0
+42911,Nowra High School,NSW,Government,Secondary,Inner Regional,961,28,897,449,448,895.6,14,9,91,0
+45333,Crusoe 7-10 Secondary College,VIC,Government,Secondary,Inner Regional,961,28,745,362,383,744,4,9,91,0
+47428,Gladstone State High School,QLD,Government,Secondary,Inner Regional,964,29,1552,785,767,1545.6,12,9,91,0
+52253,Specialised Assistance School For Youth (SASY),SA,Independent,Secondary,Major Cities,965,29,128,77,51,117.6,3,9,55,36
+47531,Toolooa State High School,QLD,Government,Secondary,Inner Regional,967,30,1056,543,513,1056,12,9,91,0
+42912,Dapto High School,NSW,Government,Secondary,Major Cities,969,31,964,474,490,960.6,8,9,91,0
+47505,Emerald State High School,QLD,Government,Secondary,Outer Regional,968,31,813,403,410,813,8,9,91,0
+47905,St Brendan's College,QLD,Catholic,Secondary,Inner Regional,970,32,763,0,763,763,17,9,91,0
+42116,Tuggerah Lakes Secondary College The Entrance Campus,NSW,Government,Secondary,Major Cities,971,33,752,371,381,750.9,9,9,91,0
+47563,William Ross State High School,QLD,Government,Secondary,Outer Regional,976,35,856,413,443,856,14,9,91,0
+41566,Camden High School,NSW,Government,Secondary,Major Cities,979,36,1101,577,524,1099.2,7,9,91,0
+48249,Halls Head College,WA,Government,Secondary,Major Cities,978,36,1399,685,714,1399,5,9,39,52
+42134,Narara Valley High School,NSW,Government,Secondary,Major Cities,982,38,824,426,398,823.1,8,9,91,0
+47501,Bracken Ridge State High School,QLD,Government,Secondary,Major Cities,986,39,644,300,344,643.2,8,9,91,0
+52283,Ridge View Secondary College,WA,Government,Secondary,Major Cities,1002,47,352,192,160,352,3,9,73,18
+47671,Mt Maria College - Petrie,QLD,Catholic,Secondary,Major Cities,1002,48,450,192,258,448.8,7,9,91,0
+41837,Colo High School,NSW,Government,Secondary,Major Cities,1012,52,884,445,439,884,4,9,91,0
+48122,Bunbury Senior High School,WA,Government,Secondary,Inner Regional,1015,54,979,536,443,979,6,9,73,18
+42405,Alstonville High School,NSW,Government,Secondary,Inner Regional,1017,55,697,343,354,696.6,6,9,91,0
+43627,St Francis De Sales Regional College,NSW,Catholic,Secondary,Outer Regional,1018,55,711,386,325,711,6,9,91,0
+48242,Belridge Secondary College,WA,Government,Secondary,Major Cities,1017,55,1015,456,559,1015,3,9,5,87
+40251,St Patrick's College,TAS,Catholic,Secondary,Inner Regional,1021,57,1424,701,723,1424,5,9,91,0
+40630,Guilford Young College,TAS,Catholic,Secondary,Inner Regional,1021,57,813,378,435,812.1,5,9,91,0
+52243,Australian Industry Trade College - Redlands,QLD,Independent,Secondary,Major Cities,1024,58,216,17,199,216,3,9,91,0
+43579,St Johns College,NSW,Catholic,Secondary,Inner Regional,1027,59,874,436,438,873.2,12,9,91,0
+46085,St Mary MacKillop College,VIC,Catholic,Secondary,Outer Regional,1027,59,433,238,195,432.2,2,9,91,0
+47861,St Joseph's College,QLD,Catholic,Secondary,Inner Regional,1035,63,890,483,407,890,3,9,91,0
+40624,Coffs Harbour Senior College,NSW,Government,Secondary,Inner Regional,1037,64,477,282,195,470.1,4,9,91,0
+47911,St Margaret Mary's College,QLD,Catholic,Secondary,Outer Regional,1040,65,712,712,0,712,8,9,91,0
+48877,Bunbury Catholic College,WA,Catholic,Secondary,Inner Regional,1043,67,827,426,401,827,1,9,91,0
+47534,Albany Creek State High School,QLD,Government,Secondary,Major Cities,1050,70,1457,698,759,1457,2,9,91,0
+45432,Mount Beauty Secondary College,VIC,Government,Secondary,Inner Regional,1052,71,185,89,96,183.3,1,9,89,2
+41836,Blaxland High School,NSW,Government,Secondary,Major Cities,1062,74,973,475,498,972.4,5,9,91,0
+43270,St Joseph's Catholic College,NSW,Catholic,Secondary,Major Cities,1065,75,831,831,0,831,3,9,91,0
+48912,Mazenod College,WA,Catholic,Secondary,Major Cities,1068,76,842,0,842,842,2,9,80,11
+47871,Lourdes Hill College,QLD,Catholic,Secondary,Major Cities,1111,88,1271,1271,0,1271,2,9,85,6
+42701,James Fallon High School,NSW,Government,Secondary,Inner Regional,903,9,708,355,353,705.9,16,10,90,0
+47452,Mareeba State High School,QLD,Government,Secondary,Outer Regional,910,11,781,390,391,779.2,29,10,90,0
+47436,North Rockhampton State High School,QLD,Government,Secondary,Inner Regional,914,12,927,465,462,927,26,10,90,0
+47477,Goondiwindi State High School,QLD,Government,Secondary,Outer Regional,916,12,488,223,265,488,22,10,90,0
+48146,Newton Moore Senior High School,WA,Government,Secondary,Inner Regional,921,14,646,304,342,645.4,19,10,17,73
+45503,Kurnai College,VIC,Government,Secondary,Inner Regional,934,17,1087,509,578,1086.6,7,10,90,0
+48246,Warnbro Community High School,WA,Government,Secondary,Major Cities,935,18,902,474,428,902,7,10,88,1
+47488,Tully State High School,QLD,Government,Secondary,Outer Regional,939,19,717,360,357,716.8,19,10,90,0
+42094,Wyong High School,NSW,Government,Secondary,Major Cities,940,20,770,350,420,769.2,15,10,90,0
+42391,Tweed River High School,NSW,Government,Secondary,Major Cities,942,20,703,325,378,702.6,19,10,90,0
+47455,Lockyer District State High School,QLD,Government,Secondary,Inner Regional,941,20,1100,539,561,1099.6,11,10,90,0
+42106,Brisbane Water Secondary College Umina Campus,NSW,Government,Secondary,Major Cities,963,29,910,422,488,910,12,10,90,0
+47516,Moranbah State High School,QLD,Government,Secondary,Outer Regional,967,30,715,330,385,715,9,10,90,0
+47548,Nerang State High School,QLD,Government,Secondary,Major Cities,972,33,1160,567,593,1160,6,10,90,0
+50185,Yarra Hills Secondary College,VIC,Government,Secondary,Major Cities,972,33,839,376,463,838.7,2,10,90,0
+45574,Lara Secondary College,VIC,Government,Secondary,Major Cities,977,35,635,293,342,634.6,4,10,88,3
+40440,Brisbane Water Secondary College Woy Woy Campus,NSW,Government,Secondary,Major Cities,978,36,669,333,336,667.6,9,10,90,0
+48218,Safety Bay Senior High School,WA,Government,Secondary,Major Cities,979,37,1153,579,574,1153,4,10,63,28
+40576,Bendigo Senior Secondary College,VIC,Government,Secondary,Inner Regional,999,46,1726,870,856,1603,3,10,83,7
+45509,Patterson River Secondary College,VIC,Government,Secondary,Major Cities,1000,46,1142,532,610,1141.5,3,10,90,0
+47958,Faith Lutheran College - Plainland,QLD,Independent,Secondary,Inner Regional,999,46,716,378,338,716,5,10,90,0
+47556,Wellington Point State High School,QLD,Government,Secondary,Major Cities,1007,49,952,470,482,951.1,6,10,90,0
+47647,Marist College,QLD,Catholic,Secondary,Outer Regional,1009,50,550,253,297,550,4,10,88,2
+45555,Heathmont College,VIC,Government,Secondary,Major Cities,1012,52,688,307,381,688,2,10,90,0
+47880,Trinity College,QLD,Catholic,Secondary,Major Cities,1019,56,865,425,440,865,2,10,90,0
+48894,Nagle Catholic College,WA,Catholic,Secondary,Outer Regional,1020,56,1088,588,500,1088,7,10,90,0
+47902,Chanel College,QLD,Catholic,Secondary,Inner Regional,1028,60,620,311,309,620,5,10,89,0
+41825,Springwood High School,NSW,Government,Secondary,Major Cities,1039,65,668,335,333,666.8,5,10,90,0
+50257,Hobart College,TAS,Government,Secondary,Inner Regional,1040,65,1130,575,555,1099.2,5,10,88,3
+47493,Sunshine Beach State High School,QLD,Government,Secondary,Major Cities,1046,68,1571,781,790,1569.4,2,10,90,0
+42938,Bulli High School,NSW,Government,Secondary,Major Cities,1053,71,927,416,511,925.8,4,10,90,0
+40372,St Francis Xavier's College,NSW,Catholic,Secondary,Major Cities,1058,73,938,509,429,936.4,6,10,90,0
+43325,Holy Spirit College,NSW,Catholic,Secondary,Major Cities,1058,73,1255,617,638,1253.9,2,10,90,0
+47527,Ferny Grove State High School,QLD,Government,Secondary,Major Cities,1064,75,1885,903,982,1885,3,10,90,0
+49504,Blackwood High School,SA,Government,Secondary,Major Cities,1067,76,946,455,491,938.1,1,10,90,0
+43487,St John Bosco College,NSW,Catholic,Secondary,Major Cities,1069,77,887,444,443,887,4,10,90,0
+42939,Oak Flats High School,NSW,Government,Secondary,Major Cities,924,14,652,294,358,651.2,13,11,89,0
+48118,Armadale Senior High School,WA,Government,Secondary,Major Cities,929,16,714,312,402,714,9,11,69,20
+49468,Murray Bridge High School,SA,Government,Secondary,Inner Regional,938,19,1048,509,539,1037.8,13,11,89,0
+47476,Clontarf Beach State High School,QLD,Government,Secondary,Major Cities,954,25,922,454,468,917.5,10,11,89,0
+42396,Dorrigo High School,NSW,Government,Secondary,Outer Regional,957,26,127,56,71,126,13,11,89,0
+47470,Biloela State High School,QLD,Government,Secondary,Outer Regional,960,27,571,281,290,571,9,11,89,0
+49469,Naracoorte High School,SA,Government,Secondary,Outer Regional,965,30,348,180,168,344.1,3,11,89,0
+42105,Kariong Mountains High School,NSW,Government,Secondary,Major Cities,978,36,508,254,254,508,5,11,89,0
+45571,McClelland Secondary College,VIC,Government,Secondary,Major Cities,978,36,1010,493,517,1009.8,2,11,89,0
+50536,Pimpama State Secondary College,QLD,Government,Secondary,Major Cities,981,37,1753,873,880,1753,6,11,89,0
+40443,Launceston College,TAS,Government,Secondary,Inner Regional,984,39,1302,719,583,1289,4,11,89,1
+47528,Shailer Park State High School,QLD,Government,Secondary,Major Cities,986,40,1060,506,554,1059.2,5,11,89,0
+47551,Bray Park State High School,QLD,Government,Secondary,Major Cities,989,41,1112,531,581,1111.4,7,11,89,0
+42109,Erina High School,NSW,Government,Secondary,Major Cities,991,42,720,350,370,719,8,11,89,0
+45429,Mooroolbark College,VIC,Government,Secondary,Major Cities,994,43,1164,582,582,1162.8,2,11,88,0
+47251,Pacific Pines State High School,QLD,Government,Secondary,Major Cities,1008,50,1836,886,950,1836,3,11,89,0
+43678,St Dominic's College,NSW,Independent,Secondary,Major Cities,1009,51,971,0,971,971,5,11,89,0
+47422,Wynnum State High School,QLD,Government,Secondary,Major Cities,1020,56,1016,501,515,1016,6,11,89,0
+42123,Newcastle High School,NSW,Government,Secondary,Major Cities,1022,57,1210,579,631,1207.2,10,11,89,0
+47561,Helensvale State High School,QLD,Government,Secondary,Major Cities,1025,58,2370,1204,1166,2370,2,11,89,0
+47650,Holy Spirit College,QLD,Catholic,Secondary,Inner Regional,1030,61,951,480,471,951,5,11,89,0
+43330,Magdalene Catholic College,NSW,Catholic,Secondary,Major Cities,1034,63,1040,625,415,1040,5,11,89,0
+40699,Mindarie Senior College,WA,Government,Secondary,Major Cities,1037,64,780,437,343,780,1,11,58,31
+45471,Sydney Road Community School,VIC,Government,Secondary,Major Cities,1041,66,102,34,68,100.4,3,11,89,0
+45994,John Paul College,VIC,Catholic,Secondary,Major Cities,1041,66,930,427,503,930,1,11,89,0
+48173,Denmark Senior High School,WA,Government,Secondary,Outer Regional,1042,66,427,213,214,427,5,11,75,14
+45428,Montmorency Secondary College,VIC,Government,Secondary,Major Cities,1051,70,1121,560,561,1120,2,11,89,0
+42113,Kotara High School,NSW,Government,Secondary,Major Cities,1059,73,1127,544,583,1123.7,3,11,89,0
+45510,St Helena Secondary College,VIC,Government,Secondary,Major Cities,1061,74,1585,780,805,1584.2,1,11,87,2
+40430,Swinburne Senior Secondary College,VIC,Government,Secondary,Major Cities,1092,83,413,285,128,404.8,0,11,65,24
+43797,The Riverina Anglican College,NSW,Independent,Secondary,Inner Regional,1095,84,726,360,366,726,2,11,89,0
+45726,Catholic Ladies' College Ltd,VIC,Catholic,Secondary,Major Cities,1102,86,755,755,0,754.4,0,11,89,0
+45823,Our Lady of Sion College,VIC,Catholic,Secondary,Major Cities,1104,86,974,974,0,974,0,11,89,0
+46223,Luther College,VIC,Independent,Secondary,Major Cities,1113,88,1192,606,586,1190.5,0,11,89,0
+43675,Monte Sant' Angelo Mercy College,NSW,Independent,Secondary,Major Cities,1173,98,1170,1170,0,1170,0,11,89,0
+41844,Cranebrook High School,NSW,Government,Secondary,Major Cities,915,12,800,404,396,799.8,21,12,88,0
+48211,Swan View Senior High School,WA,Government,Secondary,Major Cities,919,13,642,305,337,642,23,12,6,81
+46724,Wilsonton State High School,QLD,Government,Secondary,Inner Regional,926,15,867,446,421,865,22,12,88,0
+49548,Craigmore High School,SA,Government,Secondary,Major Cities,931,16,1034,499,535,1031,9,12,88,0
+48197,Tom Price Senior High School,WA,Government,Secondary,Very Remote,933,17,280,150,130,280,26,12,63,25
+50006,Taminmin College,NT,Government,Secondary,Outer Regional,941,20,1168,551,617,1168,19,12,88,0
+42101,Callaghan College Wallsend Campus,NSW,Government,Secondary,Major Cities,948,22,1114,557,557,1114,14,12,88,0
+47533,Morayfield State High School,QLD,Government,Secondary,Major Cities,948,22,1487,732,755,1486.8,12,12,88,0
+45558,Western Heights Secondary College,VIC,Government,Secondary,Major Cities,957,26,400,170,230,398.8,4,12,79,10
+47407,Mossman State High School,QLD,Government,Secondary,Outer Regional,956,26,633,300,333,633,16,12,88,0
+42712,Kooringal High School,NSW,Government,Secondary,Inner Regional,972,33,840,432,408,839.2,11,12,88,0
+42904,Bowral High School,NSW,Government,Secondary,Inner Regional,978,36,782,366,416,780.5,5,12,88,0
+49946,Lanyon High School,ACT,Government,Secondary,Major Cities,978,36,370,180,190,370,10,12,88,0
+47487,Pine Rivers State High School,QLD,Government,Secondary,Major Cities,985,39,1304,643,661,1303.5,7,12,88,0
+47566,Windaroo Valley State High School,QLD,Government,Secondary,Major Cities,985,39,1192,590,602,1192,5,12,88,0
+40444,Elizabeth College,TAS,Government,Secondary,Inner Regional,997,45,904,467,437,864.4,5,12,76,13
+45715,Notre Dame College,VIC,Catholic,Secondary,Inner Regional,1007,50,1628,804,824,1628,3,12,88,0
+46550,Robina State High School,QLD,Government,Secondary,Major Cities,1021,57,1489,677,812,1489,4,12,88,0
+48135,Kalamunda Senior High School,WA,Government,Secondary,Major Cities,1021,57,1176,669,507,1176,3,12,88,0
+49497,Seaview High School,SA,Government,Secondary,Major Cities,1025,58,879,449,430,862.1,4,12,88,0
+47463,Cleveland District State High School,QLD,Government,Secondary,Major Cities,1028,60,2120,1056,1064,2119.4,5,12,88,0
+47471,Miami State High School,QLD,Government,Secondary,Major Cities,1030,61,1332,673,659,1331.5,3,12,88,0
+48252,Kinross College,WA,Government,Secondary,Major Cities,1033,62,717,326,391,717,2,12,7,81
+45443,Norwood Secondary College,VIC,Government,Secondary,Major Cities,1036,63,1040,505,535,1039.6,1,12,87,0
+49663,Aberfoyle Park High School,SA,Government,Secondary,Major Cities,1037,64,1017,442,575,1017,2,12,88,0
+43267,St Peter's Catholic College,NSW,Catholic,Secondary,Major Cities,1040,65,864,464,400,864,4,12,88,0
+41172,Engadine High School,NSW,Government,Secondary,Major Cities,1043,67,1031,560,471,1031,3,12,88,0
+45909,Clonard College,VIC,Catholic,Secondary,Major Cities,1043,67,919,919,0,918.2,2,12,88,0
+48229,Ocean Reef Senior High School,WA,Government,Secondary,Major Cities,1051,70,1234,586,648,1234,1,12,1,87
+46053,Loyola College,VIC,Catholic,Secondary,Major Cities,1066,75,1360,686,674,1359.4,0,12,88,0
+47866,St Augustine's College,QLD,Catholic,Secondary,Outer Regional,1068,76,790,0,790,790,7,12,88,0
+47920,St Monica's College,QLD,Catholic,Secondary,Outer Regional,1069,76,696,696,0,696,8,12,88,0
+50583,St Benedict's College,QLD,Catholic,Secondary,Major Cities,1067,76,815,414,401,815,2,12,88,0
+49484,Brighton Secondary School,SA,Government,Secondary,Major Cities,1070,77,1608,829,779,1603.8,2,12,88,0
+50591,St John Paul II College,ACT,Catholic,Secondary,Major Cities,1075,78,898,432,466,898,2,12,88,0
+41342,Barrenjoey High School,NSW,Government,Secondary,Major Cities,1077,79,812,385,427,809.8,1,12,88,0
+43322,St Pius X High School,NSW,Catholic,Secondary,Major Cities,1095,84,1012,498,514,1012,2,12,88,0
+45841,Santa Maria College,VIC,Catholic,Secondary,Major Cities,1095,84,890,890,0,890,1,12,88,0
+47867,Brigidine College,QLD,Catholic,Secondary,Major Cities,1120,90,837,837,0,837,2,12,88,0
+47447,The Gap State High School,QLD,Government,Secondary,Major Cities,1129,92,1661,760,901,1661,1,12,88,0
+48247,Clarkson Community High School,WA,Government,Secondary,Major Cities,918,13,325,135,190,325,12,13,2,85
+42694,Young High School,NSW,Government,Secondary,Inner Regional,933,17,556,278,278,556,14,13,87,0
+47525,Kirwan State High School,QLD,Government,Secondary,Outer Regional,942,20,1911,970,941,1910.1,23,13,87,0
+49477,Renmark High School,SA,Government,Secondary,Outer Regional,940,20,468,227,241,464.6,9,13,87,0
+40078,Ogilvie High School,TAS,Government,Secondary,Inner Regional,958,27,647,642,5,644.9,11,13,84,3
+42401,Woolgoolga High School,NSW,Government,Secondary,Inner Regional,959,27,812,384,428,810.4,14,13,87,0
+50450,John Tonkin College,WA,Government,Secondary,Major Cities,979,36,765,399,366,765,8,13,42,44
+50670,Byford Secondary College,WA,Government,Secondary,Major Cities,987,40,1444,748,696,1444,5,13,41,46
+50612,Butler College,WA,Government,Secondary,Major Cities,990,42,1633,771,862,1633,6,13,81,6
+47917,Good Counsel College,QLD,Catholic,Secondary,Outer Regional,996,45,358,179,179,358,10,13,87,0
+52808,Ripley Valley State Secondary College,QLD,Government,Secondary,Major Cities,1002,47,154,74,80,154,6,13,87,0
+45522,Greensborough Secondary College,VIC,Government,Secondary,Major Cities,1004,48,441,183,258,440.8,3,13,87,0
+47439,Redcliffe State High School,QLD,Government,Secondary,Major Cities,1005,49,1492,746,746,1488.2,5,13,87,0
+45674,St Joseph's College Mildura,VIC,Catholic,Secondary,Outer Regional,1008,50,832,446,386,831.2,4,13,88,0
+47883,St Peter Claver College,QLD,Catholic,Secondary,Major Cities,1017,55,1093,600,493,1093,5,13,87,0
+42382,Mullumbimby High School,NSW,Government,Secondary,Inner Regional,1021,56,634,329,305,630.4,5,13,87,0
+45512,Rowville Secondary College,VIC,Government,Secondary,Major Cities,1020,56,1836,886,950,1835.6,1,13,87,0
+49698,Kildare College,SA,Catholic,Secondary,Major Cities,1036,63,610,610,0,610,2,13,87,0
+45355,Belmont High School,VIC,Government,Secondary,Major Cities,1044,67,1285,594,691,1274.6,1,13,87,0
+45853,St Joseph's College Geelong,VIC,Catholic,Secondary,Major Cities,1066,76,1846,0,1846,1844.6,1,13,87,0
+47869,Mary MacKillop College,QLD,Catholic,Secondary,Major Cities,1071,77,610,610,0,610,4,13,87,0
+48892,Christian Brothers' College,WA,Catholic,Secondary,Major Cities,1090,83,826,0,826,826,2,13,87,0
+43756,Australian Performing Arts Grammar School,NSW,Independent,Secondary,Major Cities,1104,86,138,94,44,137.5,4,13,87,0
+42707,Mount Austin High School,NSW,Government,Secondary,Inner Regional,821,3,492,244,248,492,42,14,86,0
+40054,Cosgrove High School,TAS,Government,Secondary,Inner Regional,837,4,224,105,119,224,26,14,84,1
+47550,Thuringowa State High School,QLD,Government,Secondary,Outer Regional,857,5,716,361,355,715.1,39,14,86,0
+47564,Park Ridge State High School,QLD,Government,Secondary,Major Cities,960,27,1511,738,773,1510.8,7,14,86,0
+40111,New Town High School,TAS,Government,Secondary,Inner Regional,969,31,665,5,660,656.2,9,14,84,2
+49488,Le Fevre High School,SA,Government,Secondary,Major Cities,973,33,589,268,321,587.2,12,14,86,0
+47907,Good Shepherd Catholic College,QLD,Catholic,Secondary,Remote,979,36,462,220,242,462,17,14,86,0
+50540,Baldivis Secondary College,WA,Government,Secondary,Major Cities,984,39,1657,808,849,1657,4,14,84,2
+43220,Penola Catholic College Emu Plains,NSW,Catholic,Secondary,Major Cities,1011,52,522,254,268,522,5,14,86,0
+43319,San Clemente High School,NSW,Catholic,Secondary,Major Cities,1012,52,705,360,345,705,9,14,86,0
+47919,St Mary's Catholic College,QLD,Catholic,Secondary,Outer Regional,1031,61,982,509,473,982,7,14,86,0
+43360,Corpus Christi Catholic High School,NSW,Catholic,Secondary,Major Cities,1039,65,1051,539,512,1051,3,14,86,0
+48991,Kolbe Catholic College,WA,Catholic,Secondary,Major Cities,1049,69,1156,599,557,1156,3,14,86,0
+47868,St John Fisher College,QLD,Catholic,Secondary,Major Cities,1054,71,554,554,0,554,4,14,86,0
+40422,Marden Senior College,SA,Government,Secondary,Major Cities,1058,73,631,406,225,429.6,1,14,86,0
+41174,Kirrawee High School,NSW,Government,Secondary,Major Cities,1079,80,1183,620,563,1182.7,2,14,86,0
+43228,St Columba's Catholic College,NSW,Catholic,Secondary,Major Cities,1092,83,980,453,527,980,2,14,86,0
+45644,Presentation College Windsor,VIC,Catholic,Secondary,Major Cities,1091,83,152,152,0,152,0,14,86,0
+45865,Whitefriars College Inc,VIC,Catholic,Secondary,Major Cities,1101,85,1148,0,1148,1148,0,14,86,0
+47870,Loreto College Coorparoo,QLD,Catholic,Secondary,Major Cities,1132,92,883,883,0,883,1,14,83,3
+49127,St George's Anglican Grammar School,WA,Independent,Secondary,Major Cities,1148,95,370,185,185,370,2,14,85,1
+48261,Kalgoorlie-Boulder Community High School,WA,Government,Secondary,Outer Regional,905,10,835,395,440,835,24,15,52,33
+47491,Gordonvale State High School,QLD,Government,Secondary,Outer Regional,918,13,790,405,385,790,30,15,85,0
+47492,Deception Bay State High School,QLD,Government,Secondary,Major Cities,920,13,1140,670,470,967.1,14,15,85,0
+40421,Northern Adelaide Senior College,SA,Government,Secondary,Major Cities,924,14,516,304,212,499.5,10,15,85,0
+48159,Karratha Senior High School,WA,Government,Secondary,Remote,941,20,1208,554,654,1208,25,15,35,50
+48132,Harvey Senior High School,WA,Government,Secondary,Inner Regional,948,23,209,99,110,209,7,15,77,8
+45417,Lynall Hall Community School,VIC,Government,Secondary,Major Cities,957,26,65,23,42,65,11,15,85,0
+47514,Kilcoy State High School,QLD,Government,Secondary,Inner Regional,966,30,450,245,205,450,6,15,85,0
+41840,Jamison High School,NSW,Government,Secondary,Major Cities,968,31,926,489,437,926,10,15,85,0
+45352,Bayswater Secondary College,VIC,Government,Secondary,Major Cities,969,31,214,106,108,213.8,2,15,84,1
+41814,Glenmore Park High School,NSW,Government,Secondary,Major Cities,972,33,972,457,515,971.6,7,15,85,0
+48210,Darling Range Sports College,WA,Government,Secondary,Major Cities,976,35,994,449,545,994,8,15,81,4
+47545,Coombabah State High School,QLD,Government,Secondary,Major Cities,995,44,1195,538,657,1195,6,15,85,0
+41816,Nepean Creative and Performing Arts High School,NSW,Government,Secondary,Major Cities,1001,47,1091,656,435,1090.6,8,15,85,0
+45507,Sunbury Downs Secondary College,VIC,Government,Secondary,Major Cities,1002,47,656,295,361,655.7,3,15,85,1
+47441,Sandgate District State High School,QLD,Government,Secondary,Major Cities,1003,48,1120,541,579,1117.1,7,15,85,0
+50481,Murrumba State Secondary College,QLD,Government,Secondary,Major Cities,1006,49,1730,841,889,1729.4,4,15,85,0
+45422,Matthew Flinders Girls Secondary College,VIC,Government,Secondary,Major Cities,1019,55,608,607,1,603.6,3,15,85,0
+40320,Erindale College,ACT,Government,Secondary,Major Cities,1023,57,626,295,331,616.7,10,15,85,0
+41805,Katoomba High School,NSW,Government,Secondary,Major Cities,1024,58,897,429,468,897,7,15,85,0
+45486,Warrandyte High School,VIC,Government,Secondary,Major Cities,1040,65,383,169,214,381.9,0,15,73,11
+49000,Mater Dei College,WA,Catholic,Secondary,Major Cities,1052,70,831,423,408,831,2,15,85,0
+47886,Clairvaux MacKillop College,QLD,Catholic,Secondary,Major Cities,1059,73,1338,658,680,1338,1,15,85,0
+45712,Kilbreda College,VIC,Catholic,Secondary,Major Cities,1065,75,894,894,0,894,1,15,85,0
+48233,Woodvale Secondary College,WA,Government,Secondary,Major Cities,1065,75,1436,703,733,1436,1,15,83,2
+45970,Mater Christi College,VIC,Catholic,Secondary,Major Cities,1070,77,693,693,0,693,1,15,85,0
+48219,Duncraig Senior High School,WA,Government,Secondary,Major Cities,1076,79,1621,761,860,1621,1,15,78,7
+52592,Beaumaris Secondary College,VIC,Government,Secondary,Major Cities,1101,86,539,221,318,539,1,15,85,0
+43682,Brigidine College St Ives,NSW,Independent,Secondary,Major Cities,1143,95,875,875,0,874.5,0,15,84,1
+40766,Spinifex State College - Mount Isa Education and Training Precinct,QLD,Government,Secondary,Remote,895,8,979,486,493,977.9,36,16,84,0
+42397,Orara High School,NSW,Government,Secondary,Inner Regional,896,8,650,331,319,649.2,25,16,84,0
+47462,Ipswich State High School,QLD,Government,Secondary,Major Cities,931,16,1969,929,1040,1966.6,17,16,84,0
+47469,Beenleigh State High School,QLD,Government,Secondary,Major Cities,943,20,1748,866,882,1712.7,12,16,84,0
+42919,Warilla High School,NSW,Government,Secondary,Major Cities,969,31,1264,581,683,1263.4,8,16,84,0
+48157,Rockingham Senior High School,WA,Government,Secondary,Major Cities,969,32,965,451,514,965,5,16,4,81
+49936,Calwell High School,ACT,Government,Secondary,Major Cities,971,32,403,191,212,403,7,16,84,0
+52805,Yarrabilba State Secondary College,QLD,Government,Secondary,Major Cities,976,35,277,139,138,277,12,16,84,0
+40530,Callaghan College Jesmond Senior Campus,NSW,Government,Secondary,Major Cities,980,37,618,322,296,613.3,11,16,84,0
+45463,Scoresby Secondary College,VIC,Government,Secondary,Major Cities,991,42,277,131,146,277,4,16,84,0
+47454,Everton Park State High School,QLD,Government,Secondary,Major Cities,990,42,404,187,217,404,9,16,84,0
+49539,Modbury High School,SA,Government,Secondary,Major Cities,1006,49,748,299,449,745.8,3,16,84,0
+43210,Bede Polding College,NSW,Catholic,Secondary,Major Cities,1007,50,1120,601,519,1120,4,16,84,0
+46054,Catholic Regional College Melton,VIC,Catholic,Secondary,Major Cities,1009,51,1098,596,502,1098,1,16,84,0
+40728,CathWest Innovation College,NSW,Catholic,Secondary,Major Cities,1015,54,368,117,251,368,5,16,84,0
+48988,St Luke's College,WA,Catholic,Secondary,Remote,1039,65,363,177,186,363,5,16,84,0
+41345,Galston High School,NSW,Government,Secondary,Major Cities,1042,66,612,318,294,612,2,16,84,0
+50245,St Benedict's Catholic College,NSW,Catholic,Secondary,Major Cities,1041,66,974,506,468,974,2,16,84,0
+42404,Byron Bay High School,NSW,Government,Secondary,Inner Regional,1046,68,722,339,383,720.9,3,16,84,0
+43212,Caroline Chisholm College,NSW,Catholic,Secondary,Major Cities,1047,68,1006,1006,0,1006,3,16,84,0
+41164,Cronulla High School,NSW,Government,Secondary,Major Cities,1047,69,1279,634,645,1279,3,16,84,0
+45450,Parkdale Secondary College,VIC,Government,Secondary,Major Cities,1065,75,1815,773,1042,1812.5,1,16,84,0
+40620,Sandringham College,VIC,Government,Secondary,Major Cities,1082,80,933,389,544,929.8,1,16,82,3
+41333,Pittwater High School,NSW,Government,Secondary,Major Cities,1079,80,1106,537,569,1103.2,1,16,84,0
+40084,Taroona High School,TAS,Government,Secondary,Inner Regional,1110,88,1116,504,612,1116,3,16,82,2
+43672,St Scholastica's College Glebe Point,NSW,Independent,Secondary,Major Cities,1127,91,1035,1035,0,1034.2,4,16,84,0
+45857,Siena College Ltd,VIC,Catholic,Secondary,Major Cities,1142,94,799,799,0,799,1,16,84,0
+45454,Princes Hill Secondary College,VIC,Government,Secondary,Major Cities,1150,96,870,399,471,870,1,16,80,4
+48156,Hedland Senior High School,WA,Government,Secondary,Remote,918,13,916,434,482,916,32,17,80,2
+42714,Murray High School,NSW,Government,Secondary,Inner Regional,936,18,690,354,336,690,9,17,83,0
+47521,Dakabin State High School,QLD,Government,Secondary,Major Cities,954,25,1005,505,500,1004.1,8,17,83,0
+42692,Wagga Wagga High School,NSW,Government,Secondary,Inner Regional,968,31,988,518,470,984,9,17,83,0
+49547,Springbank Secondary College,SA,Government,Secondary,Major Cities,992,43,171,66,105,159.6,4,17,83,0
+47443,Pimlico State High School,QLD,Government,Secondary,Outer Regional,1007,50,1662,886,776,1662,10,17,83,0
+52804,Foxwell State Secondary College,QLD,Government,Secondary,Major Cities,1011,52,203,106,97,203,5,17,83,0
+47526,Merrimac State High School,QLD,Government,Secondary,Major Cities,1015,54,1234,611,623,1234,3,17,83,0
+49945,Lake Tuggeranong College,ACT,Government,Secondary,Major Cities,1029,60,644,295,349,624.1,5,17,83,0
+47504,Centenary Heights State High School,QLD,Government,Secondary,Inner Regional,1031,61,1722,840,882,1722,5,17,83,0
+52278,Hammond Park Secondary College,WA,Government,Secondary,Major Cities,1038,64,169,75,94,169,0,17,75,8
+45431,Mordialloc College,VIC,Government,Secondary,Major Cities,1046,68,1077,445,632,1076.6,1,17,83,0
+42120,Lambton High School,NSW,Government,Secondary,Major Cities,1049,69,1169,589,580,1164.8,5,17,83,0
+40617,"De La Salle Catholic College, Cronulla",NSW,Catholic,Secondary,Major Cities,1066,75,449,228,221,449,1,17,83,0
+49949,Mount Stromlo High School,ACT,Government,Secondary,Major Cities,1073,78,757,332,425,756.2,2,17,83,0
+43272,St Paul's Catholic College,NSW,Catholic,Secondary,Major Cities,1081,80,399,0,399,399,1,17,83,0
+49800,Immanuel College,SA,Independent,Secondary,Major Cities,1121,90,985,505,480,985,3,17,82,1
+43677,Stella Maris College,NSW,Independent,Secondary,Major Cities,1128,92,893,893,0,892.7,0,17,83,0
+45334,Peter Lalor Secondary College,VIC,Government,Secondary,Major Cities,892,8,181,66,115,179.2,8,18,82,0
+40045,Brooks High School,TAS,Government,Secondary,Inner Regional,903,9,443,209,234,443,10,18,82,0
+48209,Newman Senior High School,WA,Government,Secondary,Very Remote,911,11,322,153,169,322,30,18,29,53
+47414,Mackay State High School,QLD,Government,Secondary,Inner Regional,954,25,1126,549,577,1125.6,13,18,82,0
+48129,Governor Stirling Senior High School,WA,Government,Secondary,Major Cities,975,34,919,404,515,919,13,18,20,62
+40763,Eastern Goldfields College,WA,Government,Secondary,Outer Regional,986,40,444,227,217,443,14,18,61,21
+47538,Tropical North Learning Academy - Smithfield State High School,QLD,Government,Secondary,Outer Regional,986,40,1235,586,649,1235,12,18,82,0
+43326,John Therry Catholic College,NSW,Catholic,Secondary,Major Cities,992,42,979,432,547,979,11,18,81,1
+41597,Elderslie High School,NSW,Government,Secondary,Major Cities,995,44,1048,554,494,1048,5,18,82,0
+47489,Brisbane Bayside State College,QLD,Government,Secondary,Major Cities,1002,47,949,453,496,949,8,18,82,0
+42930,Karabar High School,NSW,Government,Secondary,Major Cities,1003,48,948,474,474,947.6,10,18,82,0
+45356,Berwick Secondary College,VIC,Government,Secondary,Major Cities,1020,56,1640,791,849,1639.7,1,18,81,1
+47537,Rochedale State High School,QLD,Government,Secondary,Major Cities,1024,58,1553,779,774,1552.6,4,18,82,0
+40939,Trinity College Senior,SA,Independent,Secondary,Major Cities,1038,64,566,282,284,563.1,2,18,81,1
+41348,Narrabeen Sports High School,NSW,Government,Secondary,Major Cities,1038,64,1042,438,604,1040.5,1,18,82,0
+49895,University of Canberra High School Kaleen,ACT,Government,Secondary,Major Cities,1039,65,436,192,244,436,6,18,82,0
+41186,Sydney Distance Education High School,NSW,Government,Secondary,Major Cities,1042,66,582,343,239,525.3,7,18,82,0
+41191,The Jannali High School,NSW,Government,Secondary,Major Cities,1050,70,979,499,480,979,2,18,82,0
+43486,"De La Salle Catholic College, Caringbah",NSW,Catholic,Secondary,Major Cities,1063,74,456,0,456,456,2,18,82,0
+43224,Marian Catholic College,NSW,Catholic,Secondary,Major Cities,1065,75,1022,562,460,1020.7,0,18,82,0
+45958,Ave Maria College,VIC,Catholic,Secondary,Major Cities,1068,76,828,828,0,828,0,18,82,0
+40496,Northern Beaches Secondary College Freshwater Senior Campus,NSW,Government,Secondary,Major Cities,1084,81,632,437,195,630.5,1,18,82,0
+43485,Our Lady of Mercy Catholic College Burraneer,NSW,Catholic,Secondary,Major Cities,1084,81,374,374,0,374,2,18,82,0
+43658,St Mary Star of the Sea College,NSW,Independent,Secondary,Major Cities,1097,84,1099,1099,0,1099,2,18,82,0
+45404,Kensington Community High School,VIC,Government,Secondary,Major Cities,958,27,106,57,49,106,7,19,81,0
+40562,Mildura Senior College,VIC,Government,Secondary,Outer Regional,978,36,933,483,450,931.2,8,19,81,0
+48161,Kelmscott Senior High School,WA,Government,Secondary,Major Cities,983,38,1295,675,620,1295,4,19,81,0
+49526,Seaton High School,SA,Government,Secondary,Major Cities,992,42,869,398,471,868.1,7,19,81,0
+45386,Fairhills High School,VIC,Government,Secondary,Major Cities,993,43,470,244,226,468.1,1,19,80,1
+48215,Wanneroo Secondary College,WA,Government,Secondary,Major Cities,992,43,1176,595,581,1176,4,19,78,3
+48260,Atwell College,WA,Government,Secondary,Major Cities,1013,53,1418,674,744,1418,3,19,33,48
+43327,Mount Carmel Catholic College,NSW,Catholic,Secondary,Major Cities,1032,62,1112,555,557,1112,3,19,80,0
+50155,St Philip's College,NT,Independent,Secondary,Remote,1035,63,645,321,324,645,17,19,81,0
+43659,St Patrick's College Campbelltown,NSW,Independent,Secondary,Major Cities,1048,69,709,709,0,709,5,19,81,0
+41173,Woolooware High School,NSW,Government,Secondary,Major Cities,1060,73,928,462,466,928,1,19,81,0
+47885,St Thomas More College,QLD,Catholic,Secondary,Major Cities,1059,73,1091,528,563,1091,1,19,81,0
+40321,Hawker College,ACT,Government,Secondary,Major Cities,1061,74,440,223,217,436,4,19,80,0
+41344,Davidson High School,NSW,Government,Secondary,Major Cities,1075,78,887,423,464,886.2,1,19,81,0
+48985,Prendiville Catholic College,WA,Catholic,Secondary,Major Cities,1080,80,1133,585,548,1133,1,19,81,0
+48160,Carine Senior High School,WA,Government,Secondary,Major Cities,1090,83,2015,977,1038,2015,1,19,55,26
+48133,John Curtin College Of The Arts,WA,Government,Secondary,Major Cities,1123,91,1761,1065,696,1761,1,19,3,79
+40949,Mungalla Silver Lining School,QLD,Independent,Secondary,Outer Regional,778,2,35,12,23,35,94,20,57,23
+41835,Cambridge Park High School,NSW,Government,Secondary,Major Cities,912,11,691,325,366,690.4,13,20,80,0
+47519,Kingston State College,QLD,Government,Secondary,Major Cities,926,15,951,482,469,928.4,14,20,80,0
+42372,Coffs Harbour High School,NSW,Government,Secondary,Inner Regional,971,33,902,448,454,899.3,9,20,80,0
+49498,Bordertown High School,SA,Government,Secondary,Outer Regional,984,39,215,104,111,209.3,1,20,80,0
+51485,Officer Secondary College,VIC,Government,Secondary,Major Cities,990,42,1065,551,514,1065,1,20,80,0
+50376,Melba Copland Secondary School,ACT,Government,Secondary,Major Cities,1019,56,742,340,402,742,4,20,80,0
+48223,Lesmurdie Senior High School,WA,Government,Secondary,Major Cities,1032,62,1057,527,530,1057,1,20,75,5
+49487,Henley High School,SA,Government,Secondary,Major Cities,1039,65,1316,624,692,1308.6,4,20,80,0
+45326,Box Hill Senior Secondary College,VIC,Government,Secondary,Major Cities,1051,70,338,142,196,338,1,20,46,34
+40330,The Canberra College,ACT,Government,Secondary,Major Cities,1075,78,1119,623,496,1118.6,4,20,80,0
+48232,Leeming Senior High School,WA,Government,Secondary,Major Cities,1074,78,1095,506,589,1093,1,20,80,1
+43268,Mater Maria Catholic College,NSW,Catholic,Secondary,Major Cities,1078,79,1015,515,500,1014.6,1,20,80,0
+45560,Templestowe College,VIC,Government,Secondary,Major Cities,1091,83,1237,546,691,1216,1,20,79,1
+47513,Kenmore State High School,QLD,Government,Secondary,Major Cities,1107,87,1960,971,989,1960,1,20,80,0
+49912,Campbell High School,ACT,Government,Secondary,Major Cities,1106,87,704,329,375,702.5,2,20,80,0
+40332,Daramalan College,ACT,Independent,Secondary,Major Cities,1114,89,1386,613,773,1385.2,1,20,80,0
+43681,Oakhill College Castle Hill,NSW,Independent,Secondary,Major Cities,1116,89,1772,230,1542,1772,1,20,74,6
+43478,Marist Catholic College North Shore,NSW,Catholic,Secondary,Major Cities,1127,91,819,0,819,819,1,20,80,0
+47503,Heatley Secondary College,QLD,Government,Secondary,Outer Regional,881,7,778,370,408,693,35,21,79,0
+49473,Port Augusta Secondary School,SA,Government,Secondary,Outer Regional,882,7,617,284,333,616.3,41,21,79,0
+45532,Wallan Secondary College,VIC,Government,Secondary,Major Cities,968,31,667,331,336,666.3,5,21,79,0
+52266,Aveley Secondary College,WA,Government,Secondary,Major Cities,990,42,806,374,432,806,7,21,78,1
+43629,Marian Catholic College,NSW,Catholic,Secondary,Outer Regional,1008,50,703,356,347,703,3,21,79,0
+51508,Joseph Banks Secondary College,WA,Government,Secondary,Major Cities,1010,51,1513,728,785,1513,3,21,56,23
+48959,La Salle College,WA,Catholic,Secondary,Major Cities,1024,58,1391,683,708,1391,5,21,79,0
+45341,Northern College of the Arts and Technology,VIC,Government,Secondary,Major Cities,1029,60,454,197,257,449.5,1,21,78,0
+41330,Asquith Boys High School,NSW,Government,Secondary,Major Cities,1050,69,586,0,586,584.8,1,21,79,0
+49503,Mitcham Girls High School,SA,Government,Secondary,Major Cities,1077,79,779,779,0,776.6,1,21,79,0
+43493,St Patrick's College Sutherland,NSW,Catholic,Secondary,Major Cities,1089,82,1304,635,669,1302.4,1,21,79,0
+40427,Williamstown High School,VIC,Government,Secondary,Major Cities,1102,86,1543,757,786,1542.3,1,21,79,1
+43119,Walgett Community College - High School,NSW,Government,Secondary,Remote,701,1,117,62,55,117,89,22,78,0
+49509,Playford International College,SA,Government,Secondary,Major Cities,889,7,1149,552,597,1145.5,13,22,78,0
+48222,Cecil Andrews College,WA,Government,Secondary,Major Cities,898,9,788,378,410,788,22,22,78,0
+47511,Bundamba State Secondary College,QLD,Government,Secondary,Major Cities,907,10,974,481,493,974,17,22,78,0
+47433,Harristown State High School,QLD,Government,Secondary,Inner Regional,945,21,1824,921,903,1822.2,16,22,78,0
+49621,Valley View Secondary School,SA,Government,Secondary,Major Cities,957,26,329,164,165,329,8,22,78,0
+52723,Armidale Secondary College,NSW,Government,Secondary,Inner Regional,971,33,1152,552,600,1149.2,17,22,77,0
+48224,Warwick Senior High School,WA,Government,Secondary,Major Cities,976,35,699,354,345,699,9,22,70,8
+40346,O'Loughlin Catholic College,NT,Catholic,Secondary,Outer Regional,1015,54,583,274,309,580.8,15,22,78,0
+42118,Henry Kendall High School,NSW,Government,Secondary,Major Cities,1015,54,810,403,407,808.2,7,22,78,0
+52803,Mango Hill State Secondary College,QLD,Government,Secondary,Major Cities,1035,63,242,123,119,242,4,22,78,0
+40621,St Francis Xavier College,VIC,Catholic,Secondary,Major Cities,1040,65,3296,1583,1713,3296,0,22,78,0
+45936,Emmaus College,VIC,Catholic,Secondary,Major Cities,1067,76,1326,682,644,1326,0,22,78,0
+45868,Our Lady of the Sacred Heart College,VIC,Catholic,Secondary,Major Cities,1091,83,737,737,0,737,0,22,78,0
+43271,St Leo's Catholic College,NSW,Catholic,Secondary,Major Cities,1099,85,756,330,426,756,1,22,78,0
+47446,Murgon State High School,QLD,Government,Secondary,Inner Regional,824,3,371,177,194,371,50,23,77,0
+42909,Corrimal High School,NSW,Government,Secondary,Major Cities,926,15,353,171,182,353,12,23,77,0
+48239,Lakeland Senior High School,WA,Government,Secondary,Major Cities,949,23,581,271,310,581,12,23,61,15
+45482,Carrum Downs Secondary College,VIC,Government,Secondary,Major Cities,970,32,912,412,500,912,2,23,77,0
+49009,Irene McCormack Catholic College,WA,Catholic,Secondary,Major Cities,1022,57,880,438,442,880,3,23,77,0
+48137,Kent Street Senior High School,WA,Government,Secondary,Major Cities,1026,59,1027,416,611,1027,6,23,74,3
+43479,Champagnat Catholic College,NSW,Catholic,Secondary,Major Cities,1028,60,633,0,633,633,7,23,77,0
+47437,Balmoral State High School,QLD,Government,Secondary,Major Cities,1032,61,733,332,401,732.1,6,23,77,0
+48995,Seton Catholic College,WA,Catholic,Secondary,Major Cities,1042,66,993,545,448,993,2,23,77,0
+46354,Alia College,VIC,Independent,Secondary,Major Cities,1043,67,68,32,36,65.7,1,23,77,0
+49897,University of Canberra Senior Secondary College Lake Ginninderra,ACT,Government,Secondary,Major Cities,1052,70,674,319,355,654.8,5,23,77,0
+49884,Belconnen High School,ACT,Government,Secondary,Major Cities,1056,72,523,244,279,523,3,23,77,0
+45390,Frankston High School,VIC,Government,Secondary,Major Cities,1062,74,1959,937,1022,1958.5,1,23,76,0
+45629,Parade College,VIC,Catholic,Secondary,Major Cities,1063,74,1937,0,1937,1937,1,23,77,0
+41337,Ku-ring-gai High School,NSW,Government,Secondary,Major Cities,1079,80,579,289,290,579,1,23,77,0
+45517,Fitzroy High School,VIC,Government,Secondary,Major Cities,1086,81,593,277,316,590.6,1,23,76,1
+47425,Cavendish Road State High School,QLD,Government,Secondary,Major Cities,1095,84,1945,941,1004,1945,3,23,77,0
+50561,Kennedy Baptist College,WA,Independent,Secondary,Major Cities,1100,85,1158,550,608,1158,0,23,77,0
+42122,Callaghan College Waratah Campus,NSW,Government,Secondary,Major Cities,934,17,851,380,471,851,15,24,76,0
+49496,Salisbury High School,SA,Government,Secondary,Major Cities,933,17,858,394,464,858,9,24,76,0
+41826,Kingswood High School,NSW,Government,Secondary,Major Cities,944,21,891,384,507,890.4,12,24,76,0
+42914,Queanbeyan High School,NSW,Government,Secondary,Major Cities,966,30,524,231,293,524,15,24,76,0
+47435,Mitchelton State High School,QLD,Government,Secondary,Major Cities,973,33,480,232,248,479.4,11,24,76,0
+45491,Wheelers Hill Secondary College,VIC,Government,Secondary,Major Cities,1014,53,660,340,320,658.8,1,24,75,2
+48982,John Paul College,WA,Catholic,Secondary,Outer Regional,1017,54,669,332,337,669,4,24,76,0
+47442,Wavell State High School,QLD,Government,Secondary,Major Cities,1017,55,1766,817,949,1766,7,24,76,0
+45484,Wantirna College,VIC,Government,Secondary,Major Cities,1022,57,1419,710,709,1418.6,1,24,76,0
+45337,Chaffey Secondary College,VIC,Government,Secondary,Outer Regional,868,5,489,241,248,488.9,28,25,74,1
+48136,Katanning Senior High School,WA,Government,Secondary,Outer Regional,900,9,326,158,168,326,22,25,40,34
+52607,Palmerston College,NT,Government,Secondary,Outer Regional,903,9,1219,603,616,1218.2,35,25,75,0
+47898,St Saviour's College,QLD,Catholic,Secondary,Inner Regional,965,29,177,177,0,177,26,25,75,0
+52276,Fremantle College,WA,Government,Secondary,Major Cities,985,39,1180,509,671,1180,10,25,54,22
+40406,Catholic Regional College Sydenham,VIC,Catholic,Secondary,Major Cities,1015,53,859,426,433,859,0,25,75,0
+47432,Southport State High School,QLD,Government,Secondary,Major Cities,1025,58,1914,945,969,1914,4,25,75,0
+48134,John Forrest Secondary College,WA,Government,Secondary,Major Cities,1025,58,1114,518,596,1114,4,25,2,72
+46064,Catholic Regional College North Keilor,VIC,Catholic,Secondary,Major Cities,1039,65,644,302,342,644,0,25,75,0
+49011,Emmanuel Catholic College,WA,Catholic,Secondary,Major Cities,1040,65,1098,545,553,1098,1,25,75,0
+41169,Gymea Technology High School,NSW,Government,Secondary,Major Cities,1043,66,654,291,363,651.2,2,25,75,0
+47508,Holland Park State High School,QLD,Government,Secondary,Major Cities,1055,72,694,325,369,692.8,4,25,75,0
+45748,St Columba's College,VIC,Catholic,Secondary,Major Cities,1096,84,1032,1032,0,1032,0,25,75,0
+45976,Avila College,VIC,Catholic,Secondary,Major Cities,1100,85,1094,1094,0,1094,0,25,75,0
+41352,Northern Beaches Secondary College Balgowlah Boys Campus,NSW,Government,Secondary,Major Cities,1114,89,1143,0,1143,1142.7,1,25,75,0
+52653,Bob Hawke College,WA,Government,Secondary,Major Cities,1114,89,272,131,141,272,1,25,43,31
+45442,Northcote High School,VIC,Government,Secondary,Major Cities,1129,92,1833,888,945,1833,1,25,71,4
+42124,Merewether High School,NSW,Government,Secondary,Major Cities,1208,99,1071,496,575,1065.6,2,25,75,0
+52507,Top End School of Flexible Learning,NT,Government,Secondary,Outer Regional,726,1,102,37,65,83.4,87,26,74,0
+50002,Nhulunbuy High School,NT,Government,Secondary,Very Remote,942,20,316,159,157,316,31,26,74,0
+47520,Springwood State High School,QLD,Government,Secondary,Major Cities,977,35,619,302,317,619,5,26,74,0
+47913,St Patrick's College Townsville,QLD,Catholic,Secondary,Outer Regional,984,39,542,542,0,542,26,26,74,0
+42921,Figtree High School,NSW,Government,Secondary,Major Cities,1003,48,967,457,510,964.8,4,26,74,0
+43223,Xavier College,NSW,Catholic,Secondary,Major Cities,1005,49,1030,521,509,1030,6,26,74,0
+47464,Aspley State High School,QLD,Government,Secondary,Major Cities,1007,49,1021,447,574,1021,6,26,74,0
+45459,Ringwood Secondary College,VIC,Government,Secondary,Major Cities,1045,68,1581,822,759,1579.3,1,26,73,1
+42906,Wollongong High School of the Performing Arts,NSW,Government,Secondary,Major Cities,1053,71,1200,775,425,1198,5,26,74,0
+49479,Unley High School,SA,Government,Secondary,Major Cities,1082,80,1240,574,666,1206.6,1,26,74,0
+45760,Our Lady of Mercy College,VIC,Catholic,Secondary,Major Cities,1102,86,1198,1198,0,1197.2,0,26,74,0
+43660,Mount St Benedict College,NSW,Independent,Secondary,Major Cities,1140,94,1112,1112,0,1109.7,0,26,74,0
+48250,Shenton College,WA,Government,Secondary,Major Cities,1160,97,2404,1080,1324,2404,1,26,25,49
+41163,Matraville Sports High School,NSW,Government,Secondary,Major Cities,900,9,345,115,230,343.8,37,27,73,0
+48138,Gilmore College,WA,Government,Secondary,Major Cities,909,11,1185,569,616,1184,14,27,72,0
+42913,Illawarra Sports High School,NSW,Government,Secondary,Major Cities,919,13,810,322,488,809.6,15,27,73,0
+47532,Loganlea State High School,QLD,Government,Secondary,Major Cities,929,15,660,310,350,660,15,27,73,0
+47485,Townsville State High School,QLD,Government,Secondary,Outer Regional,932,16,882,400,482,882,19,27,73,0
+52724,Murrumbidgee Regional High School,NSW,Government,Secondary,Outer Regional,934,17,1218,608,610,1215.8,14,27,73,0
+41810,Seven Hills High School,NSW,Government,Secondary,Major Cities,950,23,318,136,182,318,8,27,73,0
+47417,Toowoomba State High School,QLD,Government,Secondary,Inner Regional,957,26,881,458,423,880.2,10,27,73,0
+49703,Mount Carmel College,SA,Catholic,Secondary,Major Cities,999,46,588,281,307,588,4,27,72,1
+47465,Coorparoo Secondary College,QLD,Government,Secondary,Major Cities,1019,55,394,180,214,392.6,8,27,73,0
+50359,Gungahlin College,ACT,Government,Secondary,Major Cities,1056,72,1162,554,608,1130,2,27,73,0
+43482,Marcellin College,NSW,Catholic,Secondary,Major Cities,1096,84,979,0,979,979,3,27,73,0
+48978,Corpus Christi College,WA,Catholic,Secondary,Major Cities,1101,85,1286,640,646,1286,1,27,73,0
+45557,Melbourne Girls College,VIC,Government,Secondary,Major Cities,1122,91,1490,1490,0,1488.5,0,27,70,3
+48207,Kiara College,WA,Government,Secondary,Major Cities,874,6,487,214,273,487,26,28,72,0
+49566,Salisbury East High School,SA,Government,Secondary,Major Cities,961,28,821,399,422,821,5,28,72,0
+45449,Pakenham Secondary College,VIC,Government,Secondary,Major Cities,965,29,773,380,393,771.9,2,28,71,1
+47543,Browns Plains State High School,QLD,Government,Secondary,Major Cities,963,29,1034,507,527,1034,5,28,72,0
+48256,Ellenbrook Secondary College,WA,Government,Secondary,Major Cities,985,39,1444,732,712,1444,7,28,64,8
+50364,Springfield Central State High School,QLD,Government,Secondary,Major Cities,1020,56,1821,983,838,1821,4,28,72,0
+49924,Melrose High School,ACT,Government,Secondary,Major Cities,1064,75,813,403,410,813,3,28,72,0
+45425,Mentone Girls Secondary College,VIC,Government,Secondary,Major Cities,1079,80,1087,1087,0,1085.8,0,28,71,1
+43676,St Clare's College,NSW,Catholic,Secondary,Major Cities,1101,85,595,595,0,595,2,28,72,0
+41351,Northern Beaches Secondary College Mackellar Girls Campus,NSW,Government,Secondary,Major Cities,1112,88,1296,1296,0,1295.6,1,28,72,0
+40787,Queensland Academy for Creative Industries,QLD,Government,Secondary,Major Cities,1120,90,424,321,103,424,1,28,72,0
+48034,Brisbane Girls Grammar School,QLD,Independent,Secondary,Major Cities,1205,99,1429,1429,0,1429,0,28,72,0
+47541,Woree State High School,QLD,Government,Secondary,Outer Regional,879,6,989,467,522,987.8,42,29,71,0
+52809,Greater Shepparton College (interim name),VIC,Government,Secondary,Inner Regional,941,20,2269,1153,1116,2265.8,11,29,71,0
+46102,Thomas Carr College,VIC,Catholic,Secondary,Major Cities,1037,64,1060,512,548,1060,0,29,71,0
+46121,Catholic Regional College Caroline Springs,VIC,Catholic,Secondary,Major Cities,1043,67,924,458,466,924,0,29,71,0
+52640,Santa Sophia Catholic College (Secondary),NSW,Catholic,Secondary,Major Cities,1073,78,175,86,89,175,2,29,71,0
+52699,Preston High School,VIC,Government,Secondary,Major Cities,1085,81,303,157,146,303,1,29,71,0
+52576,Adelaide Botanic High School,SA,Government,Secondary,Major Cities,1096,84,535,241,294,535,5,29,71,0
+49885,Canberra High School,ACT,Government,Secondary,Major Cities,1104,86,869,419,450,868.4,3,29,71,0
+52381,Alice Miller School,VIC,Independent,Secondary,Inner Regional,1110,88,369,177,192,369,1,29,71,0
+41180,Newtown High School of Performing Arts,NSW,Government,Secondary,Major Cities,1121,90,1099,675,424,1098.1,2,29,71,0
+49911,Alfred Deakin High School,ACT,Government,Secondary,Major Cities,1126,91,883,389,494,881.8,3,29,71,0
+49369,Para Hills High School,SA,Government,Secondary,Major Cities,837,4,494,198,296,493.6,9,30,70,0
+48212,Southern River College,WA,Government,Secondary,Major Cities,935,18,937,431,506,937,9,30,25,45
+45395,Bundoora Secondary College,VIC,Government,Secondary,Major Cities,995,44,336,153,183,336,6,30,70,1
+48981,Lumen Christi College,WA,Catholic,Secondary,Major Cities,1015,54,977,523,454,977,5,30,70,0
+45985,Mercy College,VIC,Catholic,Secondary,Major Cities,1024,58,451,451,0,451,1,30,70,0
+41347,Northern Beaches Secondary College Cromer Campus,NSW,Government,Secondary,Major Cities,1029,60,745,350,395,743.4,2,30,70,0
+46002,MacKillop Catholic Regional College,VIC,Catholic,Secondary,Major Cities,1044,67,1705,834,871,1705,1,30,70,0
+40780,Coburg High School,VIC,Government,Secondary,Major Cities,1062,74,1048,474,574,1048,2,30,70,0
+45383,Elwood College,VIC,Government,Secondary,Major Cities,1099,85,822,364,458,821.8,0,30,69,1
+43481,Brigidine College Randwick,NSW,Catholic,Secondary,Major Cities,1110,88,845,845,0,845,2,30,70,0
+48125,Churchlands Senior High School,WA,Government,Secondary,Major Cities,1120,90,2797,1394,1403,2797,1,30,70,0
+41850,Riverstone High School,NSW,Government,Secondary,Major Cities,943,21,403,184,219,403,12,31,69,0
+45336,Staughton College,VIC,Government,Secondary,Major Cities,959,27,1150,570,580,1148.9,4,31,69,0
+45421,Melba Secondary College,VIC,Government,Secondary,Major Cities,973,33,601,312,289,599.8,1,31,69,0
+49491,Hamilton Secondary College,SA,Government,Secondary,Major Cities,994,44,503,213,290,477.6,6,31,69,0
+47410,Cairns State High School,QLD,Government,Secondary,Outer Regional,1032,62,1669,903,766,1665.4,11,31,69,0
+41346,Muirfield High School,NSW,Government,Secondary,Major Cities,1071,77,848,416,432,847,1,31,69,0
+43492,Aquinas Catholic College,NSW,Catholic,Secondary,Major Cities,1069,77,1079,531,548,1079,1,31,69,0
+52802,Fortitude Valley State Secondary College,QLD,Government,Secondary,Major Cities,1093,84,137,61,76,137,5,31,69,0
+41340,Pennant Hills High School,NSW,Government,Secondary,Major Cities,1106,87,1063,469,594,1062.1,1,31,69,0
+45344,Victorian College Of The Arts Secondary School,VIC,Government,Secondary,Major Cities,1134,93,402,249,153,396.4,0,31,69,0
+41830,Chifley College Dunheved Campus,NSW,Government,Secondary,Major Cities,850,4,377,190,187,377,29,32,68,0
+48217,Yule Brook College,WA,Government,Secondary,Major Cities,866,5,289,122,167,289,37,32,16,52
+47440,Keebra Park State High School,QLD,Government,Secondary,Major Cities,980,37,914,366,548,914,7,32,68,0
+41845,Erskine Park High School,NSW,Government,Secondary,Major Cities,982,38,1015,505,510,1014.2,4,32,68,0
+48131,Hampton Senior High School,WA,Government,Secondary,Major Cities,984,39,821,431,390,821,4,32,43,25
+40646,Wyndham College,NSW,Government,Secondary,Major Cities,992,43,631,324,307,629.2,9,32,68,0
+47423,Craigslea State High School,QLD,Government,Secondary,Major Cities,1050,69,1086,538,548,1085.6,4,32,68,0
+45338,Bentleigh Secondary College,VIC,Government,Secondary,Major Cities,1064,75,1030,438,592,1028.2,1,32,68,0
+41326,Asquith Girls High School,NSW,Government,Secondary,Major Cities,1070,77,722,722,0,720.4,1,32,68,0
+45964,Mount St Joseph Girls' College,VIC,Catholic,Secondary,Major Cities,1070,77,1056,1056,0,1055.5,0,32,68,0
+43217,Gilroy Catholic College,NSW,Catholic,Secondary,Major Cities,1078,79,1284,685,599,1284,1,32,68,0
+45735,St Aloysius College,VIC,Catholic,Secondary,Major Cities,1082,80,445,445,0,445,0,32,68,0
+49915,Dickson College,ACT,Government,Secondary,Major Cities,1090,83,709,334,375,708.2,3,32,67,1
+52698,Prahran High School,VIC,Government,Secondary,Major Cities,1093,84,215,99,116,215,1,32,68,0
+48117,Applecross Senior High School,WA,Government,Secondary,Major Cities,1110,88,1665,845,820,1665,0,32,52,16
+45365,Camberwell High School,VIC,Government,Secondary,Major Cities,1123,91,1173,347,826,1171.7,0,32,61,7
+43269,Mercy Catholic College,NSW,Catholic,Secondary,Major Cities,1128,92,706,706,0,706,0,32,67,1
+41831,Chifley College Shalvey Campus,NSW,Government,Secondary,Major Cities,828,3,409,198,211,409,33,33,67,0
+41605,Holsworthy High School,NSW,Government,Secondary,Major Cities,989,41,587,282,305,585.6,5,33,67,0
+41846,Quakers Hill High School,NSW,Government,Secondary,Major Cities,996,45,833,417,416,833,5,33,67,0
+41610,Elizabeth Macarthur High School,NSW,Government,Secondary,Major Cities,1002,48,1324,684,640,1324,5,33,67,0
+48254,Canning Vale College,WA,Government,Secondary,Major Cities,1027,59,1459,708,751,1459,2,33,60,7
+41157,Port Hacking High School,NSW,Government,Secondary,Major Cities,1054,71,1190,602,588,1189.4,2,33,67,0
+45519,Mullauna Secondary College,VIC,Government,Secondary,Major Cities,1054,71,498,232,266,496.9,1,33,67,0
+48902,Chisholm Catholic College,WA,Catholic,Secondary,Major Cities,1074,78,1674,840,834,1674,1,33,67,0
+49489,Marryatville High School,SA,Government,Secondary,Major Cities,1105,86,1368,696,672,1364,1,33,67,0
+50267,Albert Park College,VIC,Government,Secondary,Major Cities,1116,89,1444,671,773,1444,1,33,67,0
+45366,Canterbury Girls Secondary College,VIC,Government,Secondary,Major Cities,1122,90,1018,1018,0,1016.6,0,33,32,35
+48040,Wadja Wadja High School,QLD,Independent,Secondary,Remote,592,0,76,33,43,76,100,34,66,0
+40339,Centralian Senior College,NT,Government,Secondary,Remote,907,10,430,222,208,417.4,48,34,66,0
+45504,Kurunjang Secondary College,VIC,Government,Secondary,Major Cities,939,19,915,444,471,915,2,34,66,0
+45392,North Geelong Secondary College,VIC,Government,Secondary,Major Cities,948,22,1041,455,586,1039.1,4,34,66,0
+49486,Findon High School,SA,Government,Secondary,Major Cities,958,26,253,110,143,246.2,7,34,66,0
+46161,Bayview College,VIC,Independent,Secondary,Outer Regional,1015,53,232,117,115,230.6,4,34,66,0
+45420,Maribyrnong Secondary College,VIC,Government,Secondary,Major Cities,1029,60,1281,576,705,1281,1,34,65,1
+45379,Doncaster Secondary College,VIC,Government,Secondary,Major Cities,1061,74,1494,700,794,1494,0,34,66,0
+48141,Melville Senior High School,WA,Government,Secondary,Major Cities,1064,75,1402,675,727,1402,3,34,51,15
+52703,Richmond High School,VIC,Government,Secondary,Major Cities,1075,78,343,107,236,343,2,34,65,1
+45550,Viewbank College,VIC,Government,Secondary,Major Cities,1108,87,1432,676,756,1430,0,34,66,0
+45362,Brighton Secondary College,VIC,Government,Secondary,Major Cities,1115,89,1205,514,691,1203.3,0,34,65,1
+42933,Smiths Hill High School,NSW,Government,Secondary,Major Cities,1202,99,728,327,401,727.8,1,34,66,0
+48205,Girrawheen Senior High School,WA,Government,Secondary,Major Cities,901,9,436,214,222,436,21,35,9,56
+41607,Ambarvale High School,NSW,Government,Secondary,Major Cities,917,13,769,374,395,768.6,13,35,65,0
+40623,Hallam Senior Secondary College,VIC,Government,Secondary,Major Cities,966,30,693,298,395,631.8,2,35,65,0
+41579,Mount Annan High School,NSW,Government,Secondary,Major Cities,980,37,927,452,475,926.6,5,35,65,0
+45508,Forest Hill College,VIC,Government,Secondary,Major Cities,1035,63,620,256,364,620,2,35,64,1
+47466,Aviation High,QLD,Government,Secondary,Major Cities,1036,64,553,178,375,553,3,35,65,0
+46003,St James College,VIC,Catholic,Secondary,Major Cities,1072,77,350,0,350,350,1,35,65,0
+47434,Kedron State High School,QLD,Government,Secondary,Major Cities,1075,78,1671,781,890,1670.2,2,35,65,0
+48152,Como Secondary College,WA,Government,Secondary,Major Cities,1078,79,867,403,464,867,3,35,30,35
+40683,Australian Science and Mathematics School,SA,Government,Secondary,Major Cities,1083,81,365,151,214,355.7,1,35,65,0
+49920,Lyneham High School,ACT,Government,Secondary,Major Cities,1140,94,1081,512,569,1081,2,35,65,0
+45480,Kambrya College,VIC,Government,Secondary,Major Cities,1024,58,1609,760,849,1608.5,1,36,64,0
+41185,Menai High School,NSW,Government,Secondary,Major Cities,1046,68,1261,639,622,1260.5,2,36,64,0
+43473,Our Lady of the Sacred Heart College,NSW,Catholic,Secondary,Major Cities,1057,72,841,841,0,841,4,36,64,0
+48144,Mount Lawley Senior High School,WA,Government,Secondary,Major Cities,1100,85,1896,939,957,1896,2,36,62,2
+41331,Mosman High School,NSW,Government,Secondary,Major Cities,1128,92,1063,507,556,1059.6,0,36,64,0
+41842,St Clair High School,NSW,Government,Secondary,Major Cities,935,18,653,317,336,653,9,37,63,0
+45932,St John's Regional College,VIC,Catholic,Secondary,Major Cities,1002,47,694,321,373,694,1,37,63,0
+41581,Picnic Point High School,NSW,Government,Secondary,Major Cities,1003,48,984,425,559,982.8,4,37,63,0
+48213,Greenwood College,WA,Government,Secondary,Major Cities,1033,62,1071,558,513,1071,1,37,29,34
+47217,Centenary State High School,QLD,Government,Secondary,Major Cities,1046,68,1662,788,874,1662,3,37,63,0
+41332,The Forest High School,NSW,Government,Secondary,Major Cities,1047,69,799,334,465,798.8,2,37,63,0
+47529,Benowa State High School,QLD,Government,Secondary,Major Cities,1059,73,1978,1073,905,1978,2,37,63,0
+40700,University Senior College at Adelaide University,SA,Independent,Secondary,Major Cities,1077,79,449,269,180,447.6,0,37,63,0
+45357,Blackburn High School,VIC,Government,Secondary,Major Cities,1082,80,1342,601,741,1340.4,0,37,62,0
+45364,Buckley Park College,VIC,Government,Secondary,Major Cities,1080,80,995,460,535,994.6,1,37,62,0
+45704,Academy of Mary Immaculate,VIC,Catholic,Secondary,Major Cities,1083,81,670,670,0,670,0,37,63,0
+41179,Sydney Secondary College Leichhardt Campus,NSW,Government,Secondary,Major Cities,1105,86,938,349,589,938,3,37,63,0
+48166,Broome Senior High School,WA,Government,Secondary,Remote,931,16,828,399,429,828,36,38,36,26
+45372,Cranbourne Secondary College,VIC,Government,Secondary,Major Cities,933,17,1428,720,708,1427.9,2,38,61,0
+40500,Casuarina Senior College,NT,Government,Secondary,Outer Regional,968,31,897,431,466,885,26,38,62,0
+45340,Rosehill Secondary College,VIC,Government,Secondary,Major Cities,1013,53,1115,513,602,1115,1,38,61,0
+41170,Endeavour Sports High School,NSW,Government,Secondary,Major Cities,1017,55,1111,406,705,1109,7,38,62,0
+46079,Nazareth College,VIC,Catholic,Secondary,Major Cities,1028,60,650,286,364,650,1,38,62,0
+41815,Rouse Hill High School,NSW,Government,Secondary,Major Cities,1047,68,926,462,464,925.4,1,38,62,0
+49713,Mary MacKillop College,SA,Catholic,Secondary,Major Cities,1059,73,408,408,0,408,1,38,62,0
+49470,Norwood Morialta High School,SA,Government,Secondary,Major Cities,1061,74,1455,626,829,1454.6,1,38,62,0
+45405,Kew High School,VIC,Government,Secondary,Major Cities,1096,84,1134,448,686,1132.9,1,38,62,0
+43501,Marist Sisters' College Woolwich,NSW,Catholic,Secondary,Major Cities,1105,86,1004,1004,0,1004,1,38,62,0
+41339,Turramurra High School,NSW,Government,Secondary,Major Cities,1125,91,1223,518,705,1220,1,38,62,0
+47554,Marsden State High School,QLD,Government,Secondary,Major Cities,942,20,2829,1339,1490,2829,9,39,61,0
+45328,Lyndhurst Secondary College,VIC,Government,Secondary,Major Cities,945,21,609,297,312,609,3,39,61,0
+52458,Bellbird Park State Secondary College,QLD,Government,Secondary,Major Cities,953,25,1163,588,575,1163,11,39,61,0
+48158,Thornlie Senior High School,WA,Government,Secondary,Major Cities,972,33,1164,571,593,1164,6,39,7,54
+42932,Keira High School,NSW,Government,Secondary,Major Cities,995,44,897,439,458,893.4,4,39,61,0
+52813,Footscray Learning Precinct Secondary College (interim name),VIC,Government,Secondary,Major Cities,1024,58,1436,666,770,1435.2,1,39,60,0
+45469,Strathmore Secondary College,VIC,Government,Secondary,Major Cities,1078,79,1911,878,1033,1911,1,39,61,0
+41323,Hunters Hill High School,NSW,Government,Secondary,Major Cities,1086,81,774,313,461,772.8,1,39,61,0
+41594,Airds High School,NSW,Government,Secondary,Major Cities,861,5,471,211,260,470.2,27,40,60,0
+41599,Leumeah High School,NSW,Government,Secondary,Major Cities,954,25,734,344,390,733.8,8,40,60,0
+41558,Campbelltown Performing Arts High School,NSW,Government,Secondary,Major Cities,961,28,1099,670,429,1098.6,9,40,60,0
+40905,St John Paul II Catholic College,NSW,Catholic,Secondary,Major Cities,1036,64,1006,500,506,1006,2,40,60,0
+47874,Our Lady's College,QLD,Catholic,Secondary,Major Cities,1048,69,311,311,0,311,1,40,60,0
+50140,Darwin Middle School,NT,Government,Secondary,Outer Regional,1064,75,866,460,406,866,5,40,60,0
+41832,Model Farms High School,NSW,Government,Secondary,Major Cities,1069,76,1138,535,603,1137.6,1,40,60,0
+45632,St Mary's College Melbourne,VIC,Catholic,Secondary,Major Cities,1073,78,474,0,474,474,0,40,60,0
+43497,Marist College Eastwood,NSW,Catholic,Secondary,Major Cities,1105,86,869,0,869,869,0,40,60,0
+50001,Katherine High School,NT,Government,Secondary,Remote,853,4,539,264,275,537.7,54,41,59,0
+50141,Centralian Middle School,NT,Government,Secondary,Remote,841,4,321,155,166,321,55,41,59,0
+41611,Thomas Reddall High School,NSW,Government,Secondary,Major Cities,932,16,495,211,284,495,11,41,59,0
+48208,Lynwood Senior High School,WA,Government,Secondary,Major Cities,980,37,1417,643,774,1417,5,41,49,10
+48911,Aranmore Catholic College,WA,Catholic,Secondary,Major Cities,992,42,709,342,367,709,7,41,59,0
+43471,Casimir Catholic College,NSW,Catholic,Secondary,Major Cities,1034,63,712,321,391,712,3,41,59,0
+48942,St Norbert College,WA,Catholic,Secondary,Major Cities,1046,68,913,479,434,913,2,41,59,0
+41824,Colyton High School,NSW,Government,Secondary,Major Cities,908,10,770,368,402,770,11,42,58,0
+41822,The Hills Sports High School,NSW,Government,Secondary,Major Cities,959,27,878,334,544,874.8,7,42,58,0
+50000,Dripstone Middle School,NT,Government,Secondary,Outer Regional,975,34,523,252,271,508.6,23,42,58,0
+47243,Forest Lake State High School,QLD,Government,Secondary,Major Cities,988,41,1574,740,834,1574,6,42,58,0
+47450,Mount Gravatt State High School,QLD,Government,Secondary,Major Cities,1071,77,1249,644,605,1249,1,42,58,0
+45518,Ashwood High School,VIC,Government,Secondary,Major Cities,1073,78,568,251,317,568,1,42,57,1
+45479,Vermont Secondary College,VIC,Government,Secondary,Major Cities,1097,85,1521,780,741,1520.4,0,42,58,0
+41183,Rose Bay Secondary College,NSW,Government,Secondary,Major Cities,1112,88,1344,624,720,1342.8,1,42,58,0
+41595,James Meehan High School,NSW,Government,Secondary,Major Cities,871,6,313,146,167,313,17,43,57,0
+41820,Doonside High School,NSW,Government,Secondary,Major Cities,912,11,646,304,342,645.4,15,43,57,0
+45424,Melton Secondary College,VIC,Government,Secondary,Major Cities,952,24,1213,611,602,1211.6,3,43,57,0
+46096,Penola Catholic College,VIC,Catholic,Secondary,Major Cities,982,38,1466,616,850,1466,1,43,57,0
+48258,Ashdale Secondary College,WA,Government,Secondary,Major Cities,1034,63,1730,788,942,1730,1,43,51,5
+45979,Emmanuel College,VIC,Catholic,Secondary,Major Cities,1059,73,2070,644,1426,2070,0,43,57,0
+43208,St Mark's Catholic College,NSW,Catholic,Secondary,Major Cities,1080,80,1020,516,504,1020,1,43,57,0
+45545,Brunswick Secondary College,VIC,Government,Secondary,Major Cities,1100,85,988,485,503,985.9,0,43,56,0
+45346,Wyndham Central Secondary College,VIC,Government,Secondary,Major Cities,919,13,1255,594,661,1254.6,4,44,55,1
+47552,Redbank Plains State High School,QLD,Government,Secondary,Major Cities,925,14,1569,783,786,1569,9,44,56,0
+49608,Parafield Gardens High School,SA,Government,Secondary,Major Cities,946,22,1004,473,531,1002.6,6,44,56,0
+45500,Hoppers Crossing Secondary College,VIC,Government,Secondary,Major Cities,972,33,1522,770,752,1522,1,44,56,0
+49723,Thomas More College,SA,Catholic,Secondary,Major Cities,984,39,916,460,456,916,1,44,56,1
+52269,Harrisdale Senior High School,WA,Government,Secondary,Major Cities,1041,66,1258,637,621,1258,2,44,53,4
+45375,Mount Alexander 7-12 College,VIC,Government,Secondary,Major Cities,1047,69,507,215,292,506,1,44,45,11
+41190,Dulwich High School of Visual Arts and Design,NSW,Government,Secondary,Major Cities,1069,76,894,412,482,893.2,4,44,56,0
+40441,Sydney Secondary College Blackwattle Bay Campus,NSW,Government,Secondary,Major Cities,1081,80,804,310,494,803,2,44,56,0
+41176,Sydney Secondary College Balmain Campus,NSW,Government,Secondary,Major Cities,1112,88,754,297,457,754,3,44,56,0
+48120,Belmont City College,WA,Government,Secondary,Major Cities,962,29,908,436,472,908,10,45,4,52
+49483,Woodville High School,SA,Government,Secondary,Major Cities,968,31,1036,492,544,1035.2,9,45,55,0
+41829,Kellyville High School,NSW,Government,Secondary,Major Cities,1061,74,976,437,539,975,1,45,55,0
+41839,Crestwood High School,NSW,Government,Secondary,Major Cities,1072,77,1020,485,535,1019.7,2,45,55,0
+41329,Riverside Girls High School,NSW,Government,Secondary,Major Cities,1102,86,855,855,0,853.4,1,45,55,0
+43664,Rosebank College,NSW,Independent,Secondary,Major Cities,1103,86,1392,697,695,1392,1,45,55,0
+41338,Killarney Heights High School,NSW,Government,Secondary,Major Cities,1117,89,940,398,542,938.7,0,45,55,0
+51454,Cammeraygal High School,NSW,Government,Secondary,Major Cities,1130,92,770,336,434,769.8,0,45,55,0
+47431,Indooroopilly State High School,QLD,Government,Secondary,Major Cities,1134,93,2336,1126,1210,2334.1,1,45,55,0
+47451,Trinity Bay State High School,QLD,Government,Secondary,Outer Regional,912,11,1788,814,974,1786.8,32,46,54,0
+45394,Gladstone Park Secondary College,VIC,Government,Secondary,Major Cities,996,44,1640,831,809,1639.4,0,46,54,0
+48951,Servite College,WA,Catholic,Secondary,Major Cities,1036,63,1009,468,541,1009,1,46,54,0
+52780,Homestead Senior Secondary College,VIC,Government,Secondary,Major Cities,1044,67,149,68,81,149,1,46,54,0
+40337,Darwin High School,NT,Government,Secondary,Outer Regional,1045,68,1242,677,565,1234.9,6,46,54,0
+46231,Nunawading Christian College - Secondary,VIC,Independent,Secondary,Major Cities,1094,84,190,90,100,190,0,46,54,0
+52827,Inner Sydney High School,NSW,Government,Secondary,Major Cities,1098,85,147,65,82,147,3,46,54,0
+41349,Northern Beaches Secondary College Manly Campus,NSW,Government,Secondary,Major Cities,1222,99,795,327,468,794.8,1,46,54,0
+41838,Chifley College Bidwill Campus,NSW,Government,Secondary,Major Cities,867,5,651,312,339,651,22,47,53,0
+41606,Eagle Vale High School,NSW,Government,Secondary,Major Cities,892,8,504,228,276,504,10,47,53,0
+40338,Northern Territory School of Distance Education,NT,Government,Secondary,Outer Regional,915,12,99,69,30,75,48,47,53,0
+48245,Ballajura Community College,WA,Government,Secondary,Major Cities,977,35,1216,589,627,1216,6,47,53,0
+45543,Essendon Keilor College,VIC,Government,Secondary,Major Cities,992,42,675,272,403,675,1,47,52,0
+45533,Thornbury High School,VIC,Government,Secondary,Major Cities,1041,66,1077,497,580,1048.1,3,47,52,0
+42090,Gosford High School,NSW,Government,Secondary,Major Cities,1153,96,1058,497,561,1057.1,1,47,53,0
+41159,Caringbah High School,NSW,Government,Secondary,Major Cities,1178,98,912,363,549,909.3,0,47,53,0
+47540,Mabel Park State High School,QLD,Government,Secondary,Major Cities,901,9,1373,648,725,1372.1,15,48,52,0
+41575,Ingleburn High School,NSW,Government,Secondary,Major Cities,946,22,647,329,318,647,10,48,52,0
+43216,Emmaus Catholic College,NSW,Catholic,Secondary,Major Cities,996,44,781,402,379,781,2,48,52,0
+45527,Taylors Lakes Secondary College,VIC,Government,Secondary,Major Cities,999,46,1443,749,694,1443,1,48,51,0
+40900,Caroline Chisholm Catholic College,VIC,Catholic,Secondary,Major Cities,1011,52,1398,617,781,1398,0,48,52,0
+41182,South Sydney High School,NSW,Government,Secondary,Major Cities,1012,52,639,261,378,638.5,3,48,52,0
+45368,Cheltenham Secondary College,VIC,Government,Secondary,Major Cities,1047,69,928,366,562,926.4,1,48,51,1
+43229,St Patrick's Marist College,NSW,Catholic,Secondary,Major Cities,1074,78,1028,516,512,1028,1,48,52,0
+49453,Adelaide High School,SA,Government,Secondary,Major Cities,1081,80,1465,690,775,1463.6,3,48,52,0
+41827,Chifley College Mount Druitt Campus,NSW,Government,Secondary,Major Cities,867,5,512,229,283,512,19,49,51,0
+45406,Koonung Secondary College,VIC,Government,Secondary,Major Cities,1091,83,1047,452,595,1046.3,0,49,51,0
+41335,St Ives High School,NSW,Government,Secondary,Major Cities,1122,90,1112,468,644,1108.5,1,49,51,0
+47408,Brisbane State High School,QLD,Government,Secondary,Major Cities,1150,96,3350,1572,1778,3350,1,49,51,0
+42925,Warrawong High School,NSW,Government,Secondary,Major Cities,895,8,541,263,278,541,12,50,50,0
+41834,Plumpton High School,NSW,Government,Secondary,Major Cities,944,21,999,505,494,998.8,11,50,50,0
+41608,Robert Townson High School,NSW,Government,Secondary,Major Cities,951,24,760,368,392,759.4,4,50,50,0
+52828,Oran Park High School,NSW,Government,Secondary,Major Cities,993,43,279,132,147,279,5,50,50,0
+46087,St Peter's College,VIC,Catholic,Secondary,Major Cities,1031,61,1637,815,822,1637,1,50,50,0
+45996,Mazenod College,VIC,Catholic,Secondary,Major Cities,1076,79,1442,0,1442,1442,0,50,50,0
+50684,Auburn High School,VIC,Government,Secondary,Major Cities,1151,96,562,204,358,562,0,50,50,1
+45626,John Fawkner Secondary College,VIC,Government,Secondary,Major Cities,939,19,341,97,244,340.5,1,51,49,0
+47546,Runcorn State High School,QLD,Government,Secondary,Major Cities,967,30,878,424,454,878,5,51,49,0
+45384,Epping Secondary College,VIC,Government,Secondary,Major Cities,975,34,1240,602,638,1239.4,3,51,49,0
+45604,Alkira Secondary College,VIC,Government,Secondary,Major Cities,1000,46,1483,717,766,1482.3,1,51,48,0
+43498,Domremy Catholic College,NSW,Catholic,Secondary,Major Cities,1078,79,604,604,0,604,1,51,49,0
+41334,Castle Hill High School,NSW,Government,Secondary,Major Cities,1112,88,1965,963,1002,1962.8,1,51,49,0
+47918,Mount St Bernard College,QLD,Catholic,Secondary,Outer Regional,800,2,164,102,62,164,76,52,48,0
+49540,Underdale High School,SA,Government,Secondary,Major Cities,993,43,548,239,309,542.6,3,52,48,0
+41809,Northmead Creative and Performing Arts High School,NSW,Government,Secondary,Major Cities,1024,58,1103,565,538,1099.1,2,52,48,0
+43472,"De La Salle College, Revesby Heights",NSW,Catholic,Secondary,Major Cities,1055,71,628,0,628,628,1,52,48,0
+41155,Randwick Girls High School,NSW,Government,Secondary,Major Cities,1074,78,934,934,0,932.2,1,52,48,0
+45436,Mckinnon Secondary College,VIC,Government,Secondary,Major Cities,1118,90,2281,1068,1213,2281,0,52,48,0
+49517,Glenunga International High School,SA,Government,Secondary,Major Cities,1142,94,1842,858,984,1798.9,0,52,48,0
+40436,Chifley College Senior Campus,NSW,Government,Secondary,Major Cities,905,10,492,238,254,492,21,53,47,0
+50003,Nightcliff Middle School,NT,Government,Secondary,Outer Regional,976,35,365,175,190,358.6,22,53,47,0
+45599,Gleneagles Secondary College,VIC,Government,Secondary,Major Cities,978,36,1515,753,762,1488.3,1,53,47,0
+40786,Point Cook Senior Secondary College,VIC,Government,Secondary,Major Cities,1018,55,839,394,445,838.8,1,53,46,2
+41175,Sylvania High School,NSW,Government,Secondary,Major Cities,1031,61,801,392,409,801,3,53,47,0
+43480,Marist Catholic College Penshurst,NSW,Catholic,Secondary,Major Cities,1085,81,1000,486,514,1000,1,53,47,0
+48148,Perth Modern School,WA,Government,Secondary,Major Cities,1237,99,1428,615,813,1428,0,53,31,16
+40446,Sevenoaks Senior College,WA,Government,Secondary,Major Cities,978,35,445,204,241,445,7,54,28,18
+45963,Marian College,VIC,Catholic,Secondary,Major Cities,995,44,828,828,0,828,0,54,46,0
+45524,Mill Park Secondary College,VIC,Government,Secondary,Major Cities,998,46,1384,704,680,1382.8,2,54,46,0
+47449,Corinda State High School,QLD,Government,Secondary,Major Cities,1020,56,2075,1047,1028,2074.3,2,54,46,0
+40447,North Lake Senior Campus,WA,Government,Secondary,Major Cities,1025,58,397,204,193,389.2,2,54,2,43
+43500,Holy Cross College,NSW,Catholic,Secondary,Major Cities,1056,72,698,0,698,697.4,2,54,46,0
+45870,Salesian College,VIC,Catholic,Secondary,Major Cities,1080,80,1133,0,1133,1133,0,54,46,0
+45627,William Ruthven Secondary College,VIC,Government,Secondary,Major Cities,960,27,394,186,208,394,4,55,44,1
+45498,Reservoir High School,VIC,Government,Secondary,Major Cities,976,35,690,317,373,689.8,7,55,44,1
+48119,Balcatta Senior High School,WA,Government,Secondary,Major Cities,1024,58,686,381,305,686,3,55,45,0
+45495,Glen Eira College,VIC,Government,Secondary,Major Cities,1101,85,832,379,453,830,0,55,45,0
+45359,Box Hill High School,VIC,Government,Secondary,Major Cities,1126,91,1376,580,796,1373.3,0,55,45,0
+45414,Lalor North Secondary College,VIC,Government,Secondary,Major Cities,948,22,359,176,183,359,1,56,42,2
+41821,Mitchell High School,NSW,Government,Secondary,Major Cities,975,34,1001,460,541,1000.3,4,56,44,0
+46123,Kolbe Catholic College,VIC,Catholic,Secondary,Major Cities,975,34,1010,500,510,1010,0,56,44,0
+50278,Cranbourne East Secondary College,VIC,Government,Secondary,Major Cities,982,38,1539,781,758,1539,1,56,43,1
+45631,Simonds Catholic College,VIC,Catholic,Secondary,Major Cities,1019,55,416,0,416,416,1,56,44,0
+43504,Clancy Catholic College,NSW,Catholic,Secondary,Major Cities,1044,67,1220,633,587,1220,1,56,44,0
+45361,Brentwood Secondary College,VIC,Government,Secondary,Major Cities,1080,80,1686,781,905,1686,0,56,44,0
+47453,Mansfield State High School,QLD,Government,Secondary,Major Cities,1107,87,3137,1630,1507,3137,1,56,44,0
+48216,Willetton Senior High School,WA,Government,Secondary,Major Cities,1119,90,2539,1224,1315,2539,0,56,11,33
+41322,Willoughby Girls High School,NSW,Government,Secondary,Major Cities,1134,93,968,968,0,966.4,0,56,44,0
+41343,Killara High School,NSW,Government,Secondary,Major Cities,1153,96,1674,636,1038,1672.6,0,56,44,0
+41851,Rooty Hill High School,NSW,Government,Secondary,Major Cities,961,28,1117,590,527,1117,5,57,43,0
+50354,Roma Mitchell Secondary College,SA,Government,Secondary,Major Cities,976,35,1345,657,688,1345,6,57,43,0
+41817,Greystanes High School,NSW,Government,Secondary,Major Cities,1001,47,1039,444,595,1038.4,3,57,43,0
+40615,St Monica's College,VIC,Catholic,Secondary,Major Cities,1047,68,1977,974,1003,1977,0,57,43,0
+45399,Highvale Secondary College,VIC,Government,Secondary,Major Cities,1086,82,1009,475,534,1009,0,57,43,1
+40322,Narrabundah College,ACT,Government,Secondary,Major Cities,1113,88,927,524,403,927,1,57,43,0
+47853,St James College,QLD,Catholic,Secondary,Major Cities,985,39,500,163,337,500,4,58,36,6
+50156,Yirara College,NT,Independent,Secondary,Remote,570,0,197,86,111,197,100,59,1,41
+45528,Sunshine College,VIC,Government,Secondary,Major Cities,939,19,1153,470,683,1153,2,59,39,2
+40689,Copperfield College,VIC,Government,Secondary,Major Cities,959,27,2232,1069,1163,2230.5,1,59,41,0
+52594,Springside West Secondary College,VIC,Government,Secondary,Major Cities,1026,59,755,373,382,754.3,0,59,40,0
+41181,Marrickville High School,NSW,Government,Secondary,Major Cities,1053,71,469,141,328,469,4,59,41,0
+41154,Randwick Boys High School,NSW,Government,Secondary,Major Cities,1063,74,635,0,635,634.9,2,59,41,0
+41187,Canterbury Girls High School,NSW,Government,Secondary,Major Cities,1064,75,763,763,0,760.6,2,59,41,0
+40815,Queensland Academy for Health Sciences,QLD,Government,Secondary,Major Cities,1106,87,420,243,177,420,1,59,41,0
+45600,Fountain Gate Secondary College,VIC,Government,Secondary,Major Cities,949,23,1375,686,689,1345.4,1,60,40,0
+45501,Keilor Downs Secondary College,VIC,Government,Secondary,Major Cities,1003,48,1387,646,741,1386.9,0,60,39,1
+47507,MacGregor State High School,QLD,Government,Secondary,Major Cities,1018,55,1211,666,545,1211,3,60,40,0
+45539,South Oakleigh Secondary College,VIC,Government,Secondary,Major Cities,1028,60,588,260,328,585.8,0,60,39,1
+49787,Prescott College,SA,Independent,Secondary,Major Cities,1030,61,235,111,124,235,0,60,39,0
+41813,Glenwood High School,NSW,Government,Secondary,Major Cities,1064,75,1403,689,714,1403,1,60,40,0
+40448,Cyril Jackson Senior Campus,WA,Government,Secondary,Major Cities,979,36,539,282,257,472.4,2,61,37,2
+43227,Patrician Brothers' College Blacktown,NSW,Catholic,Secondary,Major Cities,1016,54,1062,0,1062,1062,3,61,39,0
+51473,The Ponds High School,NSW,Government,Secondary,Major Cities,1081,80,1769,849,920,1769,1,61,39,0
+45434,Mount Waverley Secondary College,VIC,Government,Secondary,Major Cities,1104,86,1841,881,960,1841,0,61,37,2
+48151,Rossmoyne Senior High School,WA,Government,Secondary,Major Cities,1125,91,2311,1180,1131,2311,0,61,37,2
+40350,St John's Catholic College,NT,Catholic,Secondary,Outer Regional,911,11,191,95,96,191,36,62,38,0
+47467,Sunnybank State High School,QLD,Government,Secondary,Major Cities,930,16,676,317,359,676,8,62,38,0
+41818,Pendle Hill High School,NSW,Government,Secondary,Major Cities,943,21,395,171,224,395,8,62,38,0
+48154,Morley Senior High School,WA,Government,Secondary,Major Cities,1011,52,1058,463,595,1058,1,62,26,12
+43661,Mount St Joseph Milperra,NSW,Catholic,Secondary,Major Cities,1050,70,859,859,0,859,2,62,38,0
+43213,Catherine McAuley Westmead,NSW,Catholic,Secondary,Major Cities,1076,79,1204,1204,0,1203.4,1,62,38,0
+45475,University High School,VIC,Government,Secondary,Major Cities,1129,92,1636,751,885,1633.7,1,62,38,0
+45496,Craigieburn Secondary College,VIC,Government,Secondary,Major Cities,938,19,1151,518,633,1151,1,63,37,0
+41602,Sarah Redfern High School,NSW,Government,Secondary,Major Cities,942,20,670,326,344,670,10,63,37,0
+47448,Yeronga State High School,QLD,Government,Secondary,Major Cities,942,20,786,366,420,786,4,63,37,0
+41171,Georges River College Peakhurst Campus,NSW,Government,Secondary,Major Cities,999,46,852,311,541,852,3,63,37,0
+45906,Killester College,VIC,Catholic,Secondary,Major Cities,1002,48,943,943,0,942,0,63,38,0
+50199,Lakeview Senior College,VIC,Government,Secondary,Major Cities,1013,52,1011,513,498,1011,1,63,37,0
+45922,Sacred Heart Girls' College,VIC,Catholic,Secondary,Major Cities,1099,85,986,986,0,986,0,63,37,0
+48153,Balga Senior High School,WA,Government,Secondary,Major Cities,875,6,572,259,313,571.4,20,64,35,0
+48143,Dianella Secondary College,WA,Government,Secondary,Major Cities,934,17,550,278,272,550,6,64,36,0
+49704,Our Lady of the Sacred Heart College,SA,Catholic,Secondary,Major Cities,977,35,422,422,0,420.4,1,64,35,1
+50222,Southern Cross Catholic Vocational College,NSW,Catholic,Secondary,Major Cities,1025,58,150,62,88,149.5,3,64,36,0
+51470,St Luke's Catholic College (Secondary),NSW,Catholic,Secondary,Major Cities,1063,74,235,104,131,235,3,64,36,0
+43226,Parramatta Marist High School,NSW,Catholic,Secondary,Major Cities,1083,81,1051,0,1051,1051,0,64,36,0
+41327,Marsden High School,NSW,Government,Secondary,Major Cities,1025,58,877,332,545,874.2,3,65,35,0
+43476,St Ursula's College,NSW,Catholic,Secondary,Major Cities,1086,81,1103,1103,0,1103,0,65,35,0
+41353,Epping Boys High School,NSW,Government,Secondary,Major Cities,1114,89,1349,0,1349,1348.5,0,65,35,0
+43211,St Clare's Catholic High School,NSW,Catholic,Secondary,Major Cities,972,33,557,288,269,557,6,66,34,0
+43475,Bethany College,NSW,Catholic,Secondary,Major Cities,1069,77,1048,1048,0,1048,1,66,34,0
+41153,Burwood Girls High School,NSW,Government,Secondary,Major Cities,1093,83,1149,1149,0,1145.7,1,66,34,0
+47914,St Teresa's College,QLD,Catholic,Secondary,Remote,683,1,143,0,143,143,100,67,33,0
+41585,Ashcroft High School,NSW,Government,Secondary,Major Cities,885,7,570,274,296,568,14,67,33,0
+41582,Westfields Sports High School,NSW,Government,Secondary,Major Cities,978,36,1636,692,944,1634.1,4,67,33,0
+40438,St Marys Senior High School,NSW,Government,Secondary,Major Cities,1046,68,909,569,340,906.7,1,67,33,0
+41350,Cherrybrook Technology High School,NSW,Government,Secondary,Major Cities,1137,94,2013,869,1144,2012.2,0,67,33,0
+41580,John Edmondson High School,NSW,Government,Secondary,Major Cities,975,34,1165,577,588,1164.8,3,68,32,0
+40309,Thebarton Senior College,SA,Government,Secondary,Major Cities,984,39,1084,587,497,926.8,1,68,32,0
+43218,St Paul's Catholic College,NSW,Catholic,Secondary,Major Cities,1038,65,789,0,789,789,1,68,32,0
+40828,John Monash Science School,VIC,Government,Secondary,Major Cities,1101,86,661,325,336,659.4,0,68,32,0
+41823,Evans High School,NSW,Government,Secondary,Major Cities,942,20,653,340,313,652.2,6,69,31,0
+45621,Victoria University Secondary College,VIC,Government,Secondary,Major Cities,962,28,995,438,557,995,1,69,30,1
+47194,Glenala State High School,QLD,Government,Secondary,Major Cities,906,10,887,423,464,887,12,70,30,0
+41165,J J Cahill Memorial High School,NSW,Government,Secondary,Major Cities,976,35,320,141,179,320,6,70,30,0
+52779,Elevation Secondary College,VIC,Government,Secondary,Major Cities,980,37,146,70,76,146,4,70,30,0
+45488,Werribee Secondary College,VIC,Government,Secondary,Major Cities,1032,62,1582,770,812,1581.6,1,70,30,0
+43477,Marist College Kogarah,NSW,Catholic,Secondary,Major Cities,1065,75,1035,0,1035,1035,1,70,30,0
+41178,Tempe High School,NSW,Government,Secondary,Major Cities,1074,78,936,391,545,934.1,3,70,30,0
+41324,Cheltenham Girls High School,NSW,Government,Secondary,Major Cities,1141,94,1423,1423,0,1420.2,0,70,30,0
+45413,Lalor Secondary College,VIC,Government,Secondary,Major Cities,955,25,1112,563,549,1111.7,1,71,29,0
+43225,Nagle College,NSW,Catholic,Secondary,Major Cities,1031,61,741,741,0,741,2,71,29,0
+41600,Concord High School,NSW,Government,Secondary,Major Cities,1067,76,1262,466,796,1262,2,71,29,0
+43214,St Agnes Catholic High School,NSW,Catholic,Secondary,Major Cities,990,41,813,448,365,811.1,3,72,28,0
+43221,St Andrews College,NSW,Catholic,Secondary,Major Cities,1054,71,1058,502,556,1058,1,72,28,0
+41336,Ryde Secondary College,NSW,Government,Secondary,Major Cities,1101,85,1237,548,689,1236.6,1,72,28,0
+45351,Balwyn High School,VIC,Government,Secondary,Major Cities,1131,92,2207,951,1256,2204.6,0,72,27,0
+41152,Conservatorium High School,NSW,Government,Secondary,Major Cities,1189,99,153,95,58,151.5,0,72,28,0
+45499,Hampton Park Secondary College,VIC,Government,Secondary,Major Cities,914,12,1147,577,570,1143.1,2,73,27,0
+41177,Fort Street High School,NSW,Government,Secondary,Major Cities,1183,99,919,319,600,917.6,0,73,27,0
+43489,Good Samaritan Catholic College,NSW,Catholic,Secondary,Major Cities,1014,53,1326,694,632,1326,2,74,26,0
+52591,Edgars Creek Secondary College,VIC,Government,Secondary,Major Cities,1015,54,441,217,224,441,2,74,25,1
+40681,Georges River College Oatley Senior Campus,NSW,Government,Secondary,Major Cities,1029,60,752,384,368,750.3,1,74,26,0
+41189,Ashfield Boys High School,NSW,Government,Secondary,Major Cities,1045,68,737,0,737,737,1,74,26,0
+47509,Woodridge State High School,QLD,Government,Secondary,Major Cities,889,7,1327,685,642,1326.1,7,75,25,0
+45625,Glenroy Secondary College,VIC,Government,Secondary,Major Cities,917,12,426,146,280,426,2,75,25,0
+45377,East Doncaster Secondary College,VIC,Government,Secondary,Major Cities,1095,84,1622,733,889,1620.4,0,75,25,0
+40764,Queensland Academy for Science Mathematics and Technology,QLD,Government,Secondary,Major Cities,1221,99,1052,518,534,1051.8,0,75,25,0
+41561,East Hills Girls Technology High School,NSW,Government,Secondary,Major Cities,1019,56,962,962,0,961.4,1,76,24,0
+41592,Casula High School,NSW,Government,Secondary,Major Cities,957,26,1101,513,588,1101,4,77,23,0
+41193,James Cook Boys High School,NSW,Government,Secondary,Major Cities,997,45,311,0,311,311,3,77,23,0
+41596,Moorebank High School,NSW,Government,Secondary,Major Cities,1020,56,1061,530,531,1060.4,2,77,23,0
+43496,"De La Salle College, Ashfield",NSW,Catholic,Secondary,Major Cities,1032,62,406,0,406,406,3,77,23,0
+50005,Sanderson Middle School,NT,Government,Secondary,Outer Regional,880,6,395,179,216,395,39,78,22,0
+45487,Wellington Secondary College,VIC,Government,Secondary,Major Cities,1000,47,1888,831,1057,1887.3,0,78,22,0
+41849,Cumberland High School,NSW,Government,Secondary,Major Cities,1051,70,778,327,451,777.6,2,78,22,0
+43683,Our Lady of Mercy College Parramatta,NSW,Independent,Secondary,Major Cities,1119,90,1061,1061,0,1061,0,78,21,1
+41567,Bass High School,NSW,Government,Secondary,Major Cities,911,11,620,272,348,619.6,4,79,21,0
+41591,James Busby High School,NSW,Government,Secondary,Major Cities,917,12,671,287,384,671,6,79,21,0
+45476,Roxburgh College,VIC,Government,Secondary,Major Cities,921,13,1339,627,712,1338.4,2,79,21,0
+43495,Bethlehem College,NSW,Catholic,Secondary,Major Cities,1042,66,569,569,0,569,2,79,21,0
+43484,Freeman Catholic College,NSW,Catholic,Secondary,Major Cities,1047,68,1366,690,676,1366,1,79,21,0
+41328,Chatswood High School,NSW,Government,Secondary,Major Cities,1119,90,1565,588,977,1561.7,0,79,21,0
+41593,Hoxton Park High School,NSW,Government,Secondary,Major Cities,944,21,808,367,441,808,4,80,20,0
+43219,Delany College,NSW,Catholic,Secondary,Major Cities,985,39,375,169,206,375,1,80,20,0
+50459,Tarneit Senior College,VIC,Government,Secondary,Major Cities,995,44,722,349,373,721.7,1,80,19,1
+50007,Tennant Creek High School,NT,Government,Secondary,Very Remote,737,2,196,88,108,193.6,78,81,19,0
+45473,Thomastown Secondary College,VIC,Government,Secondary,Major Cities,929,16,600,295,305,599.9,2,81,18,1
+45452,Pascoe Vale Girls Secondary College,VIC,Government,Secondary,Major Cities,978,36,996,996,0,996,1,81,19,0
+41192,Georges River College Penshurst Girls Campus,NSW,Government,Secondary,Major Cities,1029,60,530,530,0,530,2,81,19,0
+41341,Carlingford High School,NSW,Government,Secondary,Major Cities,1113,88,1383,527,856,1381,0,81,19,0
+50190,Hume Central Secondary College,VIC,Government,Secondary,Major Cities,893,8,1186,508,678,1186,1,82,17,0
+45595,Keysborough Secondary College,VIC,Government,Secondary,Major Cities,937,18,1859,893,966,1858.6,1,82,17,1
+45416,Lyndale Secondary College,VIC,Government,Secondary,Major Cities,942,20,874,451,423,874,1,82,18,0
+41609,Bossley Park High School,NSW,Government,Secondary,Major Cities,977,35,1388,660,728,1386.6,1,82,18,0
+41160,Moorefield Girls High School,NSW,Government,Secondary,Major Cities,1005,49,314,314,0,314,2,82,18,0
+43483,La Salle Catholic College,NSW,Catholic,Secondary,Major Cities,1007,50,851,286,565,851,0,82,18,0
+41584,Miller High School,NSW,Government,Secondary,Major Cities,880,6,718,369,349,717.8,5,83,17,0
+41587,Lurnea High School,NSW,Government,Secondary,Major Cities,905,10,698,304,394,697.4,4,83,17,0
+41569,Sir Joseph Banks High School,NSW,Government,Secondary,Major Cities,951,24,717,216,501,717,3,83,17,0
+41562,East Hills Boys High School,NSW,Government,Secondary,Major Cities,1003,48,830,0,830,829.6,1,83,17,0
+43474,Trinity Catholic College,NSW,Catholic,Secondary,Major Cities,1006,49,1257,577,680,1257,1,83,17,0
+43215,Cerdon College,NSW,Catholic,Secondary,Major Cities,1038,64,1093,1093,0,1092.5,1,83,17,0
+41156,Kingsgrove North High School,NSW,Government,Secondary,Major Cities,984,39,861,331,530,861,2,84,16,0
+43488,Patrician Brothers' College Fairfield,NSW,Catholic,Secondary,Major Cities,985,39,1158,0,1158,1158,1,84,16,0
+41158,Blakehurst High School,NSW,Government,Secondary,Major Cities,1026,59,1061,453,608,1061,1,84,16,0
+41603,Macquarie Fields High School,NSW,Government,Secondary,Major Cities,1064,75,1115,531,584,1114,2,84,16,0
+41604,Prairiewood High School,NSW,Government,Secondary,Major Cities,978,35,1234,586,648,1231.8,1,85,15,0
+41162,Kingsgrove High School,NSW,Government,Secondary,Major Cities,978,36,822,295,527,822,1,85,15,0
+45360,Braybrook College,VIC,Government,Secondary,Major Cities,955,25,1398,663,735,1398,1,86,14,0
+41578,Cecil Hills High School,NSW,Government,Secondary,Major Cities,991,42,1462,717,745,1457.9,1,86,14,0
+41808,Blacktown Girls High School,NSW,Government,Secondary,Major Cities,1020,56,800,800,0,798.3,3,86,14,0
+45423,Melbourne High School,VIC,Government,Secondary,Major Cities,1166,98,1359,0,1359,1357.8,0,86,14,0
+41319,Hornsby Girls High School,NSW,Government,Secondary,Major Cities,1205,99,721,721,0,720,0,86,14,0
+41568,Merrylands High School,NSW,Government,Secondary,Major Cities,929,16,878,409,469,877.6,2,87,13,0
+41147,Canterbury Boys High School,NSW,Government,Secondary,Major Cities,982,38,356,0,356,356,3,87,13,0
+43499,Holy Spirit Catholic College,NSW,Catholic,Secondary,Major Cities,1000,47,933,455,478,933,1,87,12,1
+41812,Blacktown Boys High School,NSW,Government,Secondary,Major Cities,1040,65,715,0,715,715,2,87,13,0
+41325,Normanhurst Boys High School,NSW,Government,Secondary,Major Cities,1207,99,743,0,743,742.7,0,87,13,0
+45551,Noble Park Secondary College,VIC,Government,Secondary,Major Cities,943,21,481,213,268,481,1,88,12,0
+45437,MacRobertson Girls High School,VIC,Government,Secondary,Major Cities,1165,97,1042,1042,0,1042,0,88,12,0
+41570,Strathfield South High School,NSW,Government,Secondary,Major Cities,930,16,650,246,404,650,1,89,11,0
+41557,Liverpool Girls High School,NSW,Government,Secondary,Major Cities,942,20,786,786,0,785.2,2,89,11,0
+46035,Catholic Regional College St Albans,VIC,Catholic,Secondary,Major Cities,947,22,505,219,286,505,0,89,11,0
+45466,St Albans Secondary College,VIC,Government,Secondary,Major Cities,956,26,1569,775,794,1569,1,89,11,0
+45490,Westall Secondary College,VIC,Government,Secondary,Major Cities,962,28,600,307,293,599.3,1,89,11,1
+41188,Georges River College Hurstville Boys Campus,NSW,Government,Secondary,Major Cities,1000,47,346,0,346,346,1,89,11,0
+45546,Glen Waverley Secondary College,VIC,Government,Secondary,Major Cities,1116,89,1962,901,1061,1960.6,0,89,10,0
+45594,Nossal High School,VIC,Government,Secondary,Major Cities,1138,94,833,394,439,831.2,0,89,8,3
+41150,Sydney Girls High School,NSW,Government,Secondary,Major Cities,1204,99,923,923,0,922.9,0,89,11,0
+41588,Holroyd High School,NSW,Government,Secondary,Major Cities,913,11,559,240,319,559,2,90,10,0
+41560,Liverpool Boys High School,NSW,Government,Secondary,Major Cities,917,13,527,0,527,518.8,2,90,10,0
+45588,Dandenong High School,VIC,Government,Secondary,Major Cities,911,11,1603,782,821,1603,0,91,9,0
+43494,Mary MacKillop Catholic College,NSW,Catholic,Secondary,Major Cities,938,18,900,900,0,900,0,91,9,0
+41848,Arthur Phillip High School,NSW,Government,Secondary,Major Cities,968,31,1113,363,750,1112.2,1,91,9,0
+41555,Homebush Boys High School,NSW,Government,Secondary,Major Cities,1045,68,1075,0,1075,1075,0,91,9,0
+41556,Strathfield Girls High School,NSW,Government,Secondary,Major Cities,1073,78,1069,1069,0,1068.4,0,91,9,0
+41554,Hurlstone Agricultural High School,NSW,Government,Secondary,Major Cities,1124,91,985,417,568,984.6,0,91,9,0
+41590,Fairvale High School,NSW,Government,Secondary,Major Cities,931,16,1499,728,771,1499,1,92,8,0
+41574,Bonnyrigg High School,NSW,Government,Secondary,Major Cities,965,30,1688,860,828,1687.5,2,92,8,0
+50301,Suzanne Cory High School,VIC,Government,Secondary,Major Cities,1136,93,901,414,487,901,0,92,8,0
+41148,St George Girls High School,NSW,Government,Secondary,Major Cities,1153,96,929,929,0,928.4,0,92,8,0
+41806,Penrith High School,NSW,Government,Secondary,Major Cities,1177,98,915,404,511,913.9,0,92,8,0
+41149,Sydney Boys High School,NSW,Government,Secondary,Major Cities,1183,99,1207,0,1207,1204.7,0,92,8,0
+41321,North Sydney Girls High School,NSW,Government,Secondary,Major Cities,1212,99,912,912,0,910.8,0,92,8,0
+41589,Granville South Creative and Performing Arts High School,NSW,Government,Secondary,Major Cities,893,8,615,297,318,606.6,1,93,7,0
+41577,Chester Hill High School,NSW,Government,Secondary,Major Cities,926,15,1329,662,667,1328.6,1,93,7,0
+41598,St Johns Park High School,NSW,Government,Secondary,Major Cities,932,17,933,439,494,929.3,2,93,7,0
+41168,Kogarah High School,NSW,Government,Secondary,Major Cities,980,37,842,338,504,842,0,93,7,0
+41847,Macarthur Girls High School,NSW,Government,Secondary,Major Cities,1056,72,1198,1198,0,1196.6,0,93,7,0
+41586,Condell Park High School,NSW,Government,Secondary,Major Cities,934,17,931,350,581,931,0,94,6,0
+41151,Sydney Technical High School,NSW,Government,Secondary,Major Cities,1124,91,914,0,914,911.6,0,94,6,0
+41320,North Sydney Boys High School,NSW,Government,Secondary,Major Cities,1197,99,915,0,915,915,0,94,6,0
+41601,Fairfield High School,NSW,Government,Secondary,Major Cities,880,6,1169,511,658,1169,1,95,5,0
+41614,Birrong Girls High School,NSW,Government,Secondary,Major Cities,951,24,830,830,0,829.8,1,95,5,0
+41576,Sefton High School,NSW,Government,Secondary,Major Cities,1028,60,1066,473,593,1066,0,95,5,0
+41828,Baulkham Hills High School,NSW,Government,Secondary,Major Cities,1203,99,1231,541,690,1230.3,0,95,5,0
+41833,Girraween High School,NSW,Government,Secondary,Major Cities,1187,99,755,327,428,754.7,0,95,5,0
+41564,Birrong Boys High School,NSW,Government,Secondary,Major Cities,916,12,372,0,372,372,2,96,4,0
+41583,Canley Vale High School,NSW,Government,Secondary,Major Cities,952,24,1574,797,777,1570.9,0,96,4,0
+41573,Beverly Hills Girls High School,NSW,Government,Secondary,Major Cities,990,41,1023,990,33,1022,1,96,4,0
+41804,Parramatta High School,NSW,Government,Secondary,Major Cities,1106,87,1024,398,626,1022.4,0,96,4,0
+41563,Cabramatta High School,NSW,Government,Secondary,Major Cities,928,15,1557,759,798,1557,1,97,3,0
+50380,Alpha Omega Senior College,NSW,Independent,Secondary,Major Cities,1062,74,507,213,294,507,0,97,3,0
+41811,James Ruse Agricultural High School,NSW,Government,Secondary,Major Cities,1240,99,854,389,465,853.9,0,97,3,0
+40638,Bankstown Senior College,NSW,Government,Secondary,Major Cities,878,6,554,282,272,550.8,0,98,2,0
+41613,Granville Boys High School,NSW,Government,Secondary,Major Cities,929,16,497,0,497,496.6,0,98,2,0
+41615,Wiley Park Girls High School,NSW,Government,Secondary,Major Cities,937,18,501,501,0,501,0,98,2,0
+43807,St Narsai Assyrian Christian College,NSW,Independent,Secondary,Major Cities,936,18,639,362,277,639,0,98,1,1
+41612,Belmore Boys High School,NSW,Government,Secondary,Major Cities,944,21,431,0,431,431,0,98,2,0
+41571,Auburn Girls High School,NSW,Government,Secondary,Major Cities,948,22,784,784,0,783.5,0,98,2,0
+41572,Bankstown Girls High School,NSW,Government,Secondary,Major Cities,946,22,550,550,0,550,0,98,2,0
+41559,Punchbowl Boys High School,NSW,Government,Secondary,Major Cities,922,14,479,0,479,479,0,99,1,0
+49664,Adelaide Secondary School of English,SA,Government,Secondary,Major Cities,949,23,318,144,174,318,0,99,1,0
+50146,Xavier Catholic College,NT,Catholic,Secondary,Remote,585,0,71,43,28,71,97,100,0,0
+47424,Milpera State High School,QLD,Government,Secondary,Major Cities,940,19,226,107,119,226,0,100,0,0
+50477,MacKillop Catholic College,NT,Catholic,Secondary,Outer Regional,987,40,766,357,409,763.4,14,100,0,0
+41167,Central Sydney Intensive English High School,NSW,Government,Secondary,Major Cities,1033,62,109,55,54,109,0,100,0,0

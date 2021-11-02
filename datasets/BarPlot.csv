@@ -1,0 +1,77 @@
+﻿,Average_sleep_before_lockdown,Wake-up_times_before_lockdown,Times_before_asleep_before_lockdown,Alarm_before_lockdown,Average_sleep_during_lockdown,Wake-up_times_during_lockdown,Times_before_asleep_during_lockdown,Alarm_during_lockdown
+1,7,None,30-60,Yes,6,1-2,Over 60,Yes
+2,7,None,0-30,Yes,6,None,0-30,Yes
+3,7,None,0-30,Yes,8,None,0-30,Yes
+4,7,None,30-60,Yes,7,None,30-60,Yes
+5,9,1-2,0-30,Yes,5,3-4,30-60,Yes
+6,7,1-2,0-30,Yes,8,1-2,30-60,Yes
+7,7,1-2,30-60,Yes,8,1-2,Over 60,No
+8,9,None,0-30,Yes,9,1-2,0-30,Yes
+9,7,1-2,0-30,No,7,1-2,0-30,No
+10,5,None,Immediately,No,9,1-2,30-60,Yes
+11,6,1-2,0-30,Yes,6,1-2,0-30,Yes
+12,10,None,0-30,Yes,10,None,0-30,No
+13,9,None,0-30,Yes,9,None,0-30,No
+14,7,1-2,Immediately,Yes,7,3-4,0-30,Yes
+15,6,None,0-30,Yes,7,None,Immediately,Yes
+16,8,None,Over 60,Yes,9,1-2,Over 60,Yes
+17,9,1-2,30-60,Yes,9,1-2,30-60,Yes
+18,6,None,0-30,Yes,6,None,0-30,Yes
+19,7,None,30-60,Yes,7,None,30-60,Yes
+20,7,1-2,30-60,Yes,6,1-2,Over 60,Yes
+21,7,Over 4,30-60,Yes,8,Over 4,30-60,Yes
+22,4,None,Over 60,Yes,4,None,Over 60,Yes
+23,7,None,0-30,No,7,None,0-30,No
+24,7,None,0-30,No,6,None,0-30,Yes
+25,6,1-2,Over 60,Yes,9,1-2,Over 60,No
+26,7,None,0-30,Yes,7,None,0-30,Yes
+27,7,1-2,Over 60,No,7,1-2,Over 60,No
+28,8,None,0-30,Yes,8,None,0-30,Yes
+29,7,None,0-30,Yes,9,None,0-30,Yes
+30,8,None,Immediately,Yes,8,None,Immediately,Yes
+31,8,None,0-30,Yes,8,None,0-30,Yes
+32,6,1-2,30-60,Yes,7,1-2,30-60,Yes
+33,6,None,0-30,Yes,6,None,0-30,Yes
+34,8,None,Immediately,Yes,8,1-2,0-30,Yes
+35,7,None,0-30,Yes,7,None,0-30,Yes
+36,7,None,0-30,Yes,8,None,0-30,Yes
+37,7,1-2,30-60,No,9,3-4,Over 60,No
+38,8,None,Over 60,Yes,7,None,Over 60,Yes
+39,7,1-2,Immediately,Yes,7,1-2,Immediately,No
+40,6,None,0-30,No,6,None,0-30,No
+41,8,1-2,0-30,No,8,1-2,0-30,No
+42,7,None,0-30,Yes,7,None,Immediately,Yes
+43,8,1-2,0-30,Yes,6,Over 4,Over 60,Yes
+44,4,None,Over 60,Yes,7,1-2,0-30,Yes
+45,7,None,0-30,Yes,7,None,0-30,Yes
+46,7,1-2,0-30,No,9,3-4,Over 60,Yes
+47,5,None,0-30,No,5,None,0-30,No
+48,10,None,Immediately,Yes,10,None,Immediately,Yes
+49,6,None,Immediately,Yes,6,None,Immediately,Yes
+50,7,1-2,30-60,Yes,7,3-4,30-60,Yes
+51,9,None,0-30,Yes,10,None,30-60,No
+52,6,1-2,0-30,Yes,8,1-2,Immediately,No
+53,8,1-2,0-30,No,5,None,0-30,No
+54,8,None,0-30,No,8,1-2,30-60,Yes
+55,6,1-2,Over 60,Yes,6,1-2,Over 60,Yes
+56,5,1-2,0-30,Yes,8,1-2,Immediately,Yes
+57,8,None,30-60,Yes,8,None,30-60,Yes
+58,6,None,0-30,Yes,6,None,0-30,Yes
+59,7,1-2,0-30,No,8,1-2,0-30,Yes
+60,8,None,0-30,Yes,8,None,0-30,Yes
+61,7,None,0-30,No,9,1-2,Over 60,No
+62,7,1-2,0-30,Yes,7,3-4,0-30,Yes
+63,8,None,0-30,No,6,None,30-60,No
+64,8,None,Immediately,Yes,10,None,Immediately,No
+65,8,1-2,0-30,Yes,10,1-2,0-30,Yes
+66,6,None,0-30,Yes,6,None,0-30,Yes
+67,8,1-2,Over 60,Yes,8,1-2,Over 60,Yes
+68,8,None,0-30,Yes,8,None,0-30,Yes
+69,5,None,0-30,Yes,5,None,0-30,Yes
+70,7,None,Immediately,Yes,6,None,Immediately,Yes
+71,6,1-2,Immediately,Yes,6,1-2,Immediately,Yes
+72,8,None,Over 60,Yes,6,Over 4,Over 60,Yes
+73,7,None,0-30,Yes,8,None,0-30,Yes
+74,8,None,0-30,Yes,10,1-2,0-30,Yes
+75,7,None,Immediately,No,7,1-2,30-60,Yes
+76,8,None,0-30,Yes,10,None,0-30,Yes

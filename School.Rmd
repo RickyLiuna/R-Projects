@@ -24,7 +24,7 @@ body {
 
 # Full Report
 
-In this report, I decided to interrogate Group 9's previous works, providing additional commentary on one of their research questions and additionally examining one new question.
+In this report, I decided to interrogate previous works on student data, providing additional commentary on one of their research questions and additionally examining one new question.
 
 ```{r, results=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
